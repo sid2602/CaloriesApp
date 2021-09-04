@@ -1,0 +1,21 @@
+version: "3.8"
+networks:
+  nesjs-network:
+services:
+  calories-app-backend:
+    container_name: calories-app-backend
+    build:
+      context: ./calories-app-backend
+      dockerfile: Dockerfile
+    working_dir: /calories-app-backend
+    ports:
+      - "3000:3000"
+      - "9229:9229"
+    networks:
+      - nesjs-network
+    volumes:
+      - "./calories-app-backend:/calories-app-backend"
+    command: >
+      bash -c -e "
+        npm install &&
+        npm run start:dev"
