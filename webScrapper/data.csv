@@ -1,1794 +1,1750 @@
-Żywność,Porcja,Kalorie,Jednostka wagi,Jednostka kalorii,Kategoria
-Acai,100,70,g,kcal,owoce
-Agrest,100,44,g,kcal,owoce
-Ananas,100,50,g,kcal,owoce
-Arbuz,100,30,g,kcal,owoce
-Awokado,100,160,g,kcal,owoce
-Banan,100,89,g,kcal,owoce
-Banan rajski,100,122,g,kcal,owoce
-Brzoskwinia,100,39,g,kcal,owoce
-Cytryna,100,29,g,kcal,owoce
-Czereśnie,100,63,g,kcal,owoce
-Daktyle,100,282,g,kcal,owoce
-Dżakfrut,100,95,g,kcal,owoce
-Figi,100,74,g,kcal,owoce
-Granat,100,83,g,kcal,owoce
-Gruszka,100,57,g,kcal,owoce
-Gujawa,100,68,g,kcal,owoce
-Jabłko,100,52,g,kcal,owoce
-Jagody,100,57,g,kcal,owoce
-Jagodzian rambutan,100,82,g,kcal,owoce
-Jeżyna,100,43,g,kcal,owoce
-Kantalupa,100,34,g,kcal,owoce
-Karambola,100,31,g,kcal,owoce
-Kiwi,100,61,g,kcal,owoce
-Klementynki,100,47,g,kcal,owoce
-Liczi,100,66,g,kcal,owoce
-Limonka,100,30,g,kcal,owoce
-Maliny,100,52,g,kcal,owoce
-Mandarynki,100,53,g,kcal,owoce
-Mango,100,60,g,kcal,owoce
-Miechunka,100,49,g,kcal,owoce
-Mirabelki,100,64,g,kcal,owoce
-Morela,100,48,g,kcal,owoce
-Morwa,100,43,g,kcal,owoce
-Nektarynki,100,44,g,kcal,owoce
-Oliwki,100,115,g,kcal,owoce
-Papaja,100,43,g,kcal,owoce
-Passiflora,100,97,g,kcal,owoce
-Persymona,100,127,g,kcal,owoce
-Pigwa,100,57,g,kcal,owoce
-Pomarańcza,100,47,g,kcal,owoce
-Pomarańcza czerwona,100,50,g,kcal,owoce
-Porzeczki,100,56,g,kcal,owoce
-Poziomki,100,32,g,kcal,owoce
-Przecier jabłkowy,100,68,g,kcal,owoce
-Rabarbar,100,21,g,kcal,owoce
-Renkloda ulena,100,41,g,kcal,owoce
-Rodzynki,100,299,g,kcal,owoce
-Sałatka owocowa,100,50,g,kcal,owoce
-Tamaryndowiec,100,239,g,kcal,owoce
-Truskawki,100,32,g,kcal,owoce
-Winogrona,100,69,g,kcal,owoce
-Wiśnie,100,50,g,kcal,owoce
-Śliwka,100,46,g,kcal,owoce
-Żurawina,100,46,g,kcal,owoce
-Acerola / wiśnia z Barbados,100,32,g,kcal,owoce tropikalne i egzotyczne
-Akka Sellowa,100,55,g,kcal,owoce tropikalne i egzotyczne
-Ananas,100,50,g,kcal,owoce tropikalne i egzotyczne
-Arbuz,100,30,g,kcal,owoce tropikalne i egzotyczne
-Awokado,100,160,g,kcal,owoce tropikalne i egzotyczne
-Banan,100,89,g,kcal,owoce tropikalne i egzotyczne
-Banan zwyczajny,100,122,g,kcal,owoce tropikalne i egzotyczne
-Cherimoya,100,75,g,kcal,owoce tropikalne i egzotyczne
-Chlebowiec,100,95,g,kcal,owoce tropikalne i egzotyczne
-Chlebowiec właściwy,100,103,g,kcal,owoce tropikalne i egzotyczne
-Durian,100,147,g,kcal,owoce tropikalne i egzotyczne
-Granat,100,83,g,kcal,owoce tropikalne i egzotyczne
-Grejpfrut,100,42,g,kcal,owoce tropikalne i egzotyczne
-Grejpfrut różowy,100,42,g,kcal,owoce tropikalne i egzotyczne
-Gruszka chińska,100,42,g,kcal,owoce tropikalne i egzotyczne
-Gujawa,100,68,g,kcal,owoce tropikalne i egzotyczne
-Kantalupa,100,34,g,kcal,owoce tropikalne i egzotyczne
-Karambola,100,31,g,kcal,owoce tropikalne i egzotyczne
-Kiwi,100,61,g,kcal,owoce tropikalne i egzotyczne
-Kumkwat,100,71,g,kcal,owoce tropikalne i egzotyczne
-Liczi,100,66,g,kcal,owoce tropikalne i egzotyczne
-Mandarynki,100,53,g,kcal,owoce tropikalne i egzotyczne
-Mango,100,60,g,kcal,owoce tropikalne i egzotyczne
-Mangostan,100,73,g,kcal,owoce tropikalne i egzotyczne
-Marakuja,100,97,g,kcal,owoce tropikalne i egzotyczne
-Melon Galia,100,23,g,kcal,owoce tropikalne i egzotyczne
-Melon żółty,100,28,g,kcal,owoce tropikalne i egzotyczne
-Morwa indyjska,100,53,g,kcal,owoce tropikalne i egzotyczne
-Ogórek melon,100,34,g,kcal,owoce tropikalne i egzotyczne
-Opuncja figowa,100,41,g,kcal,owoce tropikalne i egzotyczne
-Pitaja (smoczy owoc),100,60,g,kcal,owoce tropikalne i egzotyczne
-Pomelo,100,38,g,kcal,owoce tropikalne i egzotyczne
-Tamaryndowiec,100,239,g,kcal,owoce tropikalne i egzotyczne
-Wiśnie koktajlowe,100,165,g,kcal,owoce tropikalne i egzotyczne
-Agrest w puszce,100,73,g,kcal,owoce w puszkach
-Ananas w kawałkach w puszce,100,53,g,kcal,owoce w puszkach
-Ananas w plasterkach w puszce,100,53,g,kcal,owoce w puszkach
-Ananas w puszce,100,60,g,kcal,owoce w puszkach
-Brzoskwinie w puszce,100,54,g,kcal,owoce w puszkach
-Figi w puszce,100,107,g,kcal,owoce w puszkach
-Grejpfrut w puszce,100,37,g,kcal,owoce w puszkach
-Gruszki w puszce,100,35,g,kcal,owoce w puszkach
-Jagody w puszce,100,88,g,kcal,owoce w puszkach
-Jeżyny w puszce,100,92,g,kcal,owoce w puszkach
-Maliny w puszce,100,91,g,kcal,owoce w puszkach
-Mandarynki w puszce,100,71,g,kcal,owoce w puszkach
-Mango w puszce,100,65,g,kcal,owoce w puszkach
-Mieszanka owocowa w puszce,100,71,g,kcal,owoce w puszkach
-Morele w puszce,100,48,g,kcal,owoce w puszkach
-Pomarańcze w puszce,100,62,g,kcal,owoce w puszkach
-Przecier jabłkowy,100,62,g,kcal,owoce w puszkach
-Sałatka owocowa w puszce,100,50,g,kcal,owoce w puszkach
-Suszone owoce,100,243,g,kcal,owoce w puszkach
-Truskawki w puszce,100,92,g,kcal,owoce w puszkach
-Winogrona w puszce,100,76,g,kcal,owoce w puszkach
-Wiśnie morello w puszce,100,81,g,kcal,owoce w puszkach
-Wiśnie w puszce,100,54,g,kcal,owoce w puszkach
-Śliwki w puszce,100,58,g,kcal,owoce w puszkach
-Żurawina w puszce,100,178,g,kcal,owoce w puszkach
-Ciasto na pierogi,100,124,g,kcal,produkty ziemniaczane
-Frytki,100,312,g,kcal,produkty ziemniaczane
-Gnocchi,100,133,g,kcal,produkty ziemniaczane
-Kluski z ziemniaków,100,124,g,kcal,produkty ziemniaczane
-Knedle,100,120,g,kcal,produkty ziemniaczane
-Knedle ze śliwkami,100,147,g,kcal,produkty ziemniaczane
-Kopytka,100,125,g,kcal,produkty ziemniaczane
-Krokiety,100,127,g,kcal,produkty ziemniaczane
-Maniok jadalny,100,160,g,kcal,produkty ziemniaczane
-Omlet,100,154,g,kcal,produkty ziemniaczane
-Pierogi,100,124,g,kcal,produkty ziemniaczane
-Placki ziemniaczane,100,185,g,kcal,produkty ziemniaczane
-Placki ziemniaczane,100,166,g,kcal,produkty ziemniaczane
-Pyzy,100,424,g,kcal,produkty ziemniaczane
-Sałatka ziemniaczana,100,143,g,kcal,produkty ziemniaczane
-Skrobia ziemniaczana,100,331,g,kcal,produkty ziemniaczane
-Słodki ziemniak,100,92,g,kcal,produkty ziemniaczane
-Talarki ziemniaczane,100,123,g,kcal,produkty ziemniaczane
-Ziemniak,100,77,g,kcal,produkty ziemniaczane
-Ziemniaki białe,100,94,g,kcal,produkty ziemniaczane
-Ziemniaki gotowane,100,87,g,kcal,produkty ziemniaczane
-Ziemniaki gratin,100,132,g,kcal,produkty ziemniaczane
-Ziemniaki pieczone,100,93,g,kcal,produkty ziemniaczane
-Ziemniaki smażone,100,312,g,kcal,produkty ziemniaczane
-Ziemniaki tłuczone,100,89,g,kcal,produkty ziemniaczane
-Ziemniaki Yukon Gold,100,82,g,kcal,produkty ziemniaczane
-Ziemniaki z rozmarynem,100,93,g,kcal,produkty ziemniaczane
-Bakłażan,100,25,g,kcal,warzywa
-Botwina,100,19,g,kcal,warzywa
-Brokuł,100,34,g,kcal,warzywa
-Brukiew,100,38,g,kcal,warzywa
-Brukselka,100,43,g,kcal,warzywa
-Burak,100,43,g,kcal,warzywa
-Cebula dymka,100,32,g,kcal,warzywa
-Cebula dymka,100,40,g,kcal,warzywa
-Chrzan,100,48,g,kcal,warzywa
-Cukinia,100,17,g,kcal,warzywa
-Cykoria,100,72,g,kcal,warzywa
-Czarne oliwki,100,115,g,kcal,warzywa
-Czosnek,100,149,g,kcal,warzywa
-Dynia,100,26,g,kcal,warzywa
-Endywia,100,17,g,kcal,warzywa
-Fasolka zielona,100,31,g,kcal,warzywa
-Fenkuł,100,31,g,kcal,warzywa
-Groszek,100,81,g,kcal,warzywa
-Grzyby,100,22,g,kcal,warzywa
-Jarmuż,100,49,g,kcal,warzywa
-Kalafior,100,25,g,kcal,warzywa
-Kalarepa,100,27,g,kcal,warzywa
-Kapusta,100,25,g,kcal,warzywa
-Kapusta chińska,100,16,g,kcal,warzywa
-Kapusta czerwona,100,31,g,kcal,warzywa
-Kapusta kiszona,100,17,g,kcal,warzywa
-Kapusta sarepsa,100,27,g,kcal,warzywa
-Karczoch,100,47,g,kcal,warzywa
-Kukurydza,100,365,g,kcal,warzywa
-Liście kapusty warzywnej,100,32,g,kcal,warzywa
-Liście rzepy,100,20,g,kcal,warzywa
-Marchew,100,41,g,kcal,warzywa
-Nori,100,35,g,kcal,warzywa
-Ogórek,100,16,g,kcal,warzywa
-Ogórek kiszony,100,14,g,kcal,warzywa
-Oliwki zielone,100,115,g,kcal,warzywa
-Oliwki zielone,100,115,g,kcal,warzywa
-Papryka,100,27,g,kcal,warzywa
-Pasternak,100,75,g,kcal,warzywa
-Piżmian (okra),100,33,g,kcal,warzywa
-Pomidor,100,18,g,kcal,warzywa
-Pomidor koktajlowy,100,100,g,kcal,warzywa
-Por,100,61,g,kcal,warzywa
-Rukola,100,25,g,kcal,warzywa
-Rzepa,100,28,g,kcal,warzywa
-Rzodkiewka,100,16,g,kcal,warzywa
-Sałata,100,15,g,kcal,warzywa
-Seler,100,16,g,kcal,warzywa
-Szalotka,100,72,g,kcal,warzywa
-Szczypiorek,100,30,g,kcal,warzywa
-Szparagi,100,20,g,kcal,warzywa
-Szpinak,100,23,g,kcal,warzywa
-Szpinak w sosie śmietanowym,100,74,g,kcal,warzywa
-Tykwa,100,14,g,kcal,warzywa
-Wasabi,100,109,g,kcal,warzywa
-Ziemniak,100,77,g,kcal,warzywa
-Ziemniak słodki,100,86,g,kcal,warzywa
-Big Mac z McDonald’s,100,256,g,kcal,fast food
-Brazer kanapka z KFC,100,190,g,kcal,fast food
-Brazer Twister z KFC,100,188,g,kcal,fast food
-Burger wegetariański,100,181,g,kcal,fast food
-Cheeseburger,100,263,g,kcal,fast food
-Cheeseburger z McDonald’s,100,263,g,kcal,fast food
-Chicken Strips z McDonald’s,100,203,g,kcal,fast food
-Chikker z McDonald’s,100,258,g,kcal,fast food
-Chop Suey,100,172,g,kcal,fast food
-Cicken Pizziola,100,141,g,kcal,fast food
-Double Whopper z Burger King,100,239,g,kcal,fast food
-Fajita z kurczakiem,100,147,g,kcal,fast food
-Falafel,100,335,g,kcal,fast food
-Filet-o-Fish,100,282,g,kcal,fast food
-Filet-o-Fish z McDonald’s,100,275,g,kcal,fast food
-Frytki,100,254,g,kcal,fast food
-Frytki kręcone,100,311,g,kcal,fast food
-Grander Texas z KFC,100,269,g,kcal,fast food
-Grander z KFC,100,242,g,kcal,fast food
-Hamburger,100,254,g,kcal,fast food
-Hot dog,100,269,g,kcal,fast food
-Indyk,100,104,g,kcal,fast food
-Italian BMT,100,183,g,kcal,fast food
-iTwist z KFC,100,246,g,kcal,fast food
-Kanapka Chicken Teriyaki,100,138,g,kcal,fast food
-Kanapka Subway Melt,100,370,g,kcal,fast food
-Kanapka Veggie Delight,100,138,g,kcal,fast food
-Kanapka z klopsikami,100,161,g,kcal,fast food
-Kanapka z kurczakiem,100,241,g,kcal,fast food
-Kanapka z rybą,100,273,g,kcal,fast food
-Kanapka z szynką,100,241,g,kcal,fast food
-Kebab,100,225,g,kcal,fast food
-Kiełbasa,100,333,g,kcal,fast food
-Kotlet wegetariański,100,390,g,kcal,fast food
-Krokiet,100,250,g,kcal,fast food
-Krążki cebulowe,100,411,g,kcal,fast food
-Lazania,100,132,g,kcal,fast food
-Longer z KFC,100,241,g,kcal,fast food
-McChicken z McDonald’s,100,251,g,kcal,fast food
-McDouble z McDonald’s,100,252,g,kcal,fast food
-McMuffin Egg z McDOnald’s,100,225,g,kcal,fast food
-McRib z McDonald’s,100,265,g,kcal,fast food
-McRoyal z McDonald’s,100,269,g,kcal,fast food
-Mega Pocket z KFC,100,243,g,kcal,fast food
-Nachos z serem,100,306,g,kcal,fast food
-Nuggetsy kurczakowe z McDonald’s,100,297,g,kcal,fast food
-Nuggetsy z kurczaka,100,296,g,kcal,fast food
-Piersi z kurczaka,100,163,g,kcal,fast food
-Podwójny cheeseburger,100,267,g,kcal,fast food
-Podwójny cheeseburger z McDonald’s,100,282,g,kcal,fast food
-Qurrito z KFC,100,271,g,kcal,fast food
-Ryba z frytkami,100,195,g,kcal,fast food
-Sałatka z grillowanym kurczakiem,100,88,g,kcal,fast food
-Skrzydełka Mighty Wings z McDonald’s,100,308,g,kcal,fast food
-Skrzydełka z kurczaka,100,324,g,kcal,fast food
-Tender z KFC,100,240,g,kcal,fast food
-Tortilla Wrap,100,271,g,kcal,fast food
-Tuńczyk,100,86,g,kcal,fast food
-Twister Ser&Bekon z KFC,100,259,g,kcal,fast food
-Twister z KFC,100,240,g,kcal,fast food
-Whopper z Burger King,100,231,g,kcal,fast food
-Wieśmac z McDonald’s,100,256,g,kcal,fast food
-Zapiekanka,100,214,g,kcal,fast food
-Zinger z KFC,100,270,g,kcal,fast food
-Łosoś wędzony,100,158,g,kcal,fast food
-Żeberka grillowane,100,212,g,kcal,fast food
-Calzoni,100,231,g,kcal,pizza
-Ciasto na pizzę,100,228,g,kcal,pizza
-Flammkuchen,100,253,g,kcal,pizza
-Mini Pizza,100,365,g,kcal,pizza
-Pizza Bianko,100,250,g,kcal,pizza
-Pizza biała,100,246,g,kcal,pizza
-Pizza Calabrese,100,235,g,kcal,pizza
-Pizza Capricciosa,100,260,g,kcal,pizza
-Pizza diabelska,100,220,g,kcal,pizza
-Pizza Flambee,100,245,g,kcal,pizza
-Pizza Fungi,100,212,g,kcal,pizza
-Pizza hawajska,100,115,g,kcal,pizza
-Pizza Margherita,100,275,g,kcal,pizza
-Pizza Mexicana,100,232,g,kcal,pizza
-Pizza na cienkim spodzie,100,261,g,kcal,pizza
-Pizza na grubym spodzie,100,255,g,kcal,pizza
-Pizza na grubym spodzie z Pizza Hut,100,255,g,kcal,pizza
-Pizza Napoli,100,202,g,kcal,pizza
-Pizza Pepperoni,100,255,g,kcal,pizza
-Pizza Primavera,100,180,g,kcal,pizza
-Pizza Quattro Formaggi,100,248,g,kcal,pizza
-Pizza Rolls,100,247,g,kcal,pizza
-Pizza sycylijska,100,241,g,kcal,pizza
-Pizza Toscana,100,205,g,kcal,pizza
-Pizza Vesuvio,100,287,g,kcal,pizza
-Pizza wegetariańska,100,256,g,kcal,pizza
-Pizza z czerwoną papryką,100,192,g,kcal,pizza
-Pizza z fetą i szpinakiem,100,242,g,kcal,pizza
-Pizza z kiełbasą,100,246,g,kcal,pizza
-Pizza z krewetkami,100,209,g,kcal,pizza
-Pizza z kurczakiem,100,234,g,kcal,pizza
-Pizza z owocami morza,100,245,g,kcal,pizza
-Pizza z pieczarkami,100,212,g,kcal,pizza
-Pizza z salami,100,255,g,kcal,pizza
-Pizza z serem,100,267,g,kcal,pizza
-Pizza z serem kozim,100,219,g,kcal,pizza
-Pizza z serem Mozzarella,100,249,g,kcal,pizza
-Pizza z tuńczykiem,100,254,g,kcal,pizza
-Pizza z warzywami,100,256,g,kcal,pizza
-Pizza ze szpinakiem,100,234,g,kcal,pizza
-Supreme Pizza z Pizza Hut,100,248,g,kcal,pizza
-Actimel,100,95,g,kcal,jogurt
-Activia,100,74,g,kcal,jogurt
-Activia cytrynowa,100,100,g,kcal,jogurt
-Activia truskawkowa,100,97,g,kcal,jogurt
-Jogurt,100,61,g,kcal,jogurt
-Jogurt 0%,100,46,g,kcal,jogurt
-Jogurt brzoskwiniowy,100,97,g,kcal,jogurt
-Jogurt czekoladowy,100,128,g,kcal,jogurt
-Jogurt Danone Fantasia,100,120,g,kcal,jogurt
-Jogurt dietetyczny,100,54,g,kcal,jogurt
-Jogurt grecki,100,53,g,kcal,jogurt
-Jogurt grecki light,100,116,g,kcal,jogurt
-Jogurt jagodowy,100,105,g,kcal,jogurt
-Jogurt kozi,100,66,g,kcal,jogurt
-Jogurt malinowy,100,92,g,kcal,jogurt
-Jogurt Mocca,100,100,g,kcal,jogurt
-Jogurt niskotłuszczowy,100,63,g,kcal,jogurt
-Jogurt organiczny,100,75,g,kcal,jogurt
-Jogurt owoce leśne,100,115,g,kcal,jogurt
-Jogurt owocowy,100,97,g,kcal,jogurt
-Jogurt probiotyczny,100,80,g,kcal,jogurt
-Jogurt stracciatella,100,139,g,kcal,jogurt
-Jogurt truskawkowy,100,100,g,kcal,jogurt
-Jogurt waniliowy,100,101,g,kcal,jogurt
-Jogurt wiśniowy,100,97,g,kcal,jogurt
-Jogurt z mleka odtłuszczonego,100,56,g,kcal,jogurt
-Jogurt z muesli,100,109,g,kcal,jogurt
-Jogurt z ziarnami zbóż,100,110,g,kcal,jogurt
-Jogurt śmietankowy,100,90,g,kcal,jogurt
-Bita śmietana,100,257,g,kcal,mleko i produkty mleczne
-Budyń z semoliny,100,67,g,kcal,mleko i produkty mleczne
-Creme Fraiche,100,393,g,kcal,mleko i produkty mleczne
-Czekolada na gorąco,100,89,g,kcal,mleko i produkty mleczne
-Jogurt,100,61,g,kcal,mleko i produkty mleczne
-Kefir,100,55,g,kcal,mleko i produkty mleczne
-Kwaśna śmietana,100,181,g,kcal,mleko i produkty mleczne
-Lassi,100,75,g,kcal,mleko i produkty mleczne
-Maślanka,100,62,g,kcal,mleko i produkty mleczne
-Mleko,100,61,g,kcal,mleko i produkty mleczne
-Mleko bez laktozy,100,52,g,kcal,mleko i produkty mleczne
-Mleko kokosowe,100,230,g,kcal,mleko i produkty mleczne
-Mleko kozie,100,69,g,kcal,mleko i produkty mleczne
-Mleko migdałowe,100,17,g,kcal,mleko i produkty mleczne
-Mleko odtłuszczone,100,35,g,kcal,mleko i produkty mleczne
-Mleko pełne,100,61,g,kcal,mleko i produkty mleczne
-Mleko półtłuste,100,50,g,kcal,mleko i produkty mleczne
-Mleko ryżowe,100,49,g,kcal,mleko i produkty mleczne
-Mleko skondensowane,100,321,g,kcal,mleko i produkty mleczne
-Mleko skondensowane słodzone,100,321,g,kcal,mleko i produkty mleczne
-Mleko sojowe,100,45,g,kcal,mleko i produkty mleczne
-Mleko w proszku,100,496,g,kcal,mleko i produkty mleczne
-Mus czekoladowy,100,225,g,kcal,mleko i produkty mleczne
-Ryż na mleku,100,118,g,kcal,mleko i produkty mleczne
-Serek wiejski,100,98,g,kcal,mleko i produkty mleczne
-Tzatziki,100,117,g,kcal,mleko i produkty mleczne
-Zsiadłe mleko,100,98,g,kcal,mleko i produkty mleczne
-Śmietana do kawy,100,195,g,kcal,mleko i produkty mleczne
-Śmietanka,100,242,g,kcal,mleko i produkty mleczne
-Brie,100,334,g,kcal,ser
-Camembert,100,300,g,kcal,ser
-Cheddar,100,403,g,kcal,ser
-Chester,100,387,g,kcal,ser
-Emmentaler,100,357,g,kcal,ser
-Feta,100,264,g,kcal,ser
-Fondue serowe,100,228,g,kcal,ser
-Fontina,100,389,g,kcal,ser
-Gorgonzola,100,350,g,kcal,ser
-Gouda,100,356,g,kcal,ser
-Gruyere,100,413,g,kcal,ser
-Halloumi,100,321,g,kcal,ser
-Havarti,100,371,g,kcal,ser
-Jarlsberg,100,352,g,kcal,ser
-Mozzarella,100,280,g,kcal,ser
-Neufchatel,100,253,g,kcal,ser
-Oscypek,100,386,g,kcal,ser
-Parmesan,100,431,g,kcal,ser
-Pecorino,100,387,g,kcal,ser
-Provolone,100,351,g,kcal,ser
-Ricotta,100,174,g,kcal,ser
-Roquefort,100,369,g,kcal,ser
-Ser Asiago,100,392,g,kcal,ser
-Ser Baabybel,100,333,g,kcal,ser
-Ser edamski,100,357,g,kcal,ser
-Ser grillowany,100,350,g,kcal,ser
-Ser holenderski,100,393,g,kcal,ser
-Ser kozi,100,364,g,kcal,ser
-Ser kozi wędzony,100,353,g,kcal,ser
-Ser królewski,100,359,g,kcal,ser
-Ser Maasdam,100,344,g,kcal,ser
-Ser Manchego,100,320,g,kcal,ser
-Ser miękki,100,268,g,kcal,ser
-Ser Muenster,100,368,g,kcal,ser
-Ser niebieski,100,353,g,kcal,ser
-Ser owczy,100,364,g,kcal,ser
-Ser Raclette,100,357,g,kcal,ser
-Ser Stilton,100,393,g,kcal,ser
-Ser szwajcarski,100,380,g,kcal,ser
-Ser tostowy,100,274,g,kcal,ser
-Ser tylżycki,100,322,g,kcal,ser
-Ser włoski,100,397,g,kcal,ser
-Ser żółty wędzony,100,313,g,kcal,ser
-Serek homogenizowany,100,131,g,kcal,ser
-Serek topiony,100,290,g,kcal,ser
-Serek topiony,100,316,g,kcal,ser
-Serek ziarnisty,100,98,g,kcal,ser
-Tarty parmezan,100,431,g,kcal,ser
-Twaróg chudy,100,113,g,kcal,ser
-Twaróg półtłusty,100,133,g,kcal,ser
-Twaróg tłusty,100,148,g,kcal,ser
-Chrzan,100,48,g,kcal,ser topiony
-Pasta serowa obazta,100,303,g,kcal,ser topiony
-Ser feta śmietankowy,100,342,g,kcal,ser topiony
-Ser kozi,100,364,g,kcal,ser topiony
-Serek mascarpone,100,450,g,kcal,ser topiony
-Serek wiejski,100,98,g,kcal,ser topiony
-Serek śmietankowy czosnkowy,100,342,g,kcal,ser topiony
-Serek śmietankowy oliwkowy,100,342,g,kcal,ser topiony
-Serek śmietankowy orzechowy,100,342,g,kcal,ser topiony
-Serek śmietankowy Philadelphia,100,342,g,kcal,ser topiony
-Serek śmietankowy ze szczypiorkiem,100,342,g,kcal,ser topiony
-Serek śmietanowy,100,342,g,kcal,ser topiony
-Serek śmietanowy z ziołami,100,342,g,kcal,ser topiony
-Bergkäse,100,418,g,kcal,ser w plasterkach
-Cheddar,100,403,g,kcal,ser w plasterkach
-Emmentaler,100,357,g,kcal,ser w plasterkach
-Fol Epi,100,388,g,kcal,ser w plasterkach
-Gouda,100,356,g,kcal,ser w plasterkach
-Gouda Light,100,247,g,kcal,ser w plasterkach
-Havarti,100,371,g,kcal,ser w plasterkach
-Mozzarella,100,280,g,kcal,ser w plasterkach
-Młoda gouda,100,356,g,kcal,ser w plasterkach
-Ser edamski,100,357,g,kcal,ser w plasterkach
-Ser Esrom,100,322,g,kcal,ser w plasterkach
-Ser kanapkowy,100,148,g,kcal,ser w plasterkach
-Ser królewski,100,359,g,kcal,ser w plasterkach
-Ser Leerdammer,100,284,g,kcal,ser w plasterkach
-Ser Maasdam,100,344,g,kcal,ser w plasterkach
-Ser maślany,100,388,g,kcal,ser w plasterkach
-Ser Muenster,100,368,g,kcal,ser w plasterkach
-Ser podlaski,100,388,g,kcal,ser w plasterkach
-Ser salami,100,351,g,kcal,ser w plasterkach
-Ser tostowy,100,274,g,kcal,ser w plasterkach
-Ser tylżycki,100,340,g,kcal,ser w plasterkach
-Ser w plasterkach,100,356,g,kcal,ser w plasterkach
-Ser Westberg,100,277,g,kcal,ser w plasterkach
-Ser wędzony,100,410,g,kcal,ser w plasterkach
-Ser z pieprzem,100,100,g,kcal,ser w plasterkach
-Talerz serów,100,357,g,kcal,ser w plasterkach
-Bażant,100,239,g,kcal,drob i ptactwo
-Bitki z indyka,100,189,g,kcal,drob i ptactwo
-Gołąb,100,142,g,kcal,drob i ptactwo
-Gęś,100,305,g,kcal,drob i ptactwo
-Indyk,100,189,g,kcal,drob i ptactwo
-Kaczka,100,337,g,kcal,drob i ptactwo
-Kaczka krzyżówka,100,211,g,kcal,drob i ptactwo
-Kapłon,100,229,g,kcal,drob i ptactwo
-Kurczak,100,219,g,kcal,drob i ptactwo
-Perliczka,100,158,g,kcal,drob i ptactwo
-Pierś z bażanta,100,133,g,kcal,drob i ptactwo
-Pierś z indyka,100,135,g,kcal,drob i ptactwo
-Pierś z kaczki,100,201,g,kcal,drob i ptactwo
-Pierś z kurczaka,100,172,g,kcal,drob i ptactwo
-Pierś z przepiórki,100,123,g,kcal,drob i ptactwo
-Przepiórka,100,227,g,kcal,drob i ptactwo
-Pularda,100,200,g,kcal,drob i ptactwo
-Skrzydełka z indyka,100,221,g,kcal,drob i ptactwo
-Skrzydełka z kurczaka,100,266,g,kcal,drob i ptactwo
-Stek z indyka,100,189,g,kcal,drob i ptactwo
-Struś,100,145,g,kcal,drob i ptactwo
-Udka z kurczaka,100,174,g,kcal,drob i ptactwo
-Udko z bażanta,100,239,g,kcal,drob i ptactwo
-Udko z indyka,100,208,g,kcal,drob i ptactwo
-Żołądki z kurczaka,100,154,g,kcal,drob i ptactwo
-Aligator,100,104,g,kcal,dziczyzna
-Antylopa,100,150,g,kcal,dziczyzna
-Baranina,100,234,g,kcal,dziczyzna
-Bawół,100,131,g,kcal,dziczyzna
-Bażant,100,239,g,kcal,dziczyzna
-Bizon,100,171,g,kcal,dziczyzna
-Bóbr,100,212,g,kcal,dziczyzna
-Dziczyzna,100,164,g,kcal,dziczyzna
-Dzik,100,160,g,kcal,dziczyzna
-Gęś,100,238,g,kcal,dziczyzna
-Jagnięcina,100,202,g,kcal,dziczyzna
-Kaczka krzyżówka,100,211,g,kcal,dziczyzna
-Karibu,100,159,g,kcal,dziczyzna
-Królik,100,197,g,kcal,dziczyzna
-Niedźwiedź,100,259,g,kcal,dziczyzna
-Polędwica z bizona,100,171,g,kcal,dziczyzna
-Polędwica z dziczyzny,100,158,g,kcal,dziczyzna
-Renifer,100,200,g,kcal,dziczyzna
-Struś,100,175,g,kcal,dziczyzna
-Szop,100,255,g,kcal,dziczyzna
-Wiewiórka,100,173,g,kcal,dziczyzna
-Łoś,100,134,g,kcal,dziczyzna
-Andouille,100,232,g,kcal,kielbasa
-Bekon,100,407,g,kcal,kielbasa
-Bockwurst,100,301,g,kcal,kielbasa
-Bratwurst,100,297,g,kcal,kielbasa
-Chorizo,100,455,g,kcal,kielbasa
-Frankfurterki,100,305,g,kcal,kielbasa
-Hot Dog,100,278,g,kcal,kielbasa
-Kaszanka,100,379,g,kcal,kielbasa
-Kaszanka,100,379,g,kcal,kielbasa
-Kiełbasa,100,309,g,kcal,kielbasa
-Kiełbasa biała,100,313,g,kcal,kielbasa
-Kiełbasa bolońska,100,247,g,kcal,kielbasa
-Kiełbasa wędzona,100,301,g,kcal,kielbasa
-Kiełbasa włoska,100,149,g,kcal,kielbasa
-Knackwurst,100,307,g,kcal,kielbasa
-Landjaeger,100,352,g,kcal,kielbasa
-Metka,100,310,g,kcal,kielbasa
-Mielonka,100,117,g,kcal,kielbasa
-Mięso z kurczaka,100,79,g,kcal,kielbasa
-Mortadella,100,311,g,kcal,kielbasa
-Parówki,100,230,g,kcal,kielbasa
-Pastrami,100,133,g,kcal,kielbasa
-Pasztet,100,319,g,kcal,kielbasa
-Pasztetowa,100,326,g,kcal,kielbasa
-Pierś z kurczaka,100,79,g,kcal,kielbasa
-Salami,100,336,g,kcal,kielbasa
-Salceson,100,157,g,kcal,kielbasa
-Sałatka z kurczaka,100,81,g,kcal,kielbasa
-Szynka gotowana,100,133,g,kcal,kielbasa
-Szynka parmezańska,100,195,g,kcal,kielbasa
-Wieprzowina,100,247,g,kcal,kielbasa
-Wołowina peklowana,100,153,g,kcal,kielbasa
-Antrykot wołowy,100,217,g,kcal,mieso i produkty miesne
-Baranina,100,234,g,kcal,mieso i produkty miesne
-Dziczyzna,100,164,g,kcal,mieso i produkty miesne
-Filet wołowy,100,267,g,kcal,mieso i produkty miesne
-Golonka wieprzowa,100,327,g,kcal,mieso i produkty miesne
-Indyk,100,189,g,kcal,mieso i produkty miesne
-Jagnięcina,100,202,g,kcal,mieso i produkty miesne
-Kaczka,100,337,g,kcal,mieso i produkty miesne
-Karkówka,100,277,g,kcal,mieso i produkty miesne
-Karkówka wieprzowa,100,169,g,kcal,mieso i produkty miesne
-Kotlet panierowany,100,156,g,kcal,mieso i produkty miesne
-Kotlet schabowy,100,196,g,kcal,mieso i produkty miesne
-Kurczak,100,219,g,kcal,mieso i produkty miesne
-Mięso z kurczaka,100,172,g,kcal,mieso i produkty miesne
-Mostek wołowy,100,242,g,kcal,mieso i produkty miesne
-Pieczeń wieprzowa,100,254,g,kcal,mieso i produkty miesne
-Pieczeń wołowa,100,140,g,kcal,mieso i produkty miesne
-Pieczone żeberka,100,333,g,kcal,mieso i produkty miesne
-Pierś z indyka,100,135,g,kcal,mieso i produkty miesne
-Pierś z kurczaka,100,172,g,kcal,mieso i produkty miesne
-Podroby z kurczaka,100,158,g,kcal,mieso i produkty miesne
-Polędwica wieprzowa,100,204,g,kcal,mieso i produkty miesne
-Polędwica wołowa,100,218,g,kcal,mieso i produkty miesne
-Rostbef,100,130,g,kcal,mieso i produkty miesne
-Skrzydełka z kurczaka,100,266,g,kcal,mieso i produkty miesne
-Skrzydła z indyka,100,221,g,kcal,mieso i produkty miesne
-Stek z indyka,100,189,g,kcal,mieso i produkty miesne
-Stek z łaty wołowej,100,194,g,kcal,mieso i produkty miesne
-Stek z łopatki wieprzowej,100,196,g,kcal,mieso i produkty miesne
-Struś,100,145,g,kcal,mieso i produkty miesne
-Szynka,100,163,g,kcal,mieso i produkty miesne
-Tłuszcz z kurczaka,100,898,g,kcal,mieso i produkty miesne
-Udko z indyka,100,208,g,kcal,mieso i produkty miesne
-Udko z kurczaka,100,174,g,kcal,mieso i produkty miesne
-Udziec wołowy,100,182,g,kcal,mieso i produkty miesne
-Wieprzowina,100,196,g,kcal,mieso i produkty miesne
-Wołowina,100,248,g,kcal,mieso i produkty miesne
-Wołowina mielona,100,246,g,kcal,mieso i produkty miesne
-Wątróbka z kurczaka,100,167,g,kcal,mieso i produkty miesne
-Łopatka wieprzowa,100,269,g,kcal,mieso i produkty miesne
-Żeberka,100,238,g,kcal,mieso i produkty miesne
-Żeberka wieprzowe,100,212,g,kcal,mieso i produkty miesne
-Żeberka wołowe,100,238,g,kcal,mieso i produkty miesne
-Żołądki z kurczaka,100,146,g,kcal,mieso i produkty miesne
-Flaczki,100,233,g,kcal,podroby
-Móżdżek cielęcy,100,136,g,kcal,podroby
-Móżdżek wieprzowy,100,138,g,kcal,podroby
-Móżdżek wołowy,100,196,g,kcal,podroby
-Nerki cielęce,100,163,g,kcal,podroby
-Nerki wieprzowe,100,151,g,kcal,podroby
-Nerki wołowe,100,158,g,kcal,podroby
-Ogon wieprzowy,100,273,g,kcal,podroby
-Ogon wołowy,100,184,g,kcal,podroby
-Ozór cielęcy,100,202,g,kcal,podroby
-Ozór wieprzowy,100,271,g,kcal,podroby
-Ozór wołowy,100,284,g,kcal,podroby
-Podroby indycze,100,173,g,kcal,podroby
-Podroby z kurczaka,100,277,g,kcal,podroby
-Płuca wieprzowe,100,99,g,kcal,podroby
-Płuca wołowe,100,120,g,kcal,podroby
-Ratki kurze,100,215,g,kcal,podroby
-Serce cielęce,100,186,g,kcal,podroby
-Serce indycze,100,174,g,kcal,podroby
-Serce kurczaka,100,185,g,kcal,podroby
-Serce wieprzowe,100,148,g,kcal,podroby
-Serce wołowe,100,165,g,kcal,podroby
-Wątroba indycza,100,189,g,kcal,podroby
-Wątroba wieprzowa,100,165,g,kcal,podroby
-Wątroba wołowa,100,191,g,kcal,podroby
-Wątróbka cielęca,100,192,g,kcal,podroby
-Wątróbka gęsia,100,133,g,kcal,podroby
-Wątróbka kacza,100,136,g,kcal,podroby
-Wątróbka z kurczaka,100,172,g,kcal,podroby
-Śledziona wieprzowa,100,219,g,kcal,podroby
-Śledziona wołowa,100,271,g,kcal,podroby
-Żołądek indyczy,100,148,g,kcal,podroby
-Żołądek wieprzowy,100,157,g,kcal,podroby
-Żołądek z kurczaka,100,148,g,kcal,podroby
-Bresaola,100,178,g,kcal,wedliny i mieso obiadowe
-Capicola,100,110,g,kcal,wedliny i mieso obiadowe
-Chorizo,100,455,g,kcal,wedliny i mieso obiadowe
-Filet z piersi kurczaka,100,79,g,kcal,wedliny i mieso obiadowe
-Kiełbasa bolońska,100,247,g,kcal,wedliny i mieso obiadowe
-Kiełbasa szynkowa,100,164,g,kcal,wedliny i mieso obiadowe
-Ozór,100,284,g,kcal,wedliny i mieso obiadowe
-Pastrami,100,133,g,kcal,wedliny i mieso obiadowe
-Pasztetowa,100,326,g,kcal,wedliny i mieso obiadowe
-Pieczeń wieprzowa,100,247,g,kcal,wedliny i mieso obiadowe
-Pieczeń wołowa,100,267,g,kcal,wedliny i mieso obiadowe
-Pierś z indyka,100,104,g,kcal,wedliny i mieso obiadowe
-Pierś z indyka pieczona w piekarniku,100,104,g,kcal,wedliny i mieso obiadowe
-Pierś z indyka wędzona,100,104,g,kcal,wedliny i mieso obiadowe
-Prosciutto,100,195,g,kcal,wedliny i mieso obiadowe
-Salami,100,336,g,kcal,wedliny i mieso obiadowe
-Salami wołowe,100,375,g,kcal,wedliny i mieso obiadowe
-Salami z indyka,100,152,g,kcal,wedliny i mieso obiadowe
-Salceson,100,157,g,kcal,wedliny i mieso obiadowe
-Szynka,100,145,g,kcal,wedliny i mieso obiadowe
-Szynka gotowana,100,126,g,kcal,wedliny i mieso obiadowe
-Szynka parmeńska,100,345,g,kcal,wedliny i mieso obiadowe
-Szynka pieczona,100,343,g,kcal,wedliny i mieso obiadowe
-Szynka serrano,100,300,g,kcal,wedliny i mieso obiadowe
-Szynka wędzona,100,107,g,kcal,wedliny i mieso obiadowe
-Szynka z indyka,100,126,g,kcal,wedliny i mieso obiadowe
-Wołowina peklowana,100,251,g,kcal,wedliny i mieso obiadowe
-Bekon,100,407,g,kcal,wieprzowina
-Bekon wieprzowy,100,407,g,kcal,wieprzowina
-Boczek wieprzowy,100,518,g,kcal,wieprzowina
-Flaczki wieprzowe,100,233,g,kcal,wieprzowina
-Golonka wieprzowa,100,172,g,kcal,wieprzowina
-Gulasz wieprzowy,100,73,g,kcal,wieprzowina
-Karkówka wieprzowa,100,232,g,kcal,wieprzowina
-Kiełbasa wieprzowa,100,339,g,kcal,wieprzowina
-Klops,100,89,g,kcal,wieprzowina
-Klops wieprzowy,100,243,g,kcal,wieprzowina
-Kotlety wieprzowe,100,131,g,kcal,wieprzowina
-Mięso solone,100,286,g,kcal,wieprzowina
-Nóżki wieprzowe,100,201,g,kcal,wieprzowina
-Ogon wieprzowy,100,396,g,kcal,wieprzowina
-Pieczeń wieprzowa,100,194,g,kcal,wieprzowina
-Ratki wieprzowe,100,243,g,kcal,wieprzowina
-Salceson,100,309,g,kcal,wieprzowina
-Schab wieprzowy,100,143,g,kcal,wieprzowina
-Smalec,100,898,g,kcal,wieprzowina
-Stek z łopatki wieprzowej,100,232,g,kcal,wieprzowina
-Szynka parmeńska,100,261,g,kcal,wieprzowina
-Szynka serrano,100,339,g,kcal,wieprzowina
-Tłuszcz wieprzowy,100,638,g,kcal,wieprzowina
-Ucho wieprzowe,100,166,g,kcal,wieprzowina
-Wieprzowina mielona,100,263,g,kcal,wieprzowina
-Wieprzowina solona,100,286,g,kcal,wieprzowina
-Łopatka wieprzowa,100,269,g,kcal,wieprzowina
-Żeberka płaty wieprzowe,100,396,g,kcal,wieprzowina
-Żeberka wieprzowe,100,292,g,kcal,wieprzowina
-Żołądek wieprzowy,100,250,g,kcal,wieprzowina
-Cielęcina,100,282,g,kcal,wolowina i cielecina
-Filet wołowy,100,189,g,kcal,wolowina i cielecina
-Filet z polędwicy wołowej,100,207,g,kcal,wolowina i cielecina
-Flaczki wołowe,100,94,g,kcal,wolowina i cielecina
-Gicz cielęca,100,211,g,kcal,wolowina i cielecina
-Goleń cielęca,100,177,g,kcal,wolowina i cielecina
-Grasica wołowa,100,319,g,kcal,wolowina i cielecina
-Gulasz wołowy,100,123,g,kcal,wolowina i cielecina
-Karczek wołowy,100,213,g,kcal,wolowina i cielecina
-Karkówka mielona,100,250,g,kcal,wolowina i cielecina
-Karkówka pieczona,100,141,g,kcal,wolowina i cielecina
-Karkówka wołowa,100,137,g,kcal,wolowina i cielecina
-Mielona cielęcina,100,143,g,kcal,wolowina i cielecina
-Mielona wołowina,100,241,g,kcal,wolowina i cielecina
-Mielonka wołowa,100,247,g,kcal,wolowina i cielecina
-Mostek wołowy,100,137,g,kcal,wolowina i cielecina
-Pieczeń wołowa,100,187,g,kcal,wolowina i cielecina
-Pieczona cielęcina,100,175,g,kcal,wolowina i cielecina
-Piersi cielęce,100,282,g,kcal,wolowina i cielecina
-Polędwica cielęca,100,217,g,kcal,wolowina i cielecina
-Rostbef,100,117,g,kcal,wolowina i cielecina
-Rozbratel,100,217,g,kcal,wolowina i cielecina
-Rumsztyk,100,171,g,kcal,wolowina i cielecina
-Schab z kością,100,404,g,kcal,wolowina i cielecina
-Stek z mostka,100,205,g,kcal,wolowina i cielecina
-Stek z łaty,100,194,g,kcal,wolowina i cielecina
-Trzustka wołowa,100,271,g,kcal,wolowina i cielecina
-Tłuszcz wołowy,100,854,g,kcal,wolowina i cielecina
-Wołowina,100,171,g,kcal,wolowina i cielecina
-Wołowina gulaszowa,100,191,g,kcal,wolowina i cielecina
-Zrazowa cielęca,100,204,g,kcal,wolowina i cielecina
-Zrazowa wołowa,100,182,g,kcal,wolowina i cielecina
-Łopatka cielęca,100,183,g,kcal,wolowina i cielecina
-Łój wołowy,100,902,g,kcal,wolowina i cielecina
-Żeberka wołowe,100,196,g,kcal,wolowina i cielecina
-Anielskie ciasto na białkach,100,258,g,kcal,ciastka i ciasta
-Babeczka,100,305,g,kcal,ciastka i ciasta
-Babka marmurkowa,100,339,g,kcal,ciastka i ciasta
-Babka piaskowa,100,390,g,kcal,ciastka i ciasta
-Beza,100,285,g,kcal,ciastka i ciasta
-Biszkopt,100,289,g,kcal,ciastka i ciasta
-Biszkopty czarno-białe,100,381,g,kcal,ciastka i ciasta
-Ciastka Profiterole,100,334,g,kcal,ciastka i ciasta
-Ciasto cytrynowe,100,352,g,kcal,ciastka i ciasta
-Ciasto czekoladowe,100,389,g,kcal,ciastka i ciasta
-Ciasto czekoladowe bez mąki,100,509,g,kcal,ciastka i ciasta
-Ciasto drożdżowe,100,375,g,kcal,ciastka i ciasta
-Ciasto francuskie,100,558,g,kcal,ciastka i ciasta
-Ciasto jagodowe,100,232,g,kcal,ciastka i ciasta
-Ciasto kokosowe,100,356,g,kcal,ciastka i ciasta
-Ciasto marchewkowe,100,408,g,kcal,ciastka i ciasta
-Ciasto na maślance,100,380,g,kcal,ciastka i ciasta
-Ciasto owocowe,100,324,g,kcal,ciastka i ciasta
-Ciasto Tiramisu,100,291,g,kcal,ciastka i ciasta
-Ciasto Trzech Króli,100,377,g,kcal,ciastka i ciasta
-Ciasto z bananów i toffi,100,395,g,kcal,ciastka i ciasta
-Ciasto z kruszonką,100,441,g,kcal,ciastka i ciasta
-Ciasto z lodów,100,200,g,kcal,ciastka i ciasta
-Ciasto z okrągłej formy,100,370,g,kcal,ciastka i ciasta
-Ciasto śliwkowe,100,109,g,kcal,ciastka i ciasta
-Deser Trifle,100,180,g,kcal,ciastka i ciasta
-Duet,100,267,g,kcal,ciastka i ciasta
-Flan,100,145,g,kcal,ciastka i ciasta
-Gofry,100,312,g,kcal,ciastka i ciasta
-Keks,100,376,g,kcal,ciastka i ciasta
-Kremówka papieska,100,520,g,kcal,ciastka i ciasta
-Makowiec,100,394,g,kcal,ciastka i ciasta
-Mazurek wielkanocny,100,475,g,kcal,ciastka i ciasta
-Miodownik,100,282,g,kcal,ciastka i ciasta
-Muffinka czekoladowa,100,420,g,kcal,ciastka i ciasta
-Muffinka jagodowa,100,377,g,kcal,ciastka i ciasta
-Naleśnik,100,227,g,kcal,ciastka i ciasta
-Piernik,100,356,g,kcal,ciastka i ciasta
-Placek brzoskwiniowy,100,223,g,kcal,ciastka i ciasta
-Placek z malinami,100,240,g,kcal,ciastka i ciasta
-Placek z rabarbarem,100,245,g,kcal,ciastka i ciasta
-Placek z truskawkami,100,230,g,kcal,ciastka i ciasta
-Placek z truskawkami i rabarbarem,100,281,g,kcal,ciastka i ciasta
-Placek z wiśniami,100,260,g,kcal,ciastka i ciasta
-Profiterole,100,334,g,kcal,ciastka i ciasta
-Pączek,100,403,g,kcal,ciastka i ciasta
-Pączek francuski,100,412,g,kcal,ciastka i ciasta
-Rolada,100,439,g,kcal,ciastka i ciasta
-Rolada biszkoptowa z kremem,100,428,g,kcal,ciastka i ciasta
-Rożek jabłkowy,100,348,g,kcal,ciastka i ciasta
-Sernik,100,321,g,kcal,ciastka i ciasta
-Strucla z makiem,100,345,g,kcal,ciastka i ciasta
-Strudel jabłkowy,100,274,g,kcal,ciastka i ciasta
-Szarlotka,100,252,g,kcal,ciastka i ciasta
-Sękacz,100,477,g,kcal,ciastka i ciasta
-Tarta Tatin,100,210,g,kcal,ciastka i ciasta
-Tiramisu,100,283,g,kcal,ciastka i ciasta
-Tort Sachera,100,352,g,kcal,ciastka i ciasta
-Tort Szwarcwaldzki,100,264,g,kcal,ciastka i ciasta
-Tort urodzinowy,100,465,g,kcal,ciastka i ciasta
-Tort weselny,100,381,g,kcal,ciastka i ciasta
-Tort z musu czekoladowego,100,260,g,kcal,ciastka i ciasta
-Wuzetka,100,353,g,kcal,ciastka i ciasta
-3 Bit,100,530,g,kcal,cukierki i slodycze
-After Eight,100,452,g,kcal,cukierki i slodycze
-Baton czekoladowy,100,533,g,kcal,cukierki i slodycze
-Baton granola,100,452,g,kcal,cukierki i slodycze
-Baton Mars,100,448,g,kcal,cukierki i slodycze
-Baton z orzeszków ziemnych,100,533,g,kcal,cukierki i slodycze
-Bounty,100,488,g,kcal,cukierki i slodycze
-Celebrations,100,490,g,kcal,cukierki i slodycze
-Chałwa,100,522,g,kcal,cukierki i slodycze
-Chipsy czekoladowe,100,493,g,kcal,cukierki i slodycze
-Chlebojajo,100,196,g,kcal,cukierki i slodycze
-Ciasteczka Speculoos,100,469,g,kcal,cukierki i slodycze
-Ciasteczka spritz,100,500,g,kcal,cukierki i slodycze
-Ciasteczka z masłem orzechowym,100,475,g,kcal,cukierki i slodycze
-Ciastka,100,488,g,kcal,cukierki i slodycze
-Ciastko szczęścia,100,214,g,kcal,cukierki i slodycze
-Czekolada,100,529,g,kcal,cukierki i slodycze
-Czekoladki Lindt,100,548,g,kcal,cukierki i slodycze
-Delicje,100,370,g,kcal,cukierki i slodycze
-Drażetki,100,429,g,kcal,cukierki i slodycze
-Duplo,100,552,g,kcal,cukierki i slodycze
-Fasolki żelowe,100,354,g,kcal,cukierki i slodycze
-Ferrero Rocher,100,576,g,kcal,cukierki i slodycze
-Gofry,100,272,g,kcal,cukierki i slodycze
-Halls,100,390,g,kcal,cukierki i slodycze
-Hanuta,100,541,g,kcal,cukierki i slodycze
-Jabłko w polewie cukrowej,100,152,g,kcal,cukierki i slodycze
-Jeżyki,100,481,g,kcal,cukierki i slodycze
-Kit Kat,100,521,g,kcal,cukierki i slodycze
-Kopiko,100,438,g,kcal,cukierki i slodycze
-Krakersy zwierzątka,100,446,g,kcal,cukierki i slodycze
-Krokant z orzeszków ziemnych,100,183,g,kcal,cukierki i slodycze
-Laseczka cukrowa,100,423,g,kcal,cukierki i slodycze
-Lion,100,493,g,kcal,cukierki i slodycze
-Lizak,100,392,g,kcal,cukierki i slodycze
-Lukrecja,100,375,g,kcal,cukierki i slodycze
-M&M’s,100,479,g,kcal,cukierki i slodycze
-Maltesers,100,498,g,kcal,cukierki i slodycze
-Marcepan,100,411,g,kcal,cukierki i slodycze
-Mars,100,449,g,kcal,cukierki i slodycze
-Mentos,100,390,g,kcal,cukierki i slodycze
-Michałki,100,518,g,kcal,cukierki i slodycze
-Milky Way,100,449,g,kcal,cukierki i slodycze
-Pawełek,100,466,g,kcal,cukierki i slodycze
-Pestki dyni,100,560,g,kcal,cukierki i slodycze
-Pianka żelowa,100,318,g,kcal,cukierki i slodycze
-Pieczone migdały,100,452,g,kcal,cukierki i slodycze
-Pop Rocks,100,358,g,kcal,cukierki i slodycze
-Popcorn,100,582,g,kcal,cukierki i slodycze
-Prince Polo,100,535,g,kcal,cukierki i slodycze
-Princessa,100,542,g,kcal,cukierki i slodycze
-Pudding ryżowy,100,134,g,kcal,cukierki i slodycze
-Rolo,100,474,g,kcal,cukierki i slodycze
-Semolina,100,340,g,kcal,cukierki i slodycze
-Sezamki,100,512,g,kcal,cukierki i slodycze
-Skittles,100,405,g,kcal,cukierki i slodycze
-Smarties,100,357,g,kcal,cukierki i slodycze
-Snickers,100,484,g,kcal,cukierki i slodycze
-Tic Tac,100,395,g,kcal,cukierki i slodycze
-Toblerone,100,525,g,kcal,cukierki i slodycze
-Trifle,100,186,g,kcal,cukierki i slodycze
-Twix,100,495,g,kcal,cukierki i slodycze
-Wata cukrowa,100,643,g,kcal,cukierki i slodycze
-Werther’s Original,100,428,g,kcal,cukierki i slodycze
-WW,100,516,g,kcal,cukierki i slodycze
-Żelki misie,100,316,g,kcal,cukierki i slodycze
-Algida Smietankowa,100,80,g,kcal,lody i desery mrozone
-Big Milk,100,140,g,kcal,lody i desery mrozone
-Carte d’Or Tiramisu,100,190,g,kcal,lody i desery mrozone
-Gigant Koral,100,140,g,kcal,lody i desery mrozone
-Grand Koral,100,204,g,kcal,lody i desery mrozone
-Lody Cookie Dough,100,200,g,kcal,lody i desery mrozone
-Lody czekoladowe,100,216,g,kcal,lody i desery mrozone
-Lody Drumsticks,100,255,g,kcal,lody i desery mrozone
-Lody kawowe,100,236,g,kcal,lody i desery mrozone
-Lody miętowe z posypką czekoladową,100,239,g,kcal,lody i desery mrozone
-Lody Sundae,100,215,g,kcal,lody i desery mrozone
-Lody truskawkowe,100,236,g,kcal,lody i desery mrozone
-Lody typu śnieżka,100,237,g,kcal,lody i desery mrozone
-Lody waniliowe,100,201,g,kcal,lody i desery mrozone
-Lody włoskie,100,222,g,kcal,lody i desery mrozone
-Lody z posypką czekoladową,100,215,g,kcal,lody i desery mrozone
-Lód Snickers,100,360,g,kcal,lody i desery mrozone
-Magnum,100,300,g,kcal,lody i desery mrozone
-Magnum Gold,100,341,g,kcal,lody i desery mrozone
-Magnum w białej polewie,100,297,g,kcal,lody i desery mrozone
-Magnum z migdałami,100,315,g,kcal,lody i desery mrozone
-Magnum z podwójnym karmelem,100,355,g,kcal,lody i desery mrozone
-Magnum z podwójną czekoladą,100,380,g,kcal,lody i desery mrozone
-McFlurry,100,153,g,kcal,lody i desery mrozone
-McFlurry Oreo,100,186,g,kcal,lody i desery mrozone
-McFlurry Smarties,100,198,g,kcal,lody i desery mrozone
-Milord Nordis,100,304,g,kcal,lody i desery mrozone
-Mini Milk,100,120,g,kcal,lody i desery mrozone
-Oskar Koral,100,308,g,kcal,lody i desery mrozone
-Rożek Koral,100,264,g,kcal,lody i desery mrozone
-Solero,100,100,g,kcal,lody i desery mrozone
-Solo Koral,100,121,g,kcal,lody i desery mrozone
-Sundae truskawkowe,100,158,g,kcal,lody i desery mrozone
-Top Milker Koral,100,94,g,kcal,lody i desery mrozone
-Tytan Zielona Budka,100,249,g,kcal,lody i desery mrozone
-Absinthe,100,348,g,kcal,napoje alkoholowe i napitki
-Advocaat,100,283,g,kcal,napoje alkoholowe i napitki
-Amaretto,100,310,g,kcal,napoje alkoholowe i napitki
-Asti,100,138,g,kcal,napoje alkoholowe i napitki
-Baileys,100,327,g,kcal,napoje alkoholowe i napitki
-Bailey’s Irish Cream,100,327,g,kcal,napoje alkoholowe i napitki
-Bimber,100,220,g,kcal,napoje alkoholowe i napitki
-Blue Curacao,100,243,g,kcal,napoje alkoholowe i napitki
-Bourbon,100,233,g,kcal,napoje alkoholowe i napitki
-Brandy,100,213,g,kcal,napoje alkoholowe i napitki
-Canadian Whiskey,100,216,g,kcal,napoje alkoholowe i napitki
-Chambord,100,348,g,kcal,napoje alkoholowe i napitki
-Cointreau,100,320,g,kcal,napoje alkoholowe i napitki
-Cydr,100,49,g,kcal,napoje alkoholowe i napitki
-Drambuie,100,358,g,kcal,napoje alkoholowe i napitki
-Frangelico,100,238,g,kcal,napoje alkoholowe i napitki
-Gin,100,263,g,kcal,napoje alkoholowe i napitki
-Glenfiddich,100,230,g,kcal,napoje alkoholowe i napitki
-Grand Marnier,100,253,g,kcal,napoje alkoholowe i napitki
-Grzaniec,100,105,g,kcal,napoje alkoholowe i napitki
-Jack Daniel’s,100,146,g,kcal,napoje alkoholowe i napitki
-Jagermeister,100,250,g,kcal,napoje alkoholowe i napitki
-Jim Beam,100,222,g,kcal,napoje alkoholowe i napitki
-Kahlua,100,180,g,kcal,napoje alkoholowe i napitki
-Koniak,100,235,g,kcal,napoje alkoholowe i napitki
-Likier,100,250,g,kcal,napoje alkoholowe i napitki
-Midori,100,267,g,kcal,napoje alkoholowe i napitki
-Miód pitny,100,119,g,kcal,napoje alkoholowe i napitki
-Piwo,100,43,g,kcal,napoje alkoholowe i napitki
-Poncz,100,62,g,kcal,napoje alkoholowe i napitki
-Prosecco,100,66,g,kcal,napoje alkoholowe i napitki
-Rum,100,231,g,kcal,napoje alkoholowe i napitki
-Sake,100,138,g,kcal,napoje alkoholowe i napitki
-Sambuca,100,333,g,kcal,napoje alkoholowe i napitki
-Sangria,100,96,g,kcal,napoje alkoholowe i napitki
-Sherry,100,116,g,kcal,napoje alkoholowe i napitki
-Southern Comfort,100,247,g,kcal,napoje alkoholowe i napitki
-Szampan,100,75,g,kcal,napoje alkoholowe i napitki
-Szkocka,100,222,g,kcal,napoje alkoholowe i napitki
-Tarninówka,100,332,g,kcal,napoje alkoholowe i napitki
-Tequila,100,110,g,kcal,napoje alkoholowe i napitki
-Triple Sec,100,153,g,kcal,napoje alkoholowe i napitki
-Vermouth,100,130,g,kcal,napoje alkoholowe i napitki
-Whiskey Irlandzka,100,233,g,kcal,napoje alkoholowe i napitki
-Whisky,100,250,g,kcal,napoje alkoholowe i napitki
-Wino,100,83,g,kcal,napoje alkoholowe i napitki
-Wino białe,100,82,g,kcal,napoje alkoholowe i napitki
-Wino czerwone,100,85,g,kcal,napoje alkoholowe i napitki
-Wino różowe,100,71,g,kcal,napoje alkoholowe i napitki
-Wiśniówka,100,217,g,kcal,napoje alkoholowe i napitki
-Wódka,100,231,g,kcal,napoje alkoholowe i napitki
-Śliwowica,100,260,g,kcal,napoje alkoholowe i napitki
-Żubrówka,100,231,g,kcal,napoje alkoholowe i napitki
-ACE Drink,100,44,g,kcal,napoje bezalkoholowe i napitki
-Apple Spritzer,100,24,g,kcal,napoje bezalkoholowe i napitki
-Bawarka,100,40,g,kcal,napoje bezalkoholowe i napitki
-Club Mate,100,30,g,kcal,napoje bezalkoholowe i napitki
-Coca Cola,100,42,g,kcal,napoje bezalkoholowe i napitki
-Coca Cola Zero,100,1,g,kcal,napoje bezalkoholowe i napitki
-Cola,100,42,g,kcal,napoje bezalkoholowe i napitki
-Cola dietetyczna,100,1,g,kcal,napoje bezalkoholowe i napitki
-Czekolada na gorąco,100,89,g,kcal,napoje bezalkoholowe i napitki
-Gatorade,100,23,g,kcal,napoje bezalkoholowe i napitki
-Herbata,100,1,g,kcal,napoje bezalkoholowe i napitki
-Herbata imbirowa,100,0,g,kcal,napoje bezalkoholowe i napitki
-Herbata zielona,100,30,g,kcal,napoje bezalkoholowe i napitki
-Ice Tea,100,27,g,kcal,napoje bezalkoholowe i napitki
-Karamalz,100,37,g,kcal,napoje bezalkoholowe i napitki
-Kawa,100,1,g,kcal,napoje bezalkoholowe i napitki
-Kawa Inka,100,335,g,kcal,napoje bezalkoholowe i napitki
-Kawa zbożowa,100,11,g,kcal,napoje bezalkoholowe i napitki
-Kombucha,100,13,g,kcal,napoje bezalkoholowe i napitki
-Kompot,100,48,g,kcal,napoje bezalkoholowe i napitki
-Kwas chlebowy,100,30,g,kcal,napoje bezalkoholowe i napitki
-Latte Macchiato,100,57,g,kcal,napoje bezalkoholowe i napitki
-Lemoniada,100,42,g,kcal,napoje bezalkoholowe i napitki
-Masala czaj,100,0,g,kcal,napoje bezalkoholowe i napitki
-Milkshake (w proszku),100,329,g,kcal,napoje bezalkoholowe i napitki
-Milkshake czekoladowy,100,125,g,kcal,napoje bezalkoholowe i napitki
-Milkshake truskawkowy,100,113,g,kcal,napoje bezalkoholowe i napitki
-Milkshake waniliowy,100,149,g,kcal,napoje bezalkoholowe i napitki
-Mleko,100,61,g,kcal,napoje bezalkoholowe i napitki
-Mleko czekoladowe,100,89,g,kcal,napoje bezalkoholowe i napitki
-Mleko sojowe,100,45,g,kcal,napoje bezalkoholowe i napitki
-Nektar,100,53,g,kcal,napoje bezalkoholowe i napitki
-Nestea,100,36,g,kcal,napoje bezalkoholowe i napitki
-Piwo bezalkoholowe,100,37,g,kcal,napoje bezalkoholowe i napitki
-Piwo słodowe,100,37,g,kcal,napoje bezalkoholowe i napitki
-Powerade,100,16,g,kcal,napoje bezalkoholowe i napitki
-Slush Puppie,100,50,g,kcal,napoje bezalkoholowe i napitki
-Smoothie,100,37,g,kcal,napoje bezalkoholowe i napitki
-Woda,100,0,g,kcal,napoje bezalkoholowe i napitki
-Yerba Mate,100,62,g,kcal,napoje bezalkoholowe i napitki
-7Up,100,44,g,kcal,napoje sodowe i lekkie
-Bitter Lemon,100,34,g,kcal,napoje sodowe i lekkie
-Burn,100,57,g,kcal,napoje sodowe i lekkie
-Cherry Coke,100,44,g,kcal,napoje sodowe i lekkie
-Cherry Coke Light,100,1,g,kcal,napoje sodowe i lekkie
-Cola,100,42,g,kcal,napoje sodowe i lekkie
-Cola Light,100,1,g,kcal,napoje sodowe i lekkie
-Cola waniliowa,100,45,g,kcal,napoje sodowe i lekkie
-Cola Zero,100,0,g,kcal,napoje sodowe i lekkie
-Dr Pepper,100,27,g,kcal,napoje sodowe i lekkie
-Fanta,100,39,g,kcal,napoje sodowe i lekkie
-Fanta Zero,100,0,g,kcal,napoje sodowe i lekkie
-Ginger Ale,100,35,g,kcal,napoje sodowe i lekkie
-Hoop Cola,100,44,g,kcal,napoje sodowe i lekkie
-Ice Tea,100,27,g,kcal,napoje sodowe i lekkie
-Kinley Tonic,100,40,g,kcal,napoje sodowe i lekkie
-Kwas chlebowy,100,30,g,kcal,napoje sodowe i lekkie
-Lemoniada,100,42,g,kcal,napoje sodowe i lekkie
-Lipton Ice Tea,100,25,g,kcal,napoje sodowe i lekkie
-Minute Maid,100,46,g,kcal,napoje sodowe i lekkie
-Minute Maid Light,100,2,g,kcal,napoje sodowe i lekkie
-Napój energetyczny Black,100,48,g,kcal,napoje sodowe i lekkie
-Napój gazowany,100,53,g,kcal,napoje sodowe i lekkie
-Nestea,100,29,g,kcal,napoje sodowe i lekkie
-Oranżada,100,48,g,kcal,napoje sodowe i lekkie
-Pepsi,100,44,g,kcal,napoje sodowe i lekkie
-Pepsi Light,100,0,g,kcal,napoje sodowe i lekkie
-Pepsi Light,100,0,g,kcal,napoje sodowe i lekkie
-Powerade,100,120,g,kcal,napoje sodowe i lekkie
-Red Bull,100,45,g,kcal,napoje sodowe i lekkie
-Schweppes,100,38,g,kcal,napoje sodowe i lekkie
-Schweppes Ginger Ale,100,38,g,kcal,napoje sodowe i lekkie
-Sprite,100,37,g,kcal,napoje sodowe i lekkie
-Sprite Zero,100,0,g,kcal,napoje sodowe i lekkie
-Tiger Energy Drink,100,45,g,kcal,napoje sodowe i lekkie
-Tonik,100,35,g,kcal,napoje sodowe i lekkie
-Tymbark jabłkowo-miętowy,100,43,g,kcal,napoje sodowe i lekkie
-Ale,100,35,g,kcal,piwo
-Altbier,100,43,g,kcal,piwo
-Beck’s,100,39,g,kcal,piwo
-Carlsberg,100,32,g,kcal,piwo
-Clausthaler bezalkoholowy,100,26,g,kcal,piwo
-Corona,100,42,g,kcal,piwo
-Dębowe mocne,100,53,g,kcal,piwo
-Guineess,100,35,g,kcal,piwo
-Heineken,100,35,g,kcal,piwo
-India Pale Ale (IPA),100,51,g,kcal,piwo
-Koelsch,100,43,g,kcal,piwo
-Koźlak,100,50,g,kcal,piwo
-Lech,100,41,g,kcal,piwo
-Leżajsk,100,45,g,kcal,piwo
-Lowenbrau,100,45,g,kcal,piwo
-Okocim,100,42,g,kcal,piwo
-Pale Ale,100,42,g,kcal,piwo
-Piast,100,43,g,kcal,piwo
-Pilsner,100,43,g,kcal,piwo
-Piwo,100,43,g,kcal,piwo
-Piwo bezalkoholowe,100,37,g,kcal,piwo
-Piwo ciemne,100,46,g,kcal,piwo
-Piwo imbirowe,100,42,g,kcal,piwo
-Piwo jasne,100,29,g,kcal,piwo
-Piwo Królewskie,100,46,g,kcal,piwo
-Piwo Lager,100,43,g,kcal,piwo
-Piwo mocne,100,55,g,kcal,piwo
-Piwo pszeniczne,100,45,g,kcal,piwo
-Piwo słodowe,100,37,g,kcal,piwo
-Porter,100,54,g,kcal,piwo
-Redd’s,100,44,g,kcal,piwo
-Stout,100,51,g,kcal,piwo
-Tatra,100,46,g,kcal,piwo
-Tyskie,100,64,g,kcal,piwo
-Warka,100,49,g,kcal,piwo
-Żubr,100,51,g,kcal,piwo
-Żywiec,100,49,g,kcal,piwo
-Aloe vera,100,44,g,kcal,soki owocowe
-Capri-Sun,100,41,g,kcal,soki owocowe
-Clamato,100,60,g,kcal,soki owocowe
-Energy-Drink,100,87,g,kcal,soki owocowe
-Herbata rumiankowa,100,0,g,kcal,soki owocowe
-Lassi z mango,100,66,g,kcal,soki owocowe
-Lemoniada,100,50,g,kcal,soki owocowe
-Mleko kokosowe,100,233,g,kcal,soki owocowe
-Nektar brzoskwiniowy,100,54,g,kcal,soki owocowe
-Nektar gruszkowy,100,60,g,kcal,soki owocowe
-Nektar morelowy,100,56,g,kcal,soki owocowe
-Nestea,100,21,g,kcal,soki owocowe
-Sok ananasowy,100,53,g,kcal,soki owocowe
-Sok bananowy,100,50,g,kcal,soki owocowe
-Sok brzoskwiniowy,100,54,g,kcal,soki owocowe
-Sok cytrynowy,100,21,g,kcal,soki owocowe
-Sok grejpfrutowy,100,46,g,kcal,soki owocowe
-Sok gruszkowy,100,60,g,kcal,soki owocowe
-Sok jabłkowy,100,46,g,kcal,soki owocowe
-Sok jeżynowy,100,48,g,kcal,soki owocowe
-Sok marchwiowy,100,40,g,kcal,soki owocowe
-Sok pomarańczowy,100,46,g,kcal,soki owocowe
-Sok pomidorowy,100,17,g,kcal,soki owocowe
-Sok porzeczkowy,100,48,g,kcal,soki owocowe
-Sok warzywny,100,21,g,kcal,soki owocowe
-Sok winogronowy,100,60,g,kcal,soki owocowe
-Sok wiśniowy,100,45,g,kcal,soki owocowe
-Sok z acai,100,58,g,kcal,soki owocowe
-Sok z białych winogron,100,75,g,kcal,soki owocowe
-Sok z granata,100,66,g,kcal,soki owocowe
-Sok z kiszonej kapusty,100,14,g,kcal,soki owocowe
-Sok z limonki,100,21,g,kcal,soki owocowe
-Sok z mandarynek,100,43,g,kcal,soki owocowe
-Sok z ogórka,100,10,g,kcal,soki owocowe
-Sok z papai,100,58,g,kcal,soki owocowe
-Sok z passiflory,100,48,g,kcal,soki owocowe
-Sok śliwkowy,100,71,g,kcal,soki owocowe
-Sok żurawinowy,100,46,g,kcal,soki owocowe
-Woda kokosowa,100,19,g,kcal,soki owocowe
-Acolon,100,85,g,kcal,wino
-Bacchus,100,116,g,kcal,wino
-Cabernet Cortis,100,80,g,kcal,wino
-Cabernet Sauvignon,100,77,g,kcal,wino
-Cava,100,76,g,kcal,wino
-Chardonnay,100,85,g,kcal,wino
-Chenin Blanc,100,80,g,kcal,wino
-Czerwone Talary,100,71,g,kcal,wino
-Gamay,100,78,g,kcal,wino
-Grzaniec Galicyjski,100,105,g,kcal,wino
-Herbowe Solaris,100,82,g,kcal,wino
-Hibernal,100,75,g,kcal,wino
-Malbec,100,82,g,kcal,wino
-Merlot,100,83,g,kcal,wino
-Pinot Gris,100,83,g,kcal,wino
-Pinot Noir,100,75,g,kcal,wino
-Porto,100,160,g,kcal,wino
-Prosecco,100,71,g,kcal,wino
-Regent,100,85,g,kcal,wino
-Riesling,100,80,g,kcal,wino
-Rose Dolina Bystrzycy,100,72,g,kcal,wino
-Sangria,100,132,g,kcal,wino
-Sauvignon Blanc,100,81,g,kcal,wino
-Seyval Blanc,100,82,g,kcal,wino
-Sherry,100,116,g,kcal,wino
-Shiraz,100,71,g,kcal,wino
-Sibera,100,82,g,kcal,wino
-Szampan,100,76,g,kcal,wino
-Wermut,100,108,g,kcal,wino
-Wina słodkie,100,83,g,kcal,wino
-Wino,100,83,g,kcal,wino
-Wino białe,100,82,g,kcal,wino
-Wino białe słodkie,100,82,g,kcal,wino
-Wino czerwone,100,85,g,kcal,wino
-Wino czerwone słodkie,100,81,g,kcal,wino
-Wino czerwone wytrawne,100,85,g,kcal,wino
-Wino grzane,100,196,g,kcal,wino
-Wino Marsala,100,100,g,kcal,wino
-Wino musujące,100,190,g,kcal,wino
-Wino różowe,100,71,g,kcal,wino
-Wino śliwkowe,100,163,g,kcal,wino
-Zinfandel,100,88,g,kcal,wino
-Zweigelt Rose,100,75,g,kcal,wino
-Cannelloni,100,146,g,kcal,makaron i noodle
-Capellini,100,353,g,kcal,makaron i noodle
-Cappelletti,100,164,g,kcal,makaron i noodle
-Ciasto na pierogi,100,99,g,kcal,makaron i noodle
-Fettuccine,100,353,g,kcal,makaron i noodle
-Kluski na parze,100,274,g,kcal,makaron i noodle
-Linguine,100,357,g,kcal,makaron i noodle
-Makaron do Lasagne,100,271,g,kcal,makaron i noodle
-Makaron jajeczny,100,384,g,kcal,makaron i noodle
-Makaron kokardki,100,358,g,kcal,makaron i noodle
-Makaron muszelki,100,353,g,kcal,makaron i noodle
-Makaron nisko węglowodanowy,100,282,g,kcal,makaron i noodle
-Makaron pełnoziarnisty,100,347,g,kcal,makaron i noodle
-Makaron przezroczysty,100,192,g,kcal,makaron i noodle
-Makaron rurki,100,351,g,kcal,makaron i noodle
-Makaron rurki z rowkami,100,370,g,kcal,makaron i noodle
-Makaron ryżowy,100,109,g,kcal,makaron i noodle
-Makaron Shirataki,100,18,g,kcal,makaron i noodle
-Makaron sojowy,100,216,g,kcal,makaron i noodle
-Makaron wstążki,100,370,g,kcal,makaron i noodle
-Makaron włoski,100,370,g,kcal,makaron i noodle
-Makaron włoski uszka,100,370,g,kcal,makaron i noodle
-Makaron łazanki,100,354,g,kcal,makaron i noodle
-Makaron świderki,100,352,g,kcal,makaron i noodle
-Mostaccioli,100,184,g,kcal,makaron i noodle
-Orzo,100,357,g,kcal,makaron i noodle
-Pierogi,100,200,g,kcal,makaron i noodle
-Ravioli,100,77,g,kcal,makaron i noodle
-Rigatoni,100,353,g,kcal,makaron i noodle
-Semolina z pszenicy durum,100,397,g,kcal,makaron i noodle
-Spaghetti,100,370,g,kcal,makaron i noodle
-Spaghetti pełnoziarniste,100,351,g,kcal,makaron i noodle
-Spirelli,100,367,g,kcal,makaron i noodle
-Szpecle,100,368,g,kcal,makaron i noodle
-Tortellini,100,291,g,kcal,makaron i noodle
-Tortellini z serem,100,291,g,kcal,makaron i noodle
-Tortellini ze szpinakiem,100,314,g,kcal,makaron i noodle
-Vermicelli,100,368,g,kcal,makaron i noodle
-Cheerios,100,347,g,kcal,platki owsiane kukurydziane i musli
-Cheerios wielozbożowe,100,380,g,kcal,platki owsiane kukurydziane i musli
-Chocos,100,380,g,kcal,platki owsiane kukurydziane i musli
-Cini Minis,100,433,g,kcal,platki owsiane kukurydziane i musli
-Coco Pops,100,376,g,kcal,platki owsiane kukurydziane i musli
-Cookie Crisp,100,400,g,kcal,platki owsiane kukurydziane i musli
-Crunchy naturalne,100,450,g,kcal,platki owsiane kukurydziane i musli
-Gold Flakes Nestle,100,394,g,kcal,platki owsiane kukurydziane i musli
-Granola Sante orzechowa,100,457,g,kcal,platki owsiane kukurydziane i musli
-Jaśki,100,469,g,kcal,platki owsiane kukurydziane i musli
-Mlekołaki,100,382,g,kcal,platki owsiane kukurydziane i musli
-Muesli,100,336,g,kcal,platki owsiane kukurydziane i musli
-Muesli Fitella,100,399,g,kcal,platki owsiane kukurydziane i musli
-Muesli Lo,100,300,g,kcal,platki owsiane kukurydziane i musli
-Muesli Nestle tropikalne,100,365,g,kcal,platki owsiane kukurydziane i musli
-Muesli Sante granola,100,433,g,kcal,platki owsiane kukurydziane i musli
-Nesquik,100,379,g,kcal,platki owsiane kukurydziane i musli
-Owsianka,100,375,g,kcal,platki owsiane kukurydziane i musli
-Pszenica preparowana,100,367,g,kcal,platki owsiane kukurydziane i musli
-Płatki błonnikowe Sante,100,392,g,kcal,platki owsiane kukurydziane i musli
-Płatki Chocapic czekoladowe,100,382,g,kcal,platki owsiane kukurydziane i musli
-Płatki Frutina,100,319,g,kcal,platki owsiane kukurydziane i musli
-Płatki Kangus z miodem,100,387,g,kcal,platki owsiane kukurydziane i musli
-Płatki kukurydziane,100,357,g,kcal,platki owsiane kukurydziane i musli
-Płatki Lion,100,402,g,kcal,platki owsiane kukurydziane i musli
-Płatki Nestle Fitness z jogurtem,100,399,g,kcal,platki owsiane kukurydziane i musli
-Płatki owsiane Nesvita,100,394,g,kcal,platki owsiane kukurydziane i musli
-Ryż preparowany,100,383,g,kcal,platki owsiane kukurydziane i musli
-Weetabix,100,358,g,kcal,platki owsiane kukurydziane i musli
-Chipsy tortilla,100,499,g,kcal,zboza i produkty zbozowe
-Ciasteczka kruche,100,502,g,kcal,zboza i produkty zbozowe
-Gluten pszenny,100,325,g,kcal,zboza i produkty zbozowe
-Grissini,100,408,g,kcal,zboza i produkty zbozowe
-Jęczmień,100,354,g,kcal,zboza i produkty zbozowe
-Kasza gryczana,100,343,g,kcal,zboza i produkty zbozowe
-Kasza jaglana,100,46,g,kcal,zboza i produkty zbozowe
-Kasza jęczmienna,100,352,g,kcal,zboza i produkty zbozowe
-Kasza kukurydziana,100,362,g,kcal,zboza i produkty zbozowe
-Kasza manna,100,328,g,kcal,zboza i produkty zbozowe
-Komosa ryżowa,100,368,g,kcal,zboza i produkty zbozowe
-Krakersy,100,502,g,kcal,zboza i produkty zbozowe
-Kuskus,100,376,g,kcal,zboza i produkty zbozowe
-Mąka jaglana,100,372,g,kcal,zboza i produkty zbozowe
-Nasiona słonecznika,100,584,g,kcal,zboza i produkty zbozowe
-Otręby orkiszowe,100,177,g,kcal,zboza i produkty zbozowe
-Otręby owsiane,100,246,g,kcal,zboza i produkty zbozowe
-Otręby pszenne,100,216,g,kcal,zboza i produkty zbozowe
-Otręby żytnie,100,281,g,kcal,zboza i produkty zbozowe
-Paluszki,100,380,g,kcal,zboza i produkty zbozowe
-Pełne ziarno owsa,100,375,g,kcal,zboza i produkty zbozowe
-Pełne ziarno pszenicy,100,339,g,kcal,zboza i produkty zbozowe
-Polenta,100,366,g,kcal,zboza i produkty zbozowe
-Proso,100,378,g,kcal,zboza i produkty zbozowe
-Pszenica orkisz,100,338,g,kcal,zboza i produkty zbozowe
-Ryż biały,100,344,g,kcal,zboza i produkty zbozowe
-Ryż brązowy,100,388,g,kcal,zboza i produkty zbozowe
-Ryż dziki,100,355,g,kcal,zboza i produkty zbozowe
-Ryż parboiled,100,366,g,kcal,zboza i produkty zbozowe
-Semolina orkiszowa,100,360,g,kcal,zboza i produkty zbozowe
-Semolina z pszenicy,100,360,g,kcal,zboza i produkty zbozowe
-Semolina z pszenicy durum,100,397,g,kcal,zboza i produkty zbozowe
-Siemię lniane,100,534,g,kcal,zboza i produkty zbozowe
-Skrobia kukurydziana,100,381,g,kcal,zboza i produkty zbozowe
-Skrobia pszenna,100,351,g,kcal,zboza i produkty zbozowe
-Suchary,100,410,g,kcal,zboza i produkty zbozowe
-Szarłat,100,371,g,kcal,zboza i produkty zbozowe
-Tortilla,100,237,g,kcal,zboza i produkty zbozowe
-Wafle kukurydziane,100,274,g,kcal,zboza i produkty zbozowe
-Zarodki pszenne,100,382,g,kcal,zboza i produkty zbozowe
-Ziarno pszenicy,100,337,g,kcal,zboza i produkty zbozowe
-Bigos,100,61,g,kcal,dania i posilki
-Burrito,100,163,g,kcal,dania i posilki
-Chili con Carne,100,105,g,kcal,dania i posilki
-Enchilada,100,168,g,kcal,dania i posilki
-Fahita,100,117,g,kcal,dania i posilki
-Galareta mięsna,100,115,g,kcal,dania i posilki
-Gołąbki,100,108,g,kcal,dania i posilki
-Groch,100,330,g,kcal,dania i posilki
-Gulasz wołowy,100,95,g,kcal,dania i posilki
-Hummus,100,177,g,kcal,dania i posilki
-Kaczka po pekińsku,100,225,g,kcal,dania i posilki
-Kebab,100,215,g,kcal,dania i posilki
-Kiełbasa duszona z cebulką,100,263,g,kcal,dania i posilki
-Kurczak pieczony,100,164,g,kcal,dania i posilki
-Lazania,100,132,g,kcal,dania i posilki
-Makaron z serem,100,370,g,kcal,dania i posilki
-Paella,100,156,g,kcal,dania i posilki
-Pieczeń rzymska,100,254,g,kcal,dania i posilki
-Pieczeń wołowa,100,111,g,kcal,dania i posilki
-Pieczona fasola,100,94,g,kcal,dania i posilki
-Pilaw,100,108,g,kcal,dania i posilki
-Pizza,100,267,g,kcal,dania i posilki
-Ravioli,100,203,g,kcal,dania i posilki
-Risotto,100,118,g,kcal,dania i posilki
-Ryba z frytkami,100,195,g,kcal,dania i posilki
-Ryż brązowy,100,362,g,kcal,dania i posilki
-Ryż smażony,100,186,g,kcal,dania i posilki
-Sajgonki,100,250,g,kcal,dania i posilki
-Sałatka cesarska z kurczakiem,100,127,g,kcal,dania i posilki
-Sałatka ziemniaczana,100,143,g,kcal,dania i posilki
-Spaghetti Bolognese,100,132,g,kcal,dania i posilki
-Taco,100,217,g,kcal,dania i posilki
-Wieprzowina z kością,100,225,g,kcal,dania i posilki
-Ziemniaki tłuczone,100,83,g,kcal,dania i posilki
-Zupa z groszku zielonego,100,75,g,kcal,dania i posilki
-Barszcz biały,100,23,g,kcal,zupy
-Barszcz z uszkami,100,82,g,kcal,zupy
-Bulion,100,16,g,kcal,zupy
-Bulion wołowy,100,3,g,kcal,zupy
-Bulion z kurczaka,100,4,g,kcal,zupy
-Fasolka w sosie,100,133,g,kcal,zupy
-Gulasz,100,50,g,kcal,zupy
-Kapuśniak,100,28,g,kcal,zupy
-Ramen,100,436,g,kcal,zupy
-Ramen błyskawiczny,100,436,g,kcal,zupy
-Rosół z kurczaka,100,16,g,kcal,zupy
-Rosół z kurczaka z makaronem,100,25,g,kcal,zupy
-Wywar warzywny,100,5,g,kcal,zupy
-Zalewajka,100,38,g,kcal,zupy
-Zupa brokułowa,100,87,g,kcal,zupy
-Zupa cebulowa,100,23,g,kcal,zupy
-Zupa grzybowa,100,35,g,kcal,zupy
-Zupa jarzynowa,100,28,g,kcal,zupy
-Zupa krem cebulowa,100,44,g,kcal,zupy
-Zupa krem grzybowa,100,39,g,kcal,zupy
-Zupa krem z brokułów,100,45,g,kcal,zupy
-Zupa krem z homarów,100,100,g,kcal,zupy
-Zupa krem z kurczaka,100,48,g,kcal,zupy
-Zupa krem z kurczaka z makaronem,100,23,g,kcal,zupy
-Zupa krem z selera,100,37,g,kcal,zupy
-Zupa krem ze szparagów,100,35,g,kcal,zupy
-Zupa krem ziemniaczana,100,30,g,kcal,zupy
-Zupa marchewkowa,100,25,g,kcal,zupy
-Zupa marchewkowa z imbirem,100,25,g,kcal,zupy
-Zupa Minestrone,100,34,g,kcal,zupy
-Zupa ogonowa,100,28,g,kcal,zupy
-Zupa pomidorowa,100,30,g,kcal,zupy
-Zupa pomidorowa z ryżem,100,47,g,kcal,zupy
-Zupa tajska,100,60,g,kcal,zupy
-Zupa wołowa,100,33,g,kcal,zupy
-Zupa z dyni,100,29,g,kcal,zupy
-Zupa z groszku,100,75,g,kcal,zupy
-Zupa z klopsikami,100,49,g,kcal,zupy
-Zupa z kurczakiem i ryżem,100,24,g,kcal,zupy
-Zupa z kurczakiem i warzywami,100,31,g,kcal,zupy
-Zupa z makaronem,100,34,g,kcal,zupy
-Zupa z makaronem alfabetem,100,25,g,kcal,zupy
-Zupa z serem i brokułami,100,87,g,kcal,zupy
-Zupa z soczewicy,100,56,g,kcal,zupy
-Zupa z wołowiną i makaronem,100,34,g,kcal,zupy
-Zupa ziemniaczana,100,80,g,kcal,zupy
-Żurek,100,108,g,kcal,zupy
-Arbuz,100,30,g,kcal,orzechy i nasiona
-Chlebowiec,100,191,g,kcal,orzechy i nasiona
-Fasola pinto,100,347,g,kcal,orzechy i nasiona
-Groszek,100,81,g,kcal,orzechy i nasiona
-Kasztan,100,213,g,kcal,orzechy i nasiona
-Kiełki alfa-alfa,100,23,g,kcal,orzechy i nasiona
-Kokos,100,354,g,kcal,orzechy i nasiona
-Migdały,100,575,g,kcal,orzechy i nasiona
-Nasiona bawełny,100,506,g,kcal,orzechy i nasiona
-Nasiona lotosu,100,89,g,kcal,orzechy i nasiona
-Nasiona maku,100,525,g,kcal,orzechy i nasiona
-Nasiona sezamu,100,573,g,kcal,orzechy i nasiona
-Nasiona szałwii hiszpańskiej,100,486,g,kcal,orzechy i nasiona
-Nasiona słonecznika,100,584,g,kcal,orzechy i nasiona
-Nerkowiec,100,553,g,kcal,orzechy i nasiona
-Orzechy brazylijskie,100,656,g,kcal,orzechy i nasiona
-Orzechy Ginkgo,100,182,g,kcal,orzechy i nasiona
-Orzechy hikory,100,657,g,kcal,orzechy i nasiona
-Orzechy laskowe,100,628,g,kcal,orzechy i nasiona
-Orzechy Macadamia,100,718,g,kcal,orzechy i nasiona
-Orzechy pecan,100,691,g,kcal,orzechy i nasiona
-Orzechy włoskie,100,654,g,kcal,orzechy i nasiona
-Orzeszki bukowe,100,576,g,kcal,orzechy i nasiona
-Orzeszki pini,100,673,g,kcal,orzechy i nasiona
-Orzeszki ziemne,100,567,g,kcal,orzechy i nasiona
-Pestki dyni,100,559,g,kcal,orzechy i nasiona
-Pestki dyni piżmowej,100,612,g,kcal,orzechy i nasiona
-Pistacje,100,562,g,kcal,orzechy i nasiona
-Siemię lniane,100,534,g,kcal,orzechy i nasiona
-Soja,100,147,g,kcal,orzechy i nasiona
-Słodkie kasztany,100,194,g,kcal,orzechy i nasiona
-Żołędzie,100,387,g,kcal,orzechy i nasiona
-Bób,100,99,g,kcal,rosliny straczkowe
-Ciecierzyca,100,364,g,kcal,rosliny straczkowe
-Ciecierzyca czarna,100,364,g,kcal,rosliny straczkowe
-Dynia piżmowa,100,612,g,kcal,rosliny straczkowe
-Fasola Azuki,100,366,g,kcal,rosliny straczkowe
-Fasola biała,100,336,g,kcal,rosliny straczkowe
-Fasola czarna,100,341,g,kcal,rosliny straczkowe
-Fasola czerwona,100,124,g,kcal,rosliny straczkowe
-Fasola flageolet,100,85,g,kcal,rosliny straczkowe
-Fasola kidney,100,337,g,kcal,rosliny straczkowe
-Fasola mung / Fasola złota,100,12,g,kcal,rosliny straczkowe
-Fasola Mungo,100,331,g,kcal,rosliny straczkowe
-Fasola pinto,100,347,g,kcal,rosliny straczkowe
-Fasola z chili,100,97,g,kcal,rosliny straczkowe
-Fasolka zielona,100,31,g,kcal,rosliny straczkowe
-Groch,100,230,g,kcal,rosliny straczkowe
-Groszek w strączkach,100,42,g,kcal,rosliny straczkowe
-Groszek zielony,100,42,g,kcal,rosliny straczkowe
-Jogurt sojowy,100,66,g,kcal,rosliny straczkowe
-Kasztan jadalny,100,210,g,kcal,rosliny straczkowe
-Kiełki fasoli,100,30,g,kcal,rosliny straczkowe
-Majonez sojowy,100,322,g,kcal,rosliny straczkowe
-Miso,100,199,g,kcal,rosliny straczkowe
-Orzeszki pekan,100,691,g,kcal,rosliny straczkowe
-Orzeszki sojowe,100,471,g,kcal,rosliny straczkowe
-Orzeszki ziemne,100,567,g,kcal,rosliny straczkowe
-Piżmian,100,33,g,kcal,rosliny straczkowe
-Pędy bambusa,100,27,g,kcal,rosliny straczkowe
-Ser tofu bardzo twardy,100,91,g,kcal,rosliny straczkowe
-Ser tofu twardy,100,70,g,kcal,rosliny straczkowe
-Ser z soi,100,235,g,kcal,rosliny straczkowe
-Soczewica,100,353,g,kcal,rosliny straczkowe
-Soczewica brązowa,100,353,g,kcal,rosliny straczkowe
-Soczewica czerwona,100,329,g,kcal,rosliny straczkowe
-Soczewica zielona,100,257,g,kcal,rosliny straczkowe
-Soczewica żółta,100,304,g,kcal,rosliny straczkowe
-Soja,100,147,g,kcal,rosliny straczkowe
-Tempeh,100,193,g,kcal,rosliny straczkowe
-Tofu,100,76,g,kcal,rosliny straczkowe
-Tofu głęboko smażony,100,271,g,kcal,rosliny straczkowe
-Tofu miękkie,100,55,g,kcal,rosliny straczkowe
-Ghee,100,120,g,kcal,oleje i tluszcze
-Margaryna,100,717,g,kcal,oleje i tluszcze
-Masło,100,720,g,kcal,oleje i tluszcze
-Olej canola,100,884,g,kcal,oleje i tluszcze
-Olej kokosowy,100,857,g,kcal,oleje i tluszcze
-Olej kukurydziany,100,800,g,kcal,oleje i tluszcze
-Olej lniany,100,884,g,kcal,oleje i tluszcze
-Olej macademia,100,819,g,kcal,oleje i tluszcze
-Olej migdałowy,100,882,g,kcal,oleje i tluszcze
-Olej musztardowy,100,884,g,kcal,oleje i tluszcze
-Olej palmowy,100,882,g,kcal,oleje i tluszcze
-Olej sezamowy,100,884,g,kcal,oleje i tluszcze
-Olej sojowy,100,889,g,kcal,oleje i tluszcze
-Olej słonecznikowy,100,884,g,kcal,oleje i tluszcze
-Olej z awokado,100,857,g,kcal,oleje i tluszcze
-Olej z krokosza barwierskiego,100,857,g,kcal,oleje i tluszcze
-Olej z nasion bawełny,100,882,g,kcal,oleje i tluszcze
-Olej z nasion winogron,100,884,g,kcal,oleje i tluszcze
-Olej z orzechów włoskich,100,889,g,kcal,oleje i tluszcze
-Olej z orzeszków ziemnych,100,857,g,kcal,oleje i tluszcze
-Olej z sardynek,100,902,g,kcal,oleje i tluszcze
-Olej ze śledzia,100,902,g,kcal,oleje i tluszcze
-Oliwa z oliwek,100,884,g,kcal,oleje i tluszcze
-Smalec,100,902,g,kcal,oleje i tluszcze
-Tran z wątroby dorsza,100,1000,g,kcal,oleje i tluszcze
-Olaj canola,100,884,g,kcal,oleje roslinne
-Olej arganowy,100,896,g,kcal,oleje roslinne
-Olej babassu,100,884,g,kcal,oleje roslinne
-Olej kokosowy,100,857,g,kcal,oleje roslinne
-Olej kukurydziany,100,800,g,kcal,oleje roslinne
-Olej lniany,100,837,g,kcal,oleje roslinne
-Olej migdałowy,100,882,g,kcal,oleje roslinne
-Olej musztardowy,100,884,g,kcal,oleje roslinne
-Olej owsiany,100,884,g,kcal,oleje roslinne
-Olej palmowy,100,882,g,kcal,oleje roslinne
-Olej roślinny,100,800,g,kcal,oleje roslinne
-Olej sezamowy,100,889,g,kcal,oleje roslinne
-Olej shea,100,884,g,kcal,oleje roslinne
-Olej sojowy,100,882,g,kcal,oleje roslinne
-Olej słonecznikowy,100,884,g,kcal,oleje roslinne
-Olej z awokado,100,857,g,kcal,oleje roslinne
-Olej z krokosza barwierskiego,100,857,g,kcal,oleje roslinne
-Olej z nasion bawełny,100,882,g,kcal,oleje roslinne
-Olej z nasion maku,100,884,g,kcal,oleje roslinne
-Olej z orzechów laskowych,100,889,g,kcal,oleje roslinne
-Olej z orzechów włoskich,100,889,g,kcal,oleje roslinne
-Olej z orzeszków ziemnych,100,857,g,kcal,oleje roslinne
-Olej z otrąb ryżowych,100,889,g,kcal,oleje roslinne
-Olej z pestek dyni,100,880,g,kcal,oleje roslinne
-Olej z pestek moreli,100,889,g,kcal,oleje roslinne
-Olej z pestek pomidora,100,884,g,kcal,oleje roslinne
-Olej z pestek winogron,100,884,g,kcal,oleje roslinne
-Olej z zarodków pszenicy,100,929,g,kcal,oleje roslinne
-Olej z łososia,100,911,g,kcal,oleje roslinne
-Oliwa z oliwek,100,800,g,kcal,oleje roslinne
-Dżem brzoskwiniowy,100,180,g,kcal,pasty
-Dżem jagodowy,100,250,g,kcal,pasty
-Dżem jeżynowy,100,250,g,kcal,pasty
-Dżem malinowy,100,240,g,kcal,pasty
-Dżem morelowy,100,250,g,kcal,pasty
-Dżem pomarańczowy,100,246,g,kcal,pasty
-Dżem truskawkowy,100,250,g,kcal,pasty
-Dżem wiśniowy,100,250,g,kcal,pasty
-Dżem z czarnej porzeczki,100,250,g,kcal,pasty
-Dżem śliwkowy,100,250,g,kcal,pasty
-Jajko,100,97,g,kcal,pasty
-Konfitura,100,278,g,kcal,pasty
-Konfitura truskawkowa,100,250,g,kcal,pasty
-Konfitura winogronowa,100,255,g,kcal,pasty
-Krem czekoladowy,100,541,g,kcal,pasty
-Margaryna,100,717,g,kcal,pasty
-Masło,100,717,g,kcal,pasty
-Masło migdałowe,100,614,g,kcal,pasty
-Masło orzechowe,100,589,g,kcal,pasty
-Masło roślinne,100,721,g,kcal,pasty
-Masło solone,100,717,g,kcal,pasty
-Miód,100,304,g,kcal,pasty
-Miód dzikich pszczół,100,286,g,kcal,pasty
-Mus jabłkowy,100,68,g,kcal,pasty
-Nutella,100,544,g,kcal,pasty
-Paprykarz,100,179,g,kcal,pasty
-Pasta z drożdży,100,180,g,kcal,pasty
-Pasta z łososia,100,267,g,kcal,pasty
-Pasztet,100,319,g,kcal,pasty
-Pasztet sojowy,100,274,g,kcal,pasty
-Pasztetowa,100,305,g,kcal,pasty
-Powidła śliwkowe,100,209,g,kcal,pasty
-Serek Almette z ziołami,100,118,g,kcal,pasty
-Serek Almette śmietankowy,100,270,g,kcal,pasty
-Serek kremowy,100,342,g,kcal,pasty
-Serek topiony,100,290,g,kcal,pasty
-Serek śmietankowy Philadelphia,100,342,g,kcal,pasty
-Aloza,100,252,g,kcal,ryby i owoce morza
-Balistyda,100,93,g,kcal,ryby i owoce morza
-Barwena,100,150,g,kcal,ryby i owoce morza
-Chanos,100,190,g,kcal,ryby i owoce morza
-Dorsz,100,105,g,kcal,ryby i owoce morza
-Dorsz atlantycki,100,172,g,kcal,ryby i owoce morza
-Flądra,100,86,g,kcal,ryby i owoce morza
-Granik,100,118,g,kcal,ryby i owoce morza
-Halibut,100,111,g,kcal,ryby i owoce morza
-Homar,100,89,g,kcal,ryby i owoce morza
-Homary w cieście,100,84,g,kcal,ryby i owoce morza
-Jesiotr,100,135,g,kcal,ryby i owoce morza
-Kalmary,100,175,g,kcal,ryby i owoce morza
-Karp,100,162,g,kcal,ryby i owoce morza
-Kawior,100,264,g,kcal,ryby i owoce morza
-Kulbak czerwony,100,94,g,kcal,ryby i owoce morza
-Leszcz,100,135,g,kcal,ryby i owoce morza
-Lucjan czerwony,100,87,g,kcal,ryby i owoce morza
-Makrela,100,262,g,kcal,ryby i owoce morza
-Małż,100,148,g,kcal,ryby i owoce morza
-Miecznik,100,172,g,kcal,ryby i owoce morza
-Miruna,100,121,g,kcal,ryby i owoce morza
-Molwa,100,128,g,kcal,ryby i owoce morza
-Morszczuk,100,71,g,kcal,ryby i owoce morza
-Okoń morski,100,124,g,kcal,ryby i owoce morza
-Omułek,100,172,g,kcal,ryby i owoce morza
-Ośmiornica,100,164,g,kcal,ryby i owoce morza
-Paluszki rybne,100,290,g,kcal,ryby i owoce morza
-Pollachius,100,111,g,kcal,ryby i owoce morza
-Przegrzebki,100,111,g,kcal,ryby i owoce morza
-Pstrąg,100,190,g,kcal,ryby i owoce morza
-Rak,100,82,g,kcal,ryby i owoce morza
-Rekin,100,130,g,kcal,ryby i owoce morza
-Rolmopsy,100,171,g,kcal,ryby i owoce morza
-Ryba maślana,100,187,g,kcal,ryby i owoce morza
-Sandacz,100,84,g,kcal,ryby i owoce morza
-Sardela,100,131,g,kcal,ryby i owoce morza
-Sardynki,100,208,g,kcal,ryby i owoce morza
-Sałatka z tuńczyka,100,187,g,kcal,ryby i owoce morza
-Skarp,100,122,g,kcal,ryby i owoce morza
-Sola,100,86,g,kcal,ryby i owoce morza
-Solandra,100,109,g,kcal,ryby i owoce morza
-Stynka,100,124,g,kcal,ryby i owoce morza
-Sushi,100,150,g,kcal,ryby i owoce morza
-Szczupak,100,113,g,kcal,ryby i owoce morza
-Tesegral,100,159,g,kcal,ryby i owoce morza
-Tuńczyk,100,132,g,kcal,ryby i owoce morza
-Witlinek,100,116,g,kcal,ryby i owoce morza
-Węgorz,100,236,g,kcal,ryby i owoce morza
-Łosoś,100,206,g,kcal,ryby i owoce morza
-Łupacz,100,90,g,kcal,ryby i owoce morza
-Śledź,100,203,g,kcal,ryby i owoce morza
-Śledź marynowany,100,262,g,kcal,ryby i owoce morza
-Śledź wędzony,100,217,g,kcal,ryby i owoce morza
-Agar-agar,100,26,g,kcal,skladniki do pieczenia
-Białko jaja,100,13,g,kcal,skladniki do pieczenia
-Chipsy czekoladowe,100,467,g,kcal,skladniki do pieczenia
-Cukier,100,21,g,kcal,skladniki do pieczenia
-Cukier brązowy,100,395,g,kcal,skladniki do pieczenia
-Cukier granulowany,100,387,g,kcal,skladniki do pieczenia
-Cukier kandyzowany,100,625,g,kcal,skladniki do pieczenia
-Cukier puder,100,389,g,kcal,skladniki do pieczenia
-Cukier trzcinowy,100,387,g,kcal,skladniki do pieczenia
-Cukier waniliowy,100,357,g,kcal,skladniki do pieczenia
-Cynamon mielony,100,247,g,kcal,skladniki do pieczenia
-Drożdże (suszone),100,325,g,kcal,skladniki do pieczenia
-Drożdże świeże,100,83,g,kcal,skladniki do pieczenia
-Ekstrakt miętowy,100,0,g,kcal,skladniki do pieczenia
-Ekstrakt waniliowy,100,288,g,kcal,skladniki do pieczenia
-Ekstrakt z migdałów,100,258,g,kcal,skladniki do pieczenia
-Figi suszone,100,249,g,kcal,skladniki do pieczenia
-Fruktoza,100,368,g,kcal,skladniki do pieczenia
-Glukoza,100,286,g,kcal,skladniki do pieczenia
-Imbir kandyzowany,100,335,g,kcal,skladniki do pieczenia
-Jajko,100,97,g,kcal,skladniki do pieczenia
-Jajo kacze,100,185,g,kcal,skladniki do pieczenia
-Jogurt,100,61,g,kcal,skladniki do pieczenia
-Kakao w proszku,100,228,g,kcal,skladniki do pieczenia
-Konfitura truskawkowa,100,278,g,kcal,skladniki do pieczenia
-Krokant,100,592,g,kcal,skladniki do pieczenia
-Ksylitol,100,240,g,kcal,skladniki do pieczenia
-Kuwertura,100,600,g,kcal,skladniki do pieczenia
-Mak,100,525,g,kcal,skladniki do pieczenia
-Malititol,100,210,g,kcal,skladniki do pieczenia
-Maltodekstryna,100,375,g,kcal,skladniki do pieczenia
-Maltoza,100,344,g,kcal,skladniki do pieczenia
-Margaryna,100,884,g,kcal,skladniki do pieczenia
-Masło,100,717,g,kcal,skladniki do pieczenia
-Maślanka,100,62,g,kcal,skladniki do pieczenia
-Melasa,100,290,g,kcal,skladniki do pieczenia
-Migdały,100,529,g,kcal,skladniki do pieczenia
-Miód,100,304,g,kcal,skladniki do pieczenia
-Mleko kokosowe,100,50,g,kcal,skladniki do pieczenia
-Mleko odparowane,100,134,g,kcal,skladniki do pieczenia
-Mleko pełne,100,61,g,kcal,skladniki do pieczenia
-Mleko ryżowe,100,49,g,kcal,skladniki do pieczenia
-Mleko skondensowane słodzone,100,321,g,kcal,skladniki do pieczenia
-Mleko sojowe,100,41,g,kcal,skladniki do pieczenia
-Mleko w proszku,100,496,g,kcal,skladniki do pieczenia
-Morele suszone,100,241,g,kcal,skladniki do pieczenia
-Mąka,100,364,g,kcal,skladniki do pieczenia
-Mąka /kaszka kukurydziana,100,361,g,kcal,skladniki do pieczenia
-Mąka pełnoziarnista,100,340,g,kcal,skladniki do pieczenia
-Mąka z semoliny,100,350,g,kcal,skladniki do pieczenia
-Napój ze słodu w proszku,100,405,g,kcal,skladniki do pieczenia
-Nasiona słonecznika,100,117,g,kcal,skladniki do pieczenia
-Olej roślinny,100,884,g,kcal,skladniki do pieczenia
-Orzechy laskowe,100,628,g,kcal,skladniki do pieczenia
-Orzechy włoskie,100,131,g,kcal,skladniki do pieczenia
-Posypka czekoladowa,100,500,g,kcal,skladniki do pieczenia
-Posypka do ciasta,100,475,g,kcal,skladniki do pieczenia
-Posypka perełkowa do ciasta,100,500,g,kcal,skladniki do pieczenia
-Proszek do pieczenia,100,53,g,kcal,skladniki do pieczenia
-Proszek proteinowy,100,411,g,kcal,skladniki do pieczenia
-Płatki kokosowe,100,456,g,kcal,skladniki do pieczenia
-Płatki owsiane,100,384,g,kcal,skladniki do pieczenia
-Rodzynki,100,474,g,kcal,skladniki do pieczenia
-Rum,100,246,g,kcal,skladniki do pieczenia
-Rum ciemny,100,216,g,kcal,skladniki do pieczenia
-Sacharoza,100,387,g,kcal,skladniki do pieczenia
-Sezam,100,573,g,kcal,skladniki do pieczenia
-Skrobia,100,381,g,kcal,skladniki do pieczenia
-Skrobia kukurydziana,100,381,g,kcal,skladniki do pieczenia
-Skórka pomarańczowa kandyzowana,100,97,g,kcal,skladniki do pieczenia
-Soda oczyszczona,100,0,g,kcal,skladniki do pieczenia
-Sorbitol,100,375,g,kcal,skladniki do pieczenia
-Syrop glukozowy,100,387,g,kcal,skladniki do pieczenia
-Syrop klonowy,100,270,g,kcal,skladniki do pieczenia
-Syrop kukurydziany,100,281,g,kcal,skladniki do pieczenia
-Syrop z agawy,100,310,g,kcal,skladniki do pieczenia
-Słodzik,100,360,g,kcal,skladniki do pieczenia
-Słód w proszku,100,361,g,kcal,skladniki do pieczenia
-Twarożek śmietankowy,100,54,g,kcal,skladniki do pieczenia
-Winian potasu,100,258,g,kcal,skladniki do pieczenia
-Wiórki kokosowe,100,501,g,kcal,skladniki do pieczenia
-Śliwki suszone,100,107,g,kcal,skladniki do pieczenia
-Śmietana kremówka,100,345,g,kcal,skladniki do pieczenia
-Żelatyna,100,335,g,kcal,skladniki do pieczenia
-Żurawina suszona,100,308,g,kcal,skladniki do pieczenia
-Żółtko jaja,100,322,g,kcal,skladniki do pieczenia
-Ajwar,100,18,g,kcal,sosy i dressingi
-Chrzan,100,48,g,kcal,sosy i dressingi
-Harissa,100,52,g,kcal,sosy i dressingi
-Jus,100,53,g,kcal,sosy i dressingi
-Ketchup,100,100,g,kcal,sosy i dressingi
-Ketchup curry,100,124,g,kcal,sosy i dressingi
-Kwaśna śmietana,100,217,g,kcal,sosy i dressingi
-Majonez,100,692,g,kcal,sosy i dressingi
-Musztarda,100,60,g,kcal,sosy i dressingi
-Pasta sezamowa,100,595,g,kcal,sosy i dressingi
-Pesto,100,458,g,kcal,sosy i dressingi
-Przecier pomidorowy,100,82,g,kcal,sosy i dressingi
-Puree pomidorowe,100,38,g,kcal,sosy i dressingi
-Sos barbecue,100,150,g,kcal,sosy i dressingi
-Sos beareński,100,414,g,kcal,sosy i dressingi
-Sos beszamelowy,100,225,g,kcal,sosy i dressingi
-Sos bolognese,100,106,g,kcal,sosy i dressingi
-Sos Chasseur,100,45,g,kcal,sosy i dressingi
-Sos chili,100,112,g,kcal,sosy i dressingi
-Sos curry,100,26,g,kcal,sosy i dressingi
-Sos do sałatek włoski,100,293,g,kcal,sosy i dressingi
-Sos hamburgerowy,100,383,g,kcal,sosy i dressingi
-Sos holenderski,100,535,g,kcal,sosy i dressingi
-Sos musztardowy,100,645,g,kcal,sosy i dressingi
-Sos pomarańczowy,100,179,g,kcal,sosy i dressingi
-Sos pomidorowy,100,24,g,kcal,sosy i dressingi
-Sos Remoulade,100,635,g,kcal,sosy i dressingi
-Sos sałatkowy,100,449,g,kcal,sosy i dressingi
-Sos sałatkowy cezar,100,429,g,kcal,sosy i dressingi
-Sos sałatkowy francuski,100,60,g,kcal,sosy i dressingi
-Sos sałatkowy grecki,100,467,g,kcal,sosy i dressingi
-Sos sałatkowy jogurtowy,100,45,g,kcal,sosy i dressingi
-Sos sałatkowy musztardowo-miodowy,100,464,g,kcal,sosy i dressingi
-Sos sałatkowy Ranch,100,510,g,kcal,sosy i dressingi
-Sos sojowy,100,67,g,kcal,sosy i dressingi
-Sos słodko-kwaśny,100,179,g,kcal,sosy i dressingi
-Sos Teriyaki,100,89,g,kcal,sosy i dressingi
-Sos Vinaigrette,100,120,g,kcal,sosy i dressingi
-Sos vinaigrette balsamiczny,100,290,g,kcal,sosy i dressingi
-Sos Worcestershire,100,78,g,kcal,sosy i dressingi
-Sos z kwaśniej śmietany,100,60,g,kcal,sosy i dressingi
-Sos śmietanowy,100,180,g,kcal,sosy i dressingi
-Tabasco,100,70,g,kcal,sosy i dressingi
-Tzatziki,100,94,g,kcal,sosy i dressingi
-Babeczki,100,305,g,kcal,wyroby cukiernicze chleb i wypieki
-Babka Panettone,100,318,g,kcal,wyroby cukiernicze chleb i wypieki
-Bagietka,100,274,g,kcal,wyroby cukiernicze chleb i wypieki
-Bajgiel,100,257,g,kcal,wyroby cukiernicze chleb i wypieki
-Biszkopty,100,269,g,kcal,wyroby cukiernicze chleb i wypieki
-Brioszka,100,346,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułeczki cynamonowe,100,436,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka,100,316,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka do hot dogów,100,279,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka grahamka,100,254,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka maślana,100,325,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka preclowa,100,338,g,kcal,wyroby cukiernicze chleb i wypieki
-Bułka słodka,100,292,g,kcal,wyroby cukiernicze chleb i wypieki
-Cannolo,100,254,g,kcal,wyroby cukiernicze chleb i wypieki
-Chałka,100,283,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb bananowy,100,326,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb biały,100,238,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb graham,100,212,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb kukurydziany,100,179,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb na zakwasie,100,289,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb Naan,100,275,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb Pita,100,275,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb pszenny pełnoziarnisty,100,247,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb razowy,100,250,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb sodowy,100,290,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb tostowy,100,240,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb wieloziarnisty,100,265,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb włoski,100,271,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb z rodzynkami,100,274,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb ziemniaczany,100,266,g,kcal,wyroby cukiernicze chleb i wypieki
-Chleb żytni,100,259,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciabatta,100,271,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciasteczka owsiane,100,450,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciastko scone,100,362,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciasto czekoladowe,100,405,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciasto francuskie,100,558,g,kcal,wyroby cukiernicze chleb i wypieki
-Ciasto kruche,100,544,g,kcal,wyroby cukiernicze chleb i wypieki
-Crumpet,100,178,g,kcal,wyroby cukiernicze chleb i wypieki
-Czapati,100,240,g,kcal,wyroby cukiernicze chleb i wypieki
-Focaccia (podstawa do pizzy),100,249,g,kcal,wyroby cukiernicze chleb i wypieki
-Grissini,100,400,g,kcal,wyroby cukiernicze chleb i wypieki
-Kajzerka,100,271,g,kcal,wyroby cukiernicze chleb i wypieki
-Kanapka,100,304,g,kcal,wyroby cukiernicze chleb i wypieki
-Maca,100,351,g,kcal,wyroby cukiernicze chleb i wypieki
-Mini pizza,100,250,g,kcal,wyroby cukiernicze chleb i wypieki
-Muffinka,100,296,g,kcal,wyroby cukiernicze chleb i wypieki
-Naleśnik,100,233,g,kcal,wyroby cukiernicze chleb i wypieki
-Naleśniki Crêpe,100,224,g,kcal,wyroby cukiernicze chleb i wypieki
-Pieczywo czosnkowe,100,350,g,kcal,wyroby cukiernicze chleb i wypieki
-Placuszki roti,100,264,g,kcal,wyroby cukiernicze chleb i wypieki
-Podpłomyki,100,311,g,kcal,wyroby cukiernicze chleb i wypieki
-Precel,100,338,g,kcal,wyroby cukiernicze chleb i wypieki
-Pumpernikiel,100,250,g,kcal,wyroby cukiernicze chleb i wypieki
-Pączek,100,421,g,kcal,wyroby cukiernicze chleb i wypieki
-Rogal drożdżowy,100,177,g,kcal,wyroby cukiernicze chleb i wypieki
-Rogal maślany,100,322,g,kcal,wyroby cukiernicze chleb i wypieki
-Rogalik,100,406,g,kcal,wyroby cukiernicze chleb i wypieki
-Rolada,100,313,g,kcal,wyroby cukiernicze chleb i wypieki
-Rożek z jabłkiem,100,348,g,kcal,wyroby cukiernicze chleb i wypieki
-Spanakopita,100,246,g,kcal,wyroby cukiernicze chleb i wypieki
-Suflet,100,204,g,kcal,wyroby cukiernicze chleb i wypieki
-Szarlotka,100,237,g,kcal,wyroby cukiernicze chleb i wypieki
-Tarta,100,237,g,kcal,wyroby cukiernicze chleb i wypieki
-Toast,100,261,g,kcal,wyroby cukiernicze chleb i wypieki
-Tortilla,100,265,g,kcal,wyroby cukiernicze chleb i wypieki
-Anyż,100,337,g,kcal,ziola i przyprawy
-Bazylia,100,233,g,kcal,ziola i przyprawy
-Botwina,100,19,g,kcal,ziola i przyprawy
-Cebula,100,40,g,kcal,ziola i przyprawy
-Cebula sproszkowana,100,341,g,kcal,ziola i przyprawy
-Chili,100,282,g,kcal,ziola i przyprawy
-Chili w proszku,100,282,g,kcal,ziola i przyprawy
-Chrzan,100,48,g,kcal,ziola i przyprawy
-Curry,100,325,g,kcal,ziola i przyprawy
-Cynamon,100,247,g,kcal,ziola i przyprawy
-Czosnek,100,149,g,kcal,ziola i przyprawy
-Czosnek sproszkowany,100,331,g,kcal,ziola i przyprawy
-Ekstrakt z migdałów,100,374,g,kcal,ziola i przyprawy
-Ekstrakt z wanilii,100,288,g,kcal,ziola i przyprawy
-Estragon,100,295,g,kcal,ziola i przyprawy
-Gałka muszkatołowa,100,525,g,kcal,ziola i przyprawy
-Goździki,100,274,g,kcal,ziola i przyprawy
-Imbir,100,80,g,kcal,ziola i przyprawy
-Imbir kandyzowany,100,335,g,kcal,ziola i przyprawy
-Jalepeno,100,13,g,kcal,ziola i przyprawy
-Jałowiec,100,45,g,kcal,ziola i przyprawy
-Kapary,100,23,g,kcal,ziola i przyprawy
-Kolendra,100,23,g,kcal,ziola i przyprawy
-Kolokazja,100,112,g,kcal,ziola i przyprawy
-Koper,100,43,g,kcal,ziola i przyprawy
-Koper włoski,100,31,g,kcal,ziola i przyprawy
-Korzeń cykorii,100,72,g,kcal,ziola i przyprawy
-Kumin,100,375,g,kcal,ziola i przyprawy
-Kurkuma,100,354,g,kcal,ziola i przyprawy
-Laska wanilii,100,250,g,kcal,ziola i przyprawy
-Liście cykorii,100,23,g,kcal,ziola i przyprawy
-Liście winogron,100,93,g,kcal,ziola i przyprawy
-Lukrecja,100,375,g,kcal,ziola i przyprawy
-Maggi,100,104,g,kcal,ziola i przyprawy
-Majeranek,100,271,g,kcal,ziola i przyprawy
-Maniok,100,160,g,kcal,ziola i przyprawy
-Mięta,100,70,g,kcal,ziola i przyprawy
-Mniszek lekarski,100,45,g,kcal,ziola i przyprawy
-Nasiona anyżu,100,337,g,kcal,ziola i przyprawy
-Nasiona gorczycy,100,508,g,kcal,ziola i przyprawy
-Nasiona kminku,100,333,g,kcal,ziola i przyprawy
-Nasiona kopru włoskiego,100,345,g,kcal,ziola i przyprawy
-Nasiona maku,100,525,g,kcal,ziola i przyprawy
-Nasiona sezamu,100,573,g,kcal,ziola i przyprawy
-Nasiona sezamu czarnego,100,573,g,kcal,ziola i przyprawy
-Ocet,100,18,g,kcal,ziola i przyprawy
-Ocet balsamiczny,100,88,g,kcal,ziola i przyprawy
-Ocet jabłkowy,100,21,g,kcal,ziola i przyprawy
-Ocet winny czerwony,100,19,g,kcal,ziola i przyprawy
-Oregano,100,265,g,kcal,ziola i przyprawy
-Papryka,100,251,g,kcal,ziola i przyprawy
-Papryka czerwona,100,251,g,kcal,ziola i przyprawy
-Pasternak,100,75,g,kcal,ziola i przyprawy
-Pieprz biały,100,296,g,kcal,ziola i przyprawy
-Pieprz cayenne,100,318,g,kcal,ziola i przyprawy
-Pieprz czarny,100,251,g,kcal,ziola i przyprawy
-Pietruszka,100,36,g,kcal,ziola i przyprawy
-Piżmian,100,33,g,kcal,ziola i przyprawy
-Rokietta siewna,100,25,g,kcal,ziola i przyprawy
-Rosół,100,100,g,kcal,ziola i przyprawy
-Rozmaryn,100,131,g,kcal,ziola i przyprawy
-Rzeżucha,100,32,g,kcal,ziola i przyprawy
-Siekana cebula,100,40,g,kcal,ziola i przyprawy
-Skórka pomarańczowa,100,97,g,kcal,ziola i przyprawy
-Stewia,100,0,g,kcal,ziola i przyprawy
-Szafran,100,310,g,kcal,ziola i przyprawy
-Szałwia,100,315,g,kcal,ziola i przyprawy
-Szczypiorek,100,30,g,kcal,ziola i przyprawy
-Sól,100,0,g,kcal,ziola i przyprawy
-Sól czosnkowa,100,0,g,kcal,ziola i przyprawy
-Sól jodowana,100,0,g,kcal,ziola i przyprawy
-Sól morska,100,0,g,kcal,ziola i przyprawy
-Tamaryndowiec,100,239,g,kcal,ziola i przyprawy
-Tymianek,100,276,g,kcal,ziola i przyprawy
-Ziemniak słodki,100,118,g,kcal,ziola i przyprawy
+Żywność,Kalorie,JednostkaKalorii,JednostkaWagi,Kategoria,Porcja,WagaPorcji
+Agrest,44,kcal,g,owoce,szklanka,148
+Ananas,50,kcal,g,owoce,szklanka,151
+Arbuz,30,kcal,g,owoce,ananas,905
+Awokado,160,kcal,g,owoce,arbuz,286
+Banan,89,kcal,g,owoce,awokado,200
+Banan rajski,122,kcal,g,owoce,banan,125
+Brzoskwinia,39,kcal,g,owoce,banan,179
+Cytryna,29,kcal,g,owoce,brzoskwinia,150
+Czereśnie,63,kcal,g,owoce,cytryna,58
+Daktyle,282,kcal,g,owoce,czereśnie,10
+Dżakfrut,95,kcal,g,owoce,daktyl,7.1
+Figi,74,kcal,g,owoce,szklanka,151
+Granat,83,kcal,g,owoce,figa,50
+Gruszka,57,kcal,g,owoce,granat,282
+Gujawa,68,kcal,g,owoce,gruszka,178
+Jabłko,52,kcal,g,owoce,gujawa,55
+Jagody,57,kcal,g,owoce,jabłko,182
+Jagodzian rambutan,82,kcal,g,owoce,szklanka,148
+Jeżyna,43,kcal,g,owoce,rambutan,9
+Kantalupa,34,kcal,g,owoce,szklanka,144
+Karambola,31,kcal,g,owoce,sztuka,69
+Kiwi,61,kcal,g,owoce,karambola,91
+Klementynki,47,kcal,g,owoce,kiwi,183
+Liczi,66,kcal,g,owoce,klementynka,74
+Limonka,30,kcal,g,owoce,liczi,10
+Maliny,52,kcal,g,owoce,limonka,67
+Mandarynki,53,kcal,g,owoce,szklanka,123
+Mango,60,kcal,g,owoce,mandarynka,88
+Miechunka,49,kcal,g,owoce,mango,336
+Mirabelki,64,kcal,g,owoce,jagoda,5
+Morela,48,kcal,g,owoce,mirabelki,75
+Morwa,43,kcal,g,owoce,morela,35
+Nektarynki,44,kcal,g,owoce,szklanka,140
+Oliwki,115,kcal,g,owoce,nektarynka,150
+Papaja,43,kcal,g,owoce,oliwka,2.7
+Passiflora,97,kcal,g,owoce,papaja,500
+Persymona,127,kcal,g,owoce,passiflora,18
+Pigwa,57,kcal,g,owoce,kaki,25
+Pomarańcza,47,kcal,g,owoce,pigwa,92
+Pomarańcza czerwona,50,kcal,g,owoce,pomarańcza,131
+Porzeczki,56,kcal,g,owoce,porcja,140
+Poziomki,32,kcal,g,owoce,szklanka,112
+Przecier jabłkowy,68,kcal,g,owoce,poziomki,12
+Rabarbar,21,kcal,g,owoce,szklanka,246
+Renkloda ulena,41,kcal,g,owoce,sztuka,51
+Rodzynki,299,kcal,g,owoce,sztuka,5
+Sałatka owocowa,50,kcal,g,owoce,szklanka,145
+Tamaryndowiec,239,kcal,g,owoce,szklanka,249
+Truskawki,32,kcal,g,owoce,tamaryndowiec,2
+Winogrona,69,kcal,g,owoce,szklanka,152
+Wiśnie,50,kcal,g,owoce,szklanka,151
+Śliwka,46,kcal,g,owoce,wiśnia,8
+Żurawina,46,kcal,g,owoce,śliwka,66
+Akka Sellowa,55,kcal,g,owoce tropikalne i egzotyczne,acerola,4.8
+Ananas,50,kcal,g,owoce tropikalne i egzotyczne,akka,42
+Arbuz,30,kcal,g,owoce tropikalne i egzotyczne,ananas,905
+Awokado,160,kcal,g,owoce tropikalne i egzotyczne,plasterel,286
+Banan,89,kcal,g,owoce tropikalne i egzotyczne,awokado,200
+Banan zwyczajny,122,kcal,g,owoce tropikalne i egzotyczne,baban,125
+Cherimoya,75,kcal,g,owoce tropikalne i egzotyczne,banan,179
+Chlebowiec,95,kcal,g,owoce tropikalne i egzotyczne,cherimoya,235
+Chlebowiec właściwy,103,kcal,g,owoce tropikalne i egzotyczne,szklanka,151
+Durian,147,kcal,g,owoce tropikalne i egzotyczne,4 chlebowca,96
+Granat,83,kcal,g,owoce tropikalne i egzotyczne,durian,602
+Grejpfrut,42,kcal,g,owoce tropikalne i egzotyczne,granat,282
+Grejpfrut różowy,42,kcal,g,owoce tropikalne i egzotyczne,2 grejfruta,123
+Gruszka chińska,42,kcal,g,owoce tropikalne i egzotyczne,2 grejfruta,123
+Gujawa,68,kcal,g,owoce tropikalne i egzotyczne,gruszka,178
+Kantalupa,34,kcal,g,owoce tropikalne i egzotyczne,gujawa,55
+Karambola,31,kcal,g,owoce tropikalne i egzotyczne,plasterek,69
+Kiwi,61,kcal,g,owoce tropikalne i egzotyczne,karambola,91
+Kumkwat,71,kcal,g,owoce tropikalne i egzotyczne,kiwi,183
+Liczi,66,kcal,g,owoce tropikalne i egzotyczne,kumkwat,19
+Mandarynki,53,kcal,g,owoce tropikalne i egzotyczne,liczi,10
+Mango,60,kcal,g,owoce tropikalne i egzotyczne,mandarynka,90
+Mangostan,73,kcal,g,owoce tropikalne i egzotyczne,mango,336
+Marakuja,97,kcal,g,owoce tropikalne i egzotyczne,porcja,80
+Melon Galia,23,kcal,g,owoce tropikalne i egzotyczne,marakuja,18
+Melon żółty,28,kcal,g,owoce tropikalne i egzotyczne,melon,130
+Morwa indyjska,53,kcal,g,owoce tropikalne i egzotyczne,plasterek,125
+Ogórek melon,34,kcal,g,owoce tropikalne i egzotyczne,morwa,28.4
+Opuncja figowa,41,kcal,g,owoce tropikalne i egzotyczne,plasterek,69
+Pitaja (smoczy owoc),60,kcal,g,owoce tropikalne i egzotyczne,opuncja,19
+Pomelo,38,kcal,g,owoce tropikalne i egzotyczne,pitaja,200
+Tamaryndowiec,239,kcal,g,owoce tropikalne i egzotyczne,pomelo,609
+Wiśnie koktajlowe,165,kcal,g,owoce tropikalne i egzotyczne,tamaryndowiec,2
+Ananas w kawałkach w puszce,53,kcal,g,owoce w puszkach,szklanka,252
+Ananas w plasterkach w puszce,53,kcal,g,owoce w puszkach,szklanka,225
+Ananas w puszce,60,kcal,g,owoce w puszkach,szklanka,225
+Brzoskwinie w puszce,54,kcal,g,owoce w puszkach,szklanka,232
+Figi w puszce,107,kcal,g,owoce w puszkach,2 brzoskwini,98
+Grejpfrut w puszce,37,kcal,g,owoce w puszkach,szklanka,261
+Gruszki w puszce,35,kcal,g,owoce w puszkach,szklanka,249
+Jagody w puszce,88,kcal,g,owoce w puszkach,szklanka,284
+Jeżyny w puszce,92,kcal,g,owoce w puszkach,szklanka,256
+Maliny w puszce,91,kcal,g,owoce w puszkach,szklanka,256
+Mandarynki w puszce,71,kcal,g,owoce w puszkach,szklanka,256
+Mango w puszce,65,kcal,g,owoce w puszkach,szklanka,113
+Mieszanka owocowa w puszce,71,kcal,g,owoce w puszkach,szklanka,165
+Morele w puszce,48,kcal,g,owoce w puszkach,szklanka,113
+Pomarańcze w puszce,62,kcal,g,owoce w puszkach,szklanka,246
+Przecier jabłkowy,62,kcal,g,owoce w puszkach,szklanka,113
+Sałatka owocowa w puszce,50,kcal,g,owoce w puszkach,szklanka,114
+Suszone owoce,243,kcal,g,owoce w puszkach,szklanka,259
+Truskawki w puszce,92,kcal,g,owoce w puszkach,paczka,300
+Winogrona w puszce,76,kcal,g,owoce w puszkach,szklanka,254
+Wiśnie morello w puszce,81,kcal,g,owoce w puszkach,szklanka,256
+Wiśnie w puszce,54,kcal,g,owoce w puszkach,szklanka,270
+Śliwki w puszce,58,kcal,g,owoce w puszkach,szklanka,250
+Żurawina w puszce,178,kcal,g,owoce w puszkach,śliwka,46
+Frytki,312,kcal,g,produkty ziemniaczane,sztuka,40
+Gnocchi,133,kcal,g,produkty ziemniaczane,porcja,117
+Kluski z ziemniaków,124,kcal,g,produkty ziemniaczane,szklanka,188
+Knedle,120,kcal,g,produkty ziemniaczane,sztuka,40
+Knedle ze śliwkami,147,kcal,g,produkty ziemniaczane,knedle,95
+Kopytka,125,kcal,g,produkty ziemniaczane,porcja,300
+Krokiety,127,kcal,g,produkty ziemniaczane,porcja,200
+Maniok jadalny,160,kcal,g,produkty ziemniaczane,porcja,138
+Omlet,154,kcal,g,produkty ziemniaczane,korzeń,408
+Pierogi,124,kcal,g,produkty ziemniaczane,omlet,61
+Placki ziemniaczane,185,kcal,g,produkty ziemniaczane,sztuka,40
+Placki ziemniaczane,166,kcal,g,produkty ziemniaczane,sztuka,74
+Pyzy,424,kcal,g,produkty ziemniaczane,sztuka,50
+Sałatka ziemniaczana,143,kcal,g,produkty ziemniaczane,ziemniak,10
+Skrobia ziemniaczana,331,kcal,g,produkty ziemniaczane,szklanka,250
+Słodki ziemniak,92,kcal,g,produkty ziemniaczane,łyżka,12
+Talarki ziemniaczane,123,kcal,g,produkty ziemniaczane,ziemniak,114
+Ziemniak,77,kcal,g,produkty ziemniaczane,porcja,100
+Ziemniaki białe,94,kcal,g,produkty ziemniaczane,ziemniak,214
+Ziemniaki gotowane,87,kcal,g,produkty ziemniaczane,ziemniak,138
+Ziemniaki gratin,132,kcal,g,produkty ziemniaczane,ziemniak,136
+Ziemniaki pieczone,93,kcal,g,produkty ziemniaczane,szklanka,245
+Ziemniaki smażone,312,kcal,g,produkty ziemniaczane,ziemniak,173
+Ziemniaki tłuczone,89,kcal,g,produkty ziemniaczane,porcja,117
+Ziemniaki Yukon Gold,82,kcal,g,produkty ziemniaczane,szklanka,242
+Ziemniaki z rozmarynem,93,kcal,g,produkty ziemniaczane,ziemniak,136
+Botwina,19,kcal,g,warzywa,bakłażan,458
+Brokuł,34,kcal,g,warzywa,liść,48
+Brukiew,38,kcal,g,warzywa,brokuł,608
+Brukselka,43,kcal,g,warzywa,brukiew,386
+Burak,43,kcal,g,warzywa,sztuka,19
+Cebula dymka,32,kcal,g,warzywa,burak,82
+Cebula dymka,40,kcal,g,warzywa,cebulka,15
+Chrzan,48,kcal,g,warzywa,cebula,85
+Cukinia,17,kcal,g,warzywa,łyżka ,15
+Cykoria,72,kcal,g,warzywa,cukinia,196
+Czarne oliwki,115,kcal,g,warzywa,główka,53
+Czosnek,149,kcal,g,warzywa,oliwka,2.7
+Dynia,26,kcal,g,warzywa,ząbek,3
+Endywia,17,kcal,g,warzywa,dynia,196
+Fasolka zielona,31,kcal,g,warzywa,główka,513
+Fenkuł,31,kcal,g,warzywa,szklanka,110
+Groszek,81,kcal,g,warzywa,fenkuł,234
+Grzyby,22,kcal,g,warzywa,szklanka,98
+Jarmuż,49,kcal,g,warzywa,grzyb,5.4
+Kalafior,25,kcal,g,warzywa,szklanka, posiekany,67
+Kalarepa,27,kcal,g,warzywa,kalafior,13
+Kapusta,25,kcal,g,warzywa,kalarepa,400
+Kapusta chińska,16,kcal,g,warzywa,główka,908
+Kapusta czerwona,31,kcal,g,warzywa,główka,840
+Kapusta kiszona,17,kcal,g,warzywa,liść,22
+Kapusta sarepsa,27,kcal,g,warzywa,porcja,150
+Karczoch,47,kcal,g,warzywa,szklanka, posiekana,56
+Kukurydza,365,kcal,g,warzywa,karczoch,128
+Liście kapusty warzywnej,32,kcal,g,warzywa,szklanka,154
+Liście rzepy,20,kcal,g,warzywa,szklanka, surowe,36
+Marchew,41,kcal,g,warzywa,pęczek,170
+Nori,35,kcal,g,warzywa,marchew,61
+Ogórek,16,kcal,g,warzywa,liść,2.6
+Ogórek kiszony,14,kcal,g,warzywa,ogórek,410
+Oliwki zielone,115,kcal,g,warzywa,ogórek,65
+Oliwki zielone,115,kcal,g,warzywa,oliwka,2.7
+Papryka,27,kcal,g,warzywa,oliwka,2.7
+Pasternak,75,kcal,g,warzywa,papryka,75
+Piżmian (okra),33,kcal,g,warzywa,pasternak,170
+Pomidor,18,kcal,g,warzywa,sztuka,12
+Pomidor koktajlowy,100,kcal,g,warzywa,pomidor,111
+Por,61,kcal,g,warzywa,pomidor koktajlowy,20
+Rukola,25,kcal,g,warzywa,por,89
+Rzepa,28,kcal,g,warzywa,liść,2
+Rzodkiewka,16,kcal,g,warzywa,rzepa,122
+Sałata,15,kcal,g,warzywa,rzodkiewka,4.5
+Seler,16,kcal,g,warzywa,główka,600
+Szalotka,72,kcal,g,warzywa,sztuka,40
+Szczypiorek,30,kcal,g,warzywa,szalotka,25
+Szparagi,20,kcal,g,warzywa,łyżka, posiekany,3
+Szpinak,23,kcal,g,warzywa,sztuka,12
+Szpinak w sosie śmietanowym,74,kcal,g,warzywa,porcja,340
+Tykwa,14,kcal,g,warzywa,szklanka,200
+Wasabi,109,kcal,g,warzywa,tykwa,771
+Ziemniak,77,kcal,g,warzywa,korzeń,169
+Ziemniak słodki,86,kcal,g,warzywa,ziemniak,213
+Brazer kanapka z KFC,190,kcal,g,fast food,burger,219
+Brazer Twister z KFC,188,kcal,g,fast food,kanapka,249
+Burger wegetariański,181,kcal,g,fast food,sztuka,229
+Cheeseburger,263,kcal,g,fast food,burger,215
+Cheeseburger z McDonald’s,263,kcal,g,fast food,burger,156
+Chicken Strips z McDonald’s,203,kcal,g,fast food,kanapka,114
+Chikker z McDonald’s,258,kcal,g,fast food,porcja,150
+Chop Suey,172,kcal,g,fast food,burger,151
+Cicken Pizziola,141,kcal,g,fast food,porcja,340
+Double Whopper z Burger King,239,kcal,g,fast food,kanapka,320
+Fajita z kurczakiem,147,kcal,g,fast food,burger,374
+Falafel,335,kcal,g,fast food,kanapka,222
+Filet-o-Fish,282,kcal,g,fast food,sztuka,17
+Filet-o-Fish z McDonald’s,275,kcal,g,fast food,kanapka,142
+Frytki,254,kcal,g,fast food,kanapka,142
+Frytki kręcone,311,kcal,g,fast food,porcja,71
+Grander Texas z KFC,269,kcal,g,fast food,porcja,128
+Grander z KFC,242,kcal,g,fast food,kanapka,300
+Hamburger,254,kcal,g,fast food,sztuka,295
+Hot dog,269,kcal,g,fast food,kanapka,110
+Indyk,104,kcal,g,fast food,hot dog,116
+Italian BMT,183,kcal,g,fast food,indyk,3812
+iTwist z KFC,246,kcal,g,fast food,kanapka,224
+Kanapka Chicken Teriyaki,138,kcal,g,fast food,sztuka,132
+Kanapka Subway Melt,370,kcal,g,fast food,kanapka,266
+Kanapka Veggie Delight,138,kcal,g,fast food,kanapka,236
+Kanapka z klopsikami,161,kcal,g,fast food,kanapka,166
+Kanapka z kurczakiem,241,kcal,g,fast food,kanapka,299
+Kanapka z rybą,273,kcal,g,fast food,kanapka,170
+Kanapka z szynką,241,kcal,g,fast food,kanapka,158
+Kebab,225,kcal,g,fast food,kanapka,146
+Kiełbasa,333,kcal,g,fast food,kebab,350
+Kotlet wegetariański,390,kcal,g,fast food,sztuka,85
+Krokiet,250,kcal,g,fast food,kanapka,247
+Krążki cebulowe,411,kcal,g,fast food,sztuka,80
+Lazania,132,kcal,g,fast food,krążek,6.5
+Longer z KFC,241,kcal,g,fast food,sztuka,130
+McChicken z McDonald’s,251,kcal,g,fast food,kanapka,127
+McDouble z McDonald’s,252,kcal,g,fast food,burger,143
+McMuffin Egg z McDOnald’s,225,kcal,g,fast food,burger,160
+McRib z McDonald’s,265,kcal,g,fast food,burger,129
+McRoyal z McDonald’s,269,kcal,g,fast food,kanapka,170
+Mega Pocket z KFC,243,kcal,g,fast food,burger,197
+Nachos z serem,306,kcal,g,fast food,sztuka,287
+Nuggetsy kurczakowe z McDonald’s,297,kcal,g,fast food, nachos,188
+Nuggetsy z kurczaka,296,kcal,g,fast food,nugget,16
+Piersi z kurczaka,163,kcal,g,fast food,sztuka,20
+Podwójny cheeseburger,267,kcal,g,fast food,sztuka,71
+Podwójny cheeseburger z McDonald’s,282,kcal,g,fast food,burger,155
+Qurrito z KFC,271,kcal,g,fast food,burger,155
+Ryba z frytkami,195,kcal,g,fast food,sztuka,230
+Sałatka z grillowanym kurczakiem,88,kcal,g,fast food,porcja,300
+Skrzydełka Mighty Wings z McDonald’s,308,kcal,g,fast food,sałatka,305
+Skrzydełka z kurczaka,324,kcal,g,fast food,skrzydełko,31
+Tender z KFC,240,kcal,g,fast food,sztuka,29
+Tortilla Wrap,271,kcal,g,fast food,kanapka,125
+Tuńczyk,86,kcal,g,fast food,wrap,63
+Twister Ser&Bekon z KFC,259,kcal,g,fast food,2 fileta,154
+Twister z KFC,240,kcal,g,fast food,twister,240
+Whopper z Burger King,231,kcal,g,fast food,sztuka,226
+Wieśmac z McDonald’s,256,kcal,g,fast food,burger,291
+Zapiekanka,214,kcal,g,fast food,burger,224
+Zinger z KFC,270,kcal,g,fast food,sztuka,405
+Łosoś wędzony,158,kcal,g,fast food,burger,179
+Żeberka grillowane,212,kcal,g,fast food,2 fileta,178
+Ciasto na pizzę,228,kcal,g,pizza,calzoni,364
+Flammkuchen,253,kcal,g,pizza,porcja,57
+Mini Pizza,365,kcal,g,pizza,kwadracik,56
+Pizza Bianko,250,kcal,g,pizza,porcja,65
+Pizza biała,246,kcal,g,pizza,kawałek,150
+Pizza Calabrese,235,kcal,g,pizza,kawałek,232
+Pizza Capricciosa,260,kcal,g,pizza,kawałek,108
+Pizza diabelska,220,kcal,g,pizza,kawałek,74
+Pizza Flambee,245,kcal,g,pizza,kawałek,150
+Pizza Fungi,212,kcal,g,pizza,kawałek,65
+Pizza hawajska,115,kcal,g,pizza,kawałek,288
+Pizza Margherita,275,kcal,g,pizza,kawałek,134
+Pizza Mexicana,232,kcal,g,pizza,kawałek,63
+Pizza na cienkim spodzie,261,kcal,g,pizza,kawałek,63
+Pizza na grubym spodzie,255,kcal,g,pizza,kawałek,60
+Pizza na grubym spodzie z Pizza Hut,255,kcal,g,pizza,kawałek,149
+Pizza Napoli,202,kcal,g,pizza,kawałek,149
+Pizza Pepperoni,255,kcal,g,pizza,kawałek,123
+Pizza Primavera,180,kcal,g,pizza,kawałek,71
+Pizza Quattro Formaggi,248,kcal,g,pizza,kawałek,55
+Pizza Rolls,247,kcal,g,pizza,kawałek,133
+Pizza sycylijska,241,kcal,g,pizza,sztuka,14
+Pizza Toscana,205,kcal,g,pizza,kawałek,133
+Pizza Vesuvio,287,kcal,g,pizza,pizza,350
+Pizza wegetariańska,256,kcal,g,pizza,kawałek,156
+Pizza z czerwoną papryką,192,kcal,g,pizza,kawałek,156
+Pizza z fetą i szpinakiem,242,kcal,g,pizza,kawałek,86
+Pizza z kiełbasą,246,kcal,g,pizza,kawałek,62
+Pizza z krewetkami,209,kcal,g,pizza,kawałek,72
+Pizza z kurczakiem,234,kcal,g,pizza,kawałek,91
+Pizza z owocami morza,245,kcal,g,pizza,kawałek,132
+Pizza z pieczarkami,212,kcal,g,pizza,kawałek,76
+Pizza z salami,255,kcal,g,pizza,kawałek,288
+Pizza z serem,267,kcal,g,pizza,kawałek,71
+Pizza z serem kozim,219,kcal,g,pizza,kawałek,63
+Pizza z serem Mozzarella,249,kcal,g,pizza,kawałek,63
+Pizza z tuńczykiem,254,kcal,g,pizza,kawałek,62
+Pizza z warzywami,256,kcal,g,pizza,kawałek,125
+Pizza ze szpinakiem,234,kcal,g,pizza,kawałek,156
+Supreme Pizza z Pizza Hut,248,kcal,g,pizza,kawałek,62
+Activia,74,kcal,g,jogurt,jogurt,125
+Activia cytrynowa,100,kcal,g,jogurt,jogurt,113
+Activia truskawkowa,97,kcal,g,jogurt,jogurt,113
+Jogurt,61,kcal,g,jogurt,jogurt,113
+Jogurt 0%,46,kcal,g,jogurt,jogurt,227
+Jogurt brzoskwiniowy,97,kcal,g,jogurt,jogurt,227
+Jogurt czekoladowy,128,kcal,g,jogurt,jogurt,113
+Jogurt Danone Fantasia,120,kcal,g,jogurt,jogurt,227
+Jogurt dietetyczny,54,kcal,g,jogurt,jogurt,122
+Jogurt grecki,53,kcal,g,jogurt,jogurt,227
+Jogurt grecki light,116,kcal,g,jogurt,jogurt,150
+Jogurt jagodowy,105,kcal,g,jogurt,jogurt,227
+Jogurt kozi,66,kcal,g,jogurt,jogurt,227
+Jogurt malinowy,92,kcal,g,jogurt,jogurt,227
+Jogurt Mocca,100,kcal,g,jogurt,jogurt,227
+Jogurt niskotłuszczowy,63,kcal,g,jogurt,jogurt,227
+Jogurt organiczny,75,kcal,g,jogurt,jogurt,227
+Jogurt owoce leśne,115,kcal,g,jogurt,jogurt,227
+Jogurt owocowy,97,kcal,g,jogurt,jogurt,227
+Jogurt probiotyczny,80,kcal,g,jogurt,jogurt,227
+Jogurt stracciatella,139,kcal,g,jogurt,jogurt,113
+Jogurt truskawkowy,100,kcal,g,jogurt,jogurt,227
+Jogurt waniliowy,101,kcal,g,jogurt,jogurt,227
+Jogurt wiśniowy,97,kcal,g,jogurt,jogurt,227
+Jogurt z mleka odtłuszczonego,56,kcal,g,jogurt,jogurt,227
+Jogurt z muesli,109,kcal,g,jogurt,jogurt,227
+Jogurt z ziarnami zbóż,110,kcal,g,jogurt,jogurt,227
+Jogurt śmietankowy,90,kcal,g,jogurt,jogurt,150
+Budyń z semoliny,67,kcal,g,mleko i produkty mleczne,łyżka,3
+Creme Fraiche,393,kcal,g,mleko i produkty mleczne,porcja,143
+Czekolada na gorąco,89,kcal,g,mleko i produkty mleczne,łyżka,14
+Jogurt,61,kcal,g,mleko i produkty mleczne,szklanka,266
+Kefir,55,kcal,g,mleko i produkty mleczne,szklanka,227
+Kwaśna śmietana,181,kcal,g,mleko i produkty mleczne,szklanka,246
+Lassi,75,kcal,g,mleko i produkty mleczne,łyżka,12
+Maślanka,62,kcal,g,mleko i produkty mleczne,szklanka,200
+Mleko,61,kcal,g,mleko i produkty mleczne,szklanka,254
+Mleko bez laktozy,52,kcal,g,mleko i produkty mleczne,szklanka,244
+Mleko kokosowe,230,kcal,g,mleko i produkty mleczne,szklanka,250
+Mleko kozie,69,kcal,g,mleko i produkty mleczne,szklanka,240
+Mleko migdałowe,17,kcal,g,mleko i produkty mleczne,szklanka,244
+Mleko odtłuszczone,35,kcal,g,mleko i produkty mleczne,szklanka,235
+Mleko pełne,61,kcal,g,mleko i produkty mleczne,szklanka,247
+Mleko półtłuste,50,kcal,g,mleko i produkty mleczne,szklanka,244
+Mleko ryżowe,49,kcal,g,mleko i produkty mleczne,porcja,250
+Mleko skondensowane,321,kcal,g,mleko i produkty mleczne,szklanka,245
+Mleko skondensowane słodzone,321,kcal,g,mleko i produkty mleczne,szklanka,306
+Mleko sojowe,45,kcal,g,mleko i produkty mleczne,szklanka,306
+Mleko w proszku,496,kcal,g,mleko i produkty mleczne,szklanka,243
+Mus czekoladowy,225,kcal,g,mleko i produkty mleczne,szklanka,68
+Ryż na mleku,118,kcal,g,mleko i produkty mleczne,2 szklanki,202
+Serek wiejski,98,kcal,g,mleko i produkty mleczne,porcja,113
+Tzatziki,117,kcal,g,mleko i produkty mleczne,szklanka,210
+Zsiadłe mleko,98,kcal,g,mleko i produkty mleczne,łyżka,15
+Śmietana do kawy,195,kcal,g,mleko i produkty mleczne,szklanka,210
+Śmietanka,242,kcal,g,mleko i produkty mleczne,łyżka,15
+Camembert,300,kcal,g,ser,plasterek,30
+Cheddar,403,kcal,g,ser,plasterek,30
+Chester,387,kcal,g,ser,plasterek,22
+Emmentaler,357,kcal,g,ser,paczka,200
+Feta,264,kcal,g,ser,plasterek,25
+Fondue serowe,228,kcal,g,ser,paczka,200
+Fontina,389,kcal,g,ser,paczka,400
+Gorgonzola,350,kcal,g,ser,plasterek,30
+Gouda,356,kcal,g,ser,paczka,200
+Gruyere,413,kcal,g,ser,paczka,198
+Halloumi,321,kcal,g,ser,plasterek,25
+Havarti,371,kcal,g,ser,paczka,250
+Jarlsberg,352,kcal,g,ser,plasterek,28
+Mozzarella,280,kcal,g,ser,paczka,200
+Neufchatel,253,kcal,g,ser,plasterek,28
+Oscypek,386,kcal,g,ser,paczka,85
+Parmesan,431,kcal,g,ser,sztuka,30
+Pecorino,387,kcal,g,ser,łyżeczka,5
+Provolone,351,kcal,g,ser,łyżka ,5
+Ricotta,174,kcal,g,ser,plasterek,28
+Roquefort,369,kcal,g,ser,szklanka,246
+Ser Asiago,392,kcal,g,ser,paczka,150
+Ser Baabybel,333,kcal,g,ser,paczka,200
+Ser edamski,357,kcal,g,ser,sztuka,21
+Ser grillowany,350,kcal,g,ser,paczka,198
+Ser holenderski,393,kcal,g,ser,sztuka,83
+Ser kozi,364,kcal,g,ser,paczka,150
+Ser kozi wędzony,353,kcal,g,ser,paczka,250
+Ser królewski,359,kcal,g,ser,porcja,200
+Ser Maasdam,344,kcal,g,ser,plasterek,25
+Ser Manchego,320,kcal,g,ser,plasterek,18
+Ser miękki,268,kcal,g,ser,porcja,28
+Ser Muenster,368,kcal,g,ser,paczka,150
+Ser niebieski,353,kcal,g,ser,plasterek,28
+Ser owczy,364,kcal,g,ser,paczka,150
+Ser Raclette,357,kcal,g,ser,paczka,200
+Ser Stilton,393,kcal,g,ser,plasterek,25
+Ser szwajcarski,380,kcal,g,ser,paczka,200
+Ser tostowy,274,kcal,g,ser,plasterek,25
+Ser tylżycki,322,kcal,g,ser,plasterek,20
+Ser włoski,397,kcal,g,ser,plasterek,42
+Ser żółty wędzony,313,kcal,g,ser,porcja,30
+Serek homogenizowany,131,kcal,g,ser,plasterek,42
+Serek topiony,290,kcal,g,ser,łyżka ,12
+Serek topiony,316,kcal,g,ser,łyżka ,15
+Serek ziarnisty,98,kcal,g,ser,szklanka,200
+Tarty parmezan,431,kcal,g,ser,szklanka,210
+Twaróg chudy,113,kcal,g,ser,łyżeczka,5
+Twaróg półtłusty,133,kcal,g,ser,plasterek,30
+Twaróg tłusty,148,kcal,g,ser,porcja,100
+Pasta serowa obazta,303,kcal,g,ser topiony,łyżka,15
+Ser feta śmietankowy,342,kcal,g,ser topiony,łyżka,15
+Ser kozi,364,kcal,g,ser topiony,łyżka,14.5
+Serek mascarpone,450,kcal,g,ser topiony,łyżeczka,10
+Serek wiejski,98,kcal,g,ser topiony,łyżka,14.5
+Serek śmietankowy czosnkowy,342,kcal,g,ser topiony,szklanka,226
+Serek śmietankowy oliwkowy,342,kcal,g,ser topiony,łyżka,14.5
+Serek śmietankowy orzechowy,342,kcal,g,ser topiony,łyżka,14.5
+Serek śmietankowy Philadelphia,342,kcal,g,ser topiony,łyżka,14.5
+Serek śmietankowy ze szczypiorkiem,342,kcal,g,ser topiony,łyżka,14.5
+Serek śmietanowy,342,kcal,g,ser topiony,łyżka,14.5
+Serek śmietanowy z ziołami,342,kcal,g,ser topiony,łyżka,14.5
+Cheddar,403,kcal,g,ser w plasterkach,plasterek,24
+Emmentaler,357,kcal,g,ser w plasterkach,plasterek,28
+Fol Epi,388,kcal,g,ser w plasterkach,plasterek,25
+Gouda,356,kcal,g,ser w plasterkach,plasterek,24
+Gouda Light,247,kcal,g,ser w plasterkach,paczka,198
+Havarti,371,kcal,g,ser w plasterkach,plasterek,16
+Mozzarella,280,kcal,g,ser w plasterkach,plasterek,28
+Młoda gouda,356,kcal,g,ser w plasterkach,plasterek,28
+Ser edamski,357,kcal,g,ser w plasterkach,plasterek,28
+Ser Esrom,322,kcal,g,ser w plasterkach,plasterek,28
+Ser kanapkowy,148,kcal,g,ser w plasterkach,plasterek,23
+Ser królewski,359,kcal,g,ser w plasterkach,plasterek,21
+Ser Leerdammer,284,kcal,g,ser w plasterkach,plasterek,15
+Ser Maasdam,344,kcal,g,ser w plasterkach,plasterek,25
+Ser maślany,388,kcal,g,ser w plasterkach,plasterek,18
+Ser Muenster,368,kcal,g,ser w plasterkach,plasterek,26
+Ser podlaski,388,kcal,g,ser w plasterkach,plasterek,28
+Ser salami,351,kcal,g,ser w plasterkach,plasterek,20
+Ser tostowy,274,kcal,g,ser w plasterkach,plasterek,15
+Ser tylżycki,340,kcal,g,ser w plasterkach,plasterek,20
+Ser w plasterkach,356,kcal,g,ser w plasterkach,plasterek,25
+Ser Westberg,277,kcal,g,ser w plasterkach,plasterek,28
+Ser wędzony,410,kcal,g,ser w plasterkach,plasterek,16
+Ser z pieprzem,100,kcal,g,ser w plasterkach,plasterek,20
+Talerz serów,357,kcal,g,ser w plasterkach,plasterek,21
+Bitki z indyka,189,kcal,g,drob i ptactwo,porcja,100
+Gołąb,142,kcal,g,drob i ptactwo,bitka,113
+Gęś,305,kcal,g,drob i ptactwo,gołąb,199
+Indyk,189,kcal,g,drob i ptactwo,2 gęsi,591
+Kaczka,337,kcal,g,drob i ptactwo,indyk,3812
+Kaczka krzyżówka,211,kcal,g,drob i ptactwo,2 kaczki,634
+Kapłon,229,kcal,g,drob i ptactwo,2 kaczki,270
+Kurczak,219,kcal,g,drob i ptactwo,kapłon,1418
+Perliczka,158,kcal,g,drob i ptactwo,2 kurczaka,334
+Pierś z bażanta,133,kcal,g,drob i ptactwo,2 perliczki,345
+Pierś z indyka,135,kcal,g,drob i ptactwo,2 piersi,182
+Pierś z kaczki,201,kcal,g,drob i ptactwo,2 piersi,864
+Pierś z kurczaka,172,kcal,g,drob i ptactwo,pierś,73
+Pierś z przepiórki,123,kcal,g,drob i ptactwo,pierś,200
+Przepiórka,227,kcal,g,drob i ptactwo,pierś,56
+Pularda,200,kcal,g,drob i ptactwo,przepiórka,92
+Skrzydełka z indyka,221,kcal,g,drob i ptactwo,porcja,100
+Skrzydełka z kurczaka,266,kcal,g,drob i ptactwo,skrzydełko,24
+Stek z indyka,189,kcal,g,drob i ptactwo,skrzydełko,53
+Struś,145,kcal,g,drob i ptactwo,stek,170
+Udka z kurczaka,174,kcal,g,drob i ptactwo,porcja,85
+Udko z bażanta,239,kcal,g,drob i ptactwo,udko,546
+Udko z indyka,208,kcal,g,drob i ptactwo,udko,107
+Żołądki z kurczaka,154,kcal,g,drob i ptactwo,udko,546
+Antylopa,150,kcal,g,dziczyzna,porcja,184
+Baranina,234,kcal,g,dziczyzna,porcja,340
+Bawół,131,kcal,g,dziczyzna,porcja,240
+Bażant,239,kcal,g,dziczyzna,porcja,340
+Bizon,171,kcal,g,dziczyzna,porcja,169
+Bóbr,212,kcal,g,dziczyzna,porcja,194
+Dziczyzna,164,kcal,g,dziczyzna,porcja,313
+Dzik,160,kcal,g,dziczyzna,porcja,157
+Gęś,238,kcal,g,dziczyzna,porcja,340
+Jagnięcina,202,kcal,g,dziczyzna,2 gęsi,591
+Kaczka krzyżówka,211,kcal,g,dziczyzna,porcja,193
+Karibu,159,kcal,g,dziczyzna,porcja,265
+Królik,197,kcal,g,dziczyzna,porcja,102
+Niedźwiedź,259,kcal,g,dziczyzna,porcja,313
+Polędwica z bizona,171,kcal,g,dziczyzna,porcja,277
+Polędwica z dziczyzny,158,kcal,g,dziczyzna,porcja,194
+Renifer,200,kcal,g,dziczyzna,porcja,340
+Struś,175,kcal,g,dziczyzna,porcja,340
+Szop,255,kcal,g,dziczyzna,porcja,93
+Wiewiórka,173,kcal,g,dziczyzna,porcja,356
+Łoś,134,kcal,g,dziczyzna,porcja,313
+Bekon,407,kcal,g,kielbasa,porcja,170
+Bockwurst,301,kcal,g,kielbasa,plasterek,26
+Bratwurst,297,kcal,g,kielbasa,kiełbasa,91
+Chorizo,455,kcal,g,kielbasa,bratwurst,66
+Frankfurterki,305,kcal,g,kielbasa,plasterek,4
+Hot Dog,278,kcal,g,kielbasa,frankfurterka,45
+Kaszanka,379,kcal,g,kielbasa,hot dog,52
+Kaszanka,379,kcal,g,kielbasa,plasterek,25
+Kiełbasa,309,kcal,g,kielbasa,plasterek,25
+Kiełbasa biała,313,kcal,g,kielbasa,porcja,150
+Kiełbasa bolońska,247,kcal,g,kielbasa,porcja,226
+Kiełbasa wędzona,301,kcal,g,kielbasa,plasterek,23
+Kiełbasa włoska,149,kcal,g,kielbasa,porcja,76
+Knackwurst,307,kcal,g,kielbasa,porcja,168
+Landjaeger,352,kcal,g,kielbasa,porcja,144
+Metka,310,kcal,g,kielbasa,landjaeger,56.8
+Mielonka,117,kcal,g,kielbasa,porcja,28
+Mięso z kurczaka,79,kcal,g,kielbasa,plasterek,9.3
+Mortadella,311,kcal,g,kielbasa,plasterek,21
+Parówki,230,kcal,g,kielbasa,plasterek,15
+Pastrami,133,kcal,g,kielbasa,kiełbasa,16
+Pasztet,319,kcal,g,kielbasa,plasterek,29
+Pasztetowa,326,kcal,g,kielbasa,łyżka,13
+Pierś z kurczaka,79,kcal,g,kielbasa,plasterek,18
+Salami,336,kcal,g,kielbasa,plasterek,21
+Salceson,157,kcal,g,kielbasa,plasterek,12.3
+Sałatka z kurczaka,81,kcal,g,kielbasa,plasterek,28
+Szynka gotowana,133,kcal,g,kielbasa,porcja,344
+Szynka parmezańska,195,kcal,g,kielbasa,plasterek,33
+Wieprzowina,247,kcal,g,kielbasa,plasterek,9
+Wołowina peklowana,153,kcal,g,kielbasa,plasterek,21
+Baranina,234,kcal,g,mieso i produkty miesne,stek,281
+Dziczyzna,164,kcal,g,mieso i produkty miesne,porcja,240
+Filet wołowy,267,kcal,g,mieso i produkty miesne,porcja,157
+Golonka wieprzowa,327,kcal,g,mieso i produkty miesne,filet,104
+Indyk,189,kcal,g,mieso i produkty miesne,kawałek,52
+Jagnięcina,202,kcal,g,mieso i produkty miesne,indyk,3812
+Kaczka,337,kcal,g,mieso i produkty miesne,porcja,193
+Karkówka,277,kcal,g,mieso i produkty miesne,2 kaczki,634
+Karkówka wieprzowa,169,kcal,g,mieso i produkty miesne,stek,310
+Kotlet panierowany,156,kcal,g,mieso i produkty miesne,kawałek,150
+Kotlet schabowy,196,kcal,g,mieso i produkty miesne,kotlet,130
+Kurczak,219,kcal,g,mieso i produkty miesne,kawałek,131
+Mięso z kurczaka,172,kcal,g,mieso i produkty miesne,2 kurczaka,334
+Mostek wołowy,242,kcal,g,mieso i produkty miesne,pierś,200
+Pieczeń wieprzowa,254,kcal,g,mieso i produkty miesne,sztuka,1780
+Pieczeń wołowa,140,kcal,g,mieso i produkty miesne,pieczeń,830
+Pieczone żeberka,333,kcal,g,mieso i produkty miesne,pieczeń,515
+Pierś z indyka,135,kcal,g,mieso i produkty miesne,porcja,113
+Pierś z kurczaka,172,kcal,g,mieso i produkty miesne,2 piersi,864
+Podroby z kurczaka,158,kcal,g,mieso i produkty miesne,pierś,200
+Polędwica wieprzowa,204,kcal,g,mieso i produkty miesne,szklanka,145
+Polędwica wołowa,218,kcal,g,mieso i produkty miesne,kawałek,83
+Rostbef,130,kcal,g,mieso i produkty miesne,stek,140
+Skrzydełka z kurczaka,266,kcal,g,mieso i produkty miesne,kawałek,10
+Skrzydła z indyka,221,kcal,g,mieso i produkty miesne,skrzydełko,29
+Stek z indyka,189,kcal,g,mieso i produkty miesne,skrzydełko,24
+Stek z łaty wołowej,194,kcal,g,mieso i produkty miesne,stek,170
+Stek z łopatki wieprzowej,196,kcal,g,mieso i produkty miesne,stek,188
+Struś,145,kcal,g,mieso i produkty miesne,stek,264
+Szynka,163,kcal,g,mieso i produkty miesne,porcja,85
+Tłuszcz z kurczaka,898,kcal,g,mieso i produkty miesne,plasterek,145
+Udko z indyka,208,kcal,g,mieso i produkty miesne,szklanka,205
+Udko z kurczaka,174,kcal,g,mieso i produkty miesne,udko,546
+Udziec wołowy,182,kcal,g,mieso i produkty miesne,udko,199
+Wieprzowina,196,kcal,g,mieso i produkty miesne,stek,236
+Wołowina,248,kcal,g,mieso i produkty miesne,kawałek,185
+Wołowina mielona,246,kcal,g,mieso i produkty miesne,stek,164
+Wątróbka z kurczaka,167,kcal,g,mieso i produkty miesne,kawałek,70
+Łopatka wieprzowa,269,kcal,g,mieso i produkty miesne,wątróbka,44
+Żeberka,238,kcal,g,mieso i produkty miesne,sztuka,262
+Żeberka wieprzowe,212,kcal,g,mieso i produkty miesne,sztuka,1400
+Żeberka wołowe,238,kcal,g,mieso i produkty miesne,żeberko,70
+Żołądki z kurczaka,146,kcal,g,mieso i produkty miesne,sztuka,225
+Móżdżek cielęcy,136,kcal,g,podroby,porcja,85
+Móżdżek wieprzowy,138,kcal,g,podroby,sztuka,339
+Móżdżek wołowy,196,kcal,g,podroby,sztuka,85
+Nerki cielęce,163,kcal,g,podroby,sztuka,351
+Nerki wieprzowe,151,kcal,g,podroby,sztuka,184
+Nerki wołowe,158,kcal,g,podroby,sztuka,85
+Ogon wieprzowy,273,kcal,g,podroby,sztuka,85
+Ogon wołowy,184,kcal,g,podroby,sztuka,85
+Ozór cielęcy,202,kcal,g,podroby,porcja,100
+Ozór wieprzowy,271,kcal,g,podroby,sztuka,255
+Ozór wołowy,284,kcal,g,podroby,ozór,231
+Podroby indycze,173,kcal,g,podroby,ozór,85
+Podroby z kurczaka,277,kcal,g,podroby,sztuka,95
+Płuca wieprzowe,99,kcal,g,podroby,szklanka,145
+Płuca wołowe,120,kcal,g,podroby,sztuka,300
+Ratki kurze,215,kcal,g,podroby,sztuka,303
+Serce cielęce,186,kcal,g,podroby,ratka,36
+Serce indycze,174,kcal,g,podroby,sztuka,198
+Serce kurczaka,185,kcal,g,podroby,serce,20
+Serce wieprzowe,148,kcal,g,podroby,serce,6.1
+Serce wołowe,165,kcal,g,podroby,serce,129
+Wątroba indycza,189,kcal,g,podroby,serce,85
+Wątroba wieprzowa,165,kcal,g,podroby,wątroba,53
+Wątroba wołowa,191,kcal,g,podroby,wątroba,85
+Wątróbka cielęca,192,kcal,g,podroby,plasterek,68
+Wątróbka gęsia,133,kcal,g,podroby,plasterek,80
+Wątróbka kacza,136,kcal,g,podroby,wątroba,94
+Wątróbka z kurczaka,172,kcal,g,podroby,wątroba,44
+Śledziona wieprzowa,219,kcal,g,podroby,wątroba,44
+Śledziona wołowa,271,kcal,g,podroby,sztuka,245
+Żołądek indyczy,148,kcal,g,podroby,sztuka,222
+Żołądek wieprzowy,157,kcal,g,podroby,porcja,100
+Żołądek z kurczaka,148,kcal,g,podroby,sztuka,85
+Capicola,110,kcal,g,wedliny i mieso obiadowe,plasterek,9
+Chorizo,455,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Filet z piersi kurczaka,79,kcal,g,wedliny i mieso obiadowe,plasterek,3.4
+Kiełbasa bolońska,247,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Kiełbasa szynkowa,164,kcal,g,wedliny i mieso obiadowe,plasterek,23
+Ozór,284,kcal,g,wedliny i mieso obiadowe,plasterek,23
+Pastrami,133,kcal,g,wedliny i mieso obiadowe,plasterek,28
+Pasztetowa,326,kcal,g,wedliny i mieso obiadowe,plasterek,29
+Pieczeń wieprzowa,247,kcal,g,wedliny i mieso obiadowe,plasterek,18
+Pieczeń wołowa,267,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Pierś z indyka,104,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Pierś z indyka pieczona w piekarniku,104,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Pierś z indyka wędzona,104,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Prosciutto,195,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Salami,336,kcal,g,wedliny i mieso obiadowe,plasterek,9
+Salami wołowe,375,kcal,g,wedliny i mieso obiadowe,plasterek,12.3
+Salami z indyka,152,kcal,g,wedliny i mieso obiadowe,plasterek,10
+Salceson,157,kcal,g,wedliny i mieso obiadowe,plasterek,23
+Szynka,145,kcal,g,wedliny i mieso obiadowe,plasterek,28
+Szynka gotowana,126,kcal,g,wedliny i mieso obiadowe,plasterek,23
+Szynka parmeńska,345,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Szynka pieczona,343,kcal,g,wedliny i mieso obiadowe,plasterek,11
+Szynka serrano,300,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Szynka wędzona,107,kcal,g,wedliny i mieso obiadowe,plasterek,15
+Szynka z indyka,126,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Wołowina peklowana,251,kcal,g,wedliny i mieso obiadowe,plasterek,21
+Bekon wieprzowy,407,kcal,g,wieprzowina,plasterek,26
+Boczek wieprzowy,518,kcal,g,wieprzowina,plasterek,26
+Flaczki wieprzowe,233,kcal,g,wieprzowina,porcja,454
+Golonka wieprzowa,172,kcal,g,wieprzowina,porcja,113
+Gulasz wieprzowy,73,kcal,g,wieprzowina,porcja,140
+Karkówka wieprzowa,232,kcal,g,wieprzowina,porcja,361
+Kiełbasa wieprzowa,339,kcal,g,wieprzowina,porcja,170
+Klops,89,kcal,g,wieprzowina,kiełbasa,48
+Klops wieprzowy,243,kcal,g,wieprzowina,plasterek,250
+Kotlety wieprzowe,131,kcal,g,wieprzowina,plasterek,250
+Mięso solone,286,kcal,g,wieprzowina,paczka,283
+Nóżki wieprzowe,201,kcal,g,wieprzowina,porcja,30
+Ogon wieprzowy,396,kcal,g,wieprzowina,sztuka,231
+Pieczeń wieprzowa,194,kcal,g,wieprzowina,sztuka,275
+Ratki wieprzowe,243,kcal,g,wieprzowina,kawałek,263
+Salceson,309,kcal,g,wieprzowina,porcja,85
+Schab wieprzowy,143,kcal,g,wieprzowina,plasterek,25
+Smalec,898,kcal,g,wieprzowina,sztuka,333
+Stek z łopatki wieprzowej,232,kcal,g,wieprzowina,łyżka,13
+Szynka parmeńska,261,kcal,g,wieprzowina,porcja,113
+Szynka serrano,339,kcal,g,wieprzowina,porcja,12
+Tłuszcz wieprzowy,638,kcal,g,wieprzowina,paczka,500
+Ucho wieprzowe,166,kcal,g,wieprzowina,paczka,200
+Wieprzowina mielona,263,kcal,g,wieprzowina,ucho,111
+Wieprzowina solona,286,kcal,g,wieprzowina,paczka,500
+Łopatka wieprzowa,269,kcal,g,wieprzowina,paczka,340
+Żeberka płaty wieprzowe,396,kcal,g,wieprzowina,sztuka,262
+Żeberka wieprzowe,292,kcal,g,wieprzowina,sztuka,84
+Żołądek wieprzowy,250,kcal,g,wieprzowina,sztuka,84
+Filet wołowy,189,kcal,g,wolowina i cielecina,kawałek,291
+Filet z polędwicy wołowej,207,kcal,g,wolowina i cielecina,porcja,168
+Flaczki wołowe,94,kcal,g,wolowina i cielecina,porcja,168
+Gicz cielęca,211,kcal,g,wolowina i cielecina,porcja,85
+Goleń cielęca,177,kcal,g,wolowina i cielecina,kawałek,272
+Grasica wołowa,319,kcal,g,wolowina i cielecina,kawałek,223
+Gulasz wołowy,123,kcal,g,wolowina i cielecina,kawałek,381
+Karczek wołowy,213,kcal,g,wolowina i cielecina,szklanka,227
+Karkówka mielona,250,kcal,g,wolowina i cielecina,kawałek,224
+Karkówka pieczona,141,kcal,g,wolowina i cielecina,porcja,168
+Karkówka wołowa,137,kcal,g,wolowina i cielecina,kawałek,224
+Mielona cielęcina,143,kcal,g,wolowina i cielecina,kawałek,340
+Mielona wołowina,241,kcal,g,wolowina i cielecina,porcja,168
+Mielonka wołowa,247,kcal,g,wolowina i cielecina,porcja,168
+Mostek wołowy,137,kcal,g,wolowina i cielecina,kawałek,64
+Pieczeń wołowa,187,kcal,g,wolowina i cielecina,kawałek,178
+Pieczona cielęcina,175,kcal,g,wolowina i cielecina,plasterek,341
+Piersi cielęce,282,kcal,g,wolowina i cielecina,kawałek,208
+Polędwica cielęca,217,kcal,g,wolowina i cielecina,kawałek,291
+Rostbef,117,kcal,g,wolowina i cielecina,kawałek,229
+Rozbratel,217,kcal,g,wolowina i cielecina,plasterki,34
+Rumsztyk,171,kcal,g,wolowina i cielecina,stek,281
+Schab z kością,404,kcal,g,wolowina i cielecina,stek,205
+Stek z mostka,205,kcal,g,wolowina i cielecina,kawałek,278
+Stek z łaty,194,kcal,g,wolowina i cielecina,porcja,168
+Trzustka wołowa,271,kcal,g,wolowina i cielecina,stek,320
+Tłuszcz wołowy,854,kcal,g,wolowina i cielecina,kawałek,222
+Wołowina,171,kcal,g,wolowina i cielecina,paczka,500
+Wołowina gulaszowa,191,kcal,g,wolowina i cielecina,porcja,168
+Zrazowa cielęca,204,kcal,g,wolowina i cielecina,porcja,252
+Zrazowa wołowa,182,kcal,g,wolowina i cielecina,kawałek,183
+Łopatka cielęca,183,kcal,g,wolowina i cielecina,porcja,85
+Łój wołowy,902,kcal,g,wolowina i cielecina,kawałek,283
+Żeberka wołowe,196,kcal,g,wolowina i cielecina,szklanka,205
+Babeczka,305,kcal,g,ciastka i ciasta,kawałek,28
+Babka marmurkowa,339,kcal,g,ciastka i ciasta,babeczka,43
+Babka piaskowa,390,kcal,g,ciastka i ciasta,kawałek,109
+Beza,285,kcal,g,ciastka i ciasta,porcja,55
+Biszkopt,289,kcal,g,ciastka i ciasta,kawałek,127
+Biszkopty czarno-białe,381,kcal,g,ciastka i ciasta,kawałek,38
+Ciastka Profiterole,334,kcal,g,ciastka i ciasta,kawałek,113
+Ciasto cytrynowe,352,kcal,g,ciastka i ciasta,porcja,113
+Ciasto czekoladowe,389,kcal,g,ciastka i ciasta,kawałek,66
+Ciasto czekoladowe bez mąki,509,kcal,g,ciastka i ciasta,kawałek,138
+Ciasto drożdżowe,375,kcal,g,ciastka i ciasta,kawałek,80
+Ciasto francuskie,558,kcal,g,ciastka i ciasta,plasterek,40
+Ciasto jagodowe,232,kcal,g,ciastka i ciasta,kawałek,245
+Ciasto kokosowe,356,kcal,g,ciastka i ciasta,kawałek,125
+Ciasto marchewkowe,408,kcal,g,ciastka i ciasta,kawałek,66
+Ciasto na maślance,380,kcal,g,ciastka i ciasta,kawałek,133
+Ciasto owocowe,324,kcal,g,ciastka i ciasta,kawałek,144
+Ciasto Tiramisu,291,kcal,g,ciastka i ciasta,kawałek,43
+Ciasto Trzech Króli,377,kcal,g,ciastka i ciasta,kawałek,108
+Ciasto z bananów i toffi,395,kcal,g,ciastka i ciasta,kawałek,91
+Ciasto z kruszonką,441,kcal,g,ciastka i ciasta,porcja,100
+Ciasto z lodów,200,kcal,g,ciastka i ciasta,kawałek,57
+Ciasto z okrągłej formy,370,kcal,g,ciastka i ciasta,kawałek,120
+Ciasto śliwkowe,109,kcal,g,ciastka i ciasta,plasterek,91
+Deser Trifle,180,kcal,g,ciastka i ciasta,kawałek,150
+Duet,267,kcal,g,ciastka i ciasta,porcja,100
+Flan,145,kcal,g,ciastka i ciasta,plasterek,87
+Gofry,312,kcal,g,ciastka i ciasta,2 szklanki,153
+Keks,376,kcal,g,ciastka i ciasta,gofer,33
+Kremówka papieska,520,kcal,g,ciastka i ciasta,plasterek,55
+Makowiec,394,kcal,g,ciastka i ciasta,kawałek,150
+Mazurek wielkanocny,475,kcal,g,ciastka i ciasta,kawałek,90
+Miodownik,282,kcal,g,ciastka i ciasta,kawałek,81
+Muffinka czekoladowa,420,kcal,g,ciastka i ciasta,kawałek,91
+Muffinka jagodowa,377,kcal,g,ciastka i ciasta,muffinka,100
+Naleśnik,227,kcal,g,ciastka i ciasta,muffinka,57
+Piernik,356,kcal,g,ciastka i ciasta,naleśnik,38
+Placek brzoskwiniowy,223,kcal,g,ciastka i ciasta,kawałek,74
+Placek z malinami,240,kcal,g,ciastka i ciasta,kawałek,117
+Placek z rabarbarem,245,kcal,g,ciastka i ciasta,kawałek,137
+Placek z truskawkami,230,kcal,g,ciastka i ciasta,kawałek,137
+Placek z truskawkami i rabarbarem,281,kcal,g,ciastka i ciasta,kawałek,167
+Placek z wiśniami,260,kcal,g,ciastka i ciasta,kawałek,150
+Profiterole,334,kcal,g,ciastka i ciasta,kawałek,125
+Pączek,403,kcal,g,ciastka i ciasta,profiterole,130
+Pączek francuski,412,kcal,g,ciastka i ciasta,pączek,60
+Rolada,439,kcal,g,ciastka i ciasta,pączek,41
+Rolada biszkoptowa z kremem,428,kcal,g,ciastka i ciasta,kawałek,31
+Rożek jabłkowy,348,kcal,g,ciastka i ciasta,plasterek,20
+Sernik,321,kcal,g,ciastka i ciasta,kawałek,82
+Strucla z makiem,345,kcal,g,ciastka i ciasta,kawałek,80
+Strudel jabłkowy,274,kcal,g,ciastka i ciasta,plasterek,70
+Szarlotka,252,kcal,g,ciastka i ciasta,kawałek,71
+Sękacz,477,kcal,g,ciastka i ciasta,porcja,100
+Tarta Tatin,210,kcal,g,ciastka i ciasta,kawałek,50
+Tiramisu,283,kcal,g,ciastka i ciasta,kawałek,100
+Tort Sachera,352,kcal,g,ciastka i ciasta,porcja,174
+Tort Szwarcwaldzki,264,kcal,g,ciastka i ciasta,kawałek,125
+Tort urodzinowy,465,kcal,g,ciastka i ciasta,kawałek,107
+Tort weselny,381,kcal,g,ciastka i ciasta,kawałek,85
+Tort z musu czekoladowego,260,kcal,g,ciastka i ciasta,kawałek,109
+Wuzetka,353,kcal,g,ciastka i ciasta,kawałek,95
+After Eight,452,kcal,g,cukierki i slodycze,sztuka,41
+Baton czekoladowy,533,kcal,g,cukierki i slodycze,after eight,8
+Baton granola,452,kcal,g,cukierki i slodycze,baton,45
+Baton Mars,448,kcal,g,cukierki i slodycze,baton,21
+Baton z orzeszków ziemnych,533,kcal,g,cukierki i slodycze,baton,45
+Bounty,488,kcal,g,cukierki i slodycze,baton,45
+Celebrations,490,kcal,g,cukierki i slodycze,sztuka,57
+Chałwa,522,kcal,g,cukierki i slodycze,sztuka,9
+Chipsy czekoladowe,493,kcal,g,cukierki i slodycze,baton,50
+Chlebojajo,196,kcal,g,cukierki i slodycze,łyżka,14
+Ciasteczka Speculoos,469,kcal,g,cukierki i slodycze,chlebojajo,85
+Ciasteczka spritz,500,kcal,g,cukierki i slodycze,sztuka,8
+Ciasteczka z masłem orzechowym,475,kcal,g,cukierki i slodycze,sztuka,11
+Ciastka,488,kcal,g,cukierki i slodycze,sztuka,20
+Ciastko szczęścia,214,kcal,g,cukierki i slodycze,ciastko,16
+Czekolada,529,kcal,g,cukierki i slodycze,ciastko,7
+Czekoladki Lindt,548,kcal,g,cukierki i slodycze,sztuka,7
+Delicje,370,kcal,g,cukierki i slodycze,sztuka,5
+Drażetki,429,kcal,g,cukierki i slodycze,sztuka,15
+Duplo,552,kcal,g,cukierki i slodycze, sztuk,65
+Fasolki żelowe,354,kcal,g,cukierki i slodycze,baton,18
+Ferrero Rocher,576,kcal,g,cukierki i slodycze, sztuk,30
+Gofry,272,kcal,g,cukierki i slodycze,sztuka,12.5
+Halls,390,kcal,g,cukierki i slodycze,gofr,35
+Hanuta,541,kcal,g,cukierki i slodycze,sztuka,3
+Jabłko w polewie cukrowej,152,kcal,g,cukierki i slodycze,hanuta,22
+Jeżyki,481,kcal,g,cukierki i slodycze,jabłko,141
+Kit Kat,521,kcal,g,cukierki i slodycze,sztuka,15
+Kopiko,438,kcal,g,cukierki i slodycze,baton,45
+Krakersy zwierzątka,446,kcal,g,cukierki i slodycze,sztuka,4
+Krokant z orzeszków ziemnych,183,kcal,g,cukierki i slodycze, krakersów,19
+Laseczka cukrowa,423,kcal,g,cukierki i slodycze,2 szklanki,36
+Lion,493,kcal,g,cukierki i slodycze,sztuka,14
+Lizak,392,kcal,g,cukierki i slodycze,baton,45
+Lukrecja,375,kcal,g,cukierki i slodycze,lizak,12
+M&M’s,479,kcal,g,cukierki i slodycze,sztuk,29
+Maltesers,498,kcal,g,cukierki i slodycze, sztuk,14
+Marcepan,411,kcal,g,cukierki i slodycze,paczka,37
+Mars,449,kcal,g,cukierki i slodycze,sztuka,20
+Mentos,390,kcal,g,cukierki i slodycze,baton,51
+Michałki,518,kcal,g,cukierki i slodycze,sztuka,2
+Milky Way,449,kcal,g,cukierki i slodycze,sztuka,15
+Pawełek,466,kcal,g,cukierki i slodycze,baton,22
+Pestki dyni,560,kcal,g,cukierki i slodycze,baton,45
+Pianka żelowa,318,kcal,g,cukierki i slodycze,łyżka,10
+Pieczone migdały,452,kcal,g,cukierki i slodycze,sztuk,39
+Pop Rocks,358,kcal,g,cukierki i slodycze,baton,21
+Popcorn,582,kcal,g,cukierki i slodycze,paczka,10
+Prince Polo,535,kcal,g,cukierki i slodycze,szklanka,11
+Princessa,542,kcal,g,cukierki i slodycze,baton,18
+Pudding ryżowy,134,kcal,g,cukierki i slodycze,sztuka,37
+Rolo,474,kcal,g,cukierki i slodycze,szklanka,225
+Semolina,340,kcal,g,cukierki i slodycze,sztuk,30
+Sezamki,512,kcal,g,cukierki i slodycze,łyżka,11
+Skittles,405,kcal,g,cukierki i slodycze,sztuka,9
+Smarties,357,kcal,g,cukierki i slodycze, sztuk,22
+Snickers,484,kcal,g,cukierki i slodycze,paczka,7
+Tic Tac,395,kcal,g,cukierki i slodycze,baton,50
+Toblerone,525,kcal,g,cukierki i slodycze,sztuk,5
+Trifle,186,kcal,g,cukierki i slodycze,sztuka,9
+Twix,495,kcal,g,cukierki i slodycze,2 trifle,250
+Wata cukrowa,643,kcal,g,cukierki i slodycze,baton,25
+Werther’s Original,428,kcal,g,cukierki i slodycze,porcja ,75
+WW,516,kcal,g,cukierki i slodycze,cukierek,5
+Żelki misie,316,kcal,g,cukierki i slodycze,sztuka,45
+Big Milk,140,kcal,g,lody i desery mrozone,gałka,72
+Carte d’Or Tiramisu,190,kcal,g,lody i desery mrozone,big milk,62
+Gigant Koral,140,kcal,g,lody i desery mrozone,gałka,72
+Grand Koral,204,kcal,g,lody i desery mrozone,gigant,90
+Lody Cookie Dough,200,kcal,g,lody i desery mrozone,gałka,72
+Lody czekoladowe,216,kcal,g,lody i desery mrozone,2 szklanki,65
+Lody Drumsticks,255,kcal,g,lody i desery mrozone,gałka,72
+Lody kawowe,236,kcal,g,lody i desery mrozone,rożek,141
+Lody miętowe z posypką czekoladową,239,kcal,g,lody i desery mrozone,gałka,72
+Lody Sundae,215,kcal,g,lody i desery mrozone,gałka,72
+Lody truskawkowe,236,kcal,g,lody i desery mrozone,gałka,72
+Lody typu śnieżka,237,kcal,g,lody i desery mrozone,gałka,72
+Lody waniliowe,201,kcal,g,lody i desery mrozone,batonik,112
+Lody włoskie,222,kcal,g,lody i desery mrozone,gałka,72
+Lody z posypką czekoladową,215,kcal,g,lody i desery mrozone,szklanka,86
+Lód Snickers,360,kcal,g,lody i desery mrozone,gałka,72
+Magnum,300,kcal,g,lody i desery mrozone,batonik,50
+Magnum Gold,341,kcal,g,lody i desery mrozone,magnum,86
+Magnum w białej polewie,297,kcal,g,lody i desery mrozone,magnum,85
+Magnum z migdałami,315,kcal,g,lody i desery mrozone,magnum,86
+Magnum z podwójnym karmelem,355,kcal,g,lody i desery mrozone,magnum,86
+Magnum z podwójną czekoladą,380,kcal,g,lody i desery mrozone,magnum,86
+McFlurry,153,kcal,g,lody i desery mrozone,magnum,86
+McFlurry Oreo,186,kcal,g,lody i desery mrozone,mcflurry,134
+McFlurry Smarties,198,kcal,g,lody i desery mrozone,mcflurry,183
+Milord Nordis,304,kcal,g,lody i desery mrozone,mcflurry,202
+Mini Milk,120,kcal,g,lody i desery mrozone,sztuka,140
+Oskar Koral,308,kcal,g,lody i desery mrozone,mini milk,25
+Rożek Koral,264,kcal,g,lody i desery mrozone,oskar,90
+Solero,100,kcal,g,lody i desery mrozone,gałka,72
+Solo Koral,121,kcal,g,lody i desery mrozone,solero,75
+Sundae truskawkowe,158,kcal,g,lody i desery mrozone,sztuka,115
+Top Milker Koral,94,kcal,g,lody i desery mrozone,sundae,178
+Tytan Zielona Budka,249,kcal,g,lody i desery mrozone,top milker,110
+Advocaat,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Amaretto,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Asti,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Baileys,0,kcal,g,napoje alkoholowe i napitki,lampka,100 
+Bailey’s Irish Cream,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Bimber,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Blue Curacao,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Bourbon,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Brandy,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Canadian Whiskey,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Chambord,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Cointreau,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Cydr,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Drambuie,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Frangelico,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Gin,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Glenfiddich,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Grand Marnier,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Grzaniec,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Jack Daniel’s,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Jagermeister,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Jim Beam,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Kahlua,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Koniak,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Likier,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Midori,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Miód pitny,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Piwo,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Poncz,0,kcal,g,napoje alkoholowe i napitki,butelka,355 
+Prosecco,0,kcal,g,napoje alkoholowe i napitki,szklanka,237 
+Rum,0,kcal,g,napoje alkoholowe i napitki,lampka,100 
+Sake,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Sambuca,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Sangria,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Sherry,0,kcal,g,napoje alkoholowe i napitki,lampka,250 
+Southern Comfort,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Szampan,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Szkocka,0,kcal,g,napoje alkoholowe i napitki,lampka,100 
+Tarninówka,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Tequila,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Triple Sec,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Vermouth,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Whiskey Irlandzka,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Whisky,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Wino,0,kcal,g,napoje alkoholowe i napitki,kieliszek,44 
+Wino białe,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Wino czerwone,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Wino różowe,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Wiśniówka,0,kcal,g,napoje alkoholowe i napitki,lampka,150 
+Wódka,0,kcal,g,napoje alkoholowe i napitki,lampka,100 
+Śliwowica,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Żubrówka,0,kcal,g,napoje alkoholowe i napitki,kieliszek,25 
+Apple Spritzer,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Bawarka,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Club Mate,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Coca Cola,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Coca Cola Zero,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Cola,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Cola dietetyczna,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Czekolada na gorąco,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Gatorade,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,266 
+Herbata,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Herbata imbirowa,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,237 
+Herbata zielona,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,254 
+Ice Tea,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Karamalz,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Kawa,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,237 
+Kawa Inka,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,237 
+Kawa zbożowa,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Kombucha,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Kompot,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Kwas chlebowy,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Latte Macchiato,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,200 
+Lemoniada,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,300 
+Masala czaj,0,kcal,g,napoje bezalkoholowe i napitki,butelka,330 
+Milkshake (w proszku),0,kcal,g,napoje bezalkoholowe i napitki,szklanka,236 
+Milkshake czekoladowy,0,kcal,g,napoje bezalkoholowe i napitki,łyżka,7 
+Milkshake truskawkowy,0,kcal,g,napoje bezalkoholowe i napitki,porcja ,400 
+Milkshake waniliowy,0,kcal,g,napoje bezalkoholowe i napitki,porcja ,400 
+Mleko,0,kcal,g,napoje bezalkoholowe i napitki,porcja ,400 
+Mleko czekoladowe,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,244 
+Mleko sojowe,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,266 
+Nektar,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,243 
+Nestea,0,kcal,g,napoje bezalkoholowe i napitki,butelka,1000 
+Piwo bezalkoholowe,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,240 
+Piwo słodowe,0,kcal,g,napoje bezalkoholowe i napitki,butelka,354 
+Powerade,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,237 
+Slush Puppie,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Smoothie,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,240 
+Woda,0,kcal,g,napoje bezalkoholowe i napitki,szklanka,150 
+Yerba Mate,0,kcal,g,napoje bezalkoholowe i napitki,butelka,500 
+Bitter Lemon,0,kcal,g,napoje sodowe i lekkie,butelka,1500 
+Burn,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Cherry Coke,0,kcal,g,napoje sodowe i lekkie,puszka,250 
+Cherry Coke Light,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Cola,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Cola Light,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Cola waniliowa,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Cola Zero,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Dr Pepper,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Fanta,0,kcal,g,napoje sodowe i lekkie,puszka,330 
+Fanta Zero,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Ginger Ale,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Hoop Cola,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Ice Tea,0,kcal,g,napoje sodowe i lekkie,szklanka ,200 
+Kinley Tonic,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Kwas chlebowy,0,kcal,g,napoje sodowe i lekkie,puszka,330 
+Lemoniada,0,kcal,g,napoje sodowe i lekkie,szklanka ,220 
+Lipton Ice Tea,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Minute Maid,0,kcal,g,napoje sodowe i lekkie,butelka,1500 
+Minute Maid Light,0,kcal,g,napoje sodowe i lekkie,szklanka,240 
+Napój energetyczny Black,0,kcal,g,napoje sodowe i lekkie,szklanka,240 
+Napój gazowany,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Nestea,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Oranżada,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Pepsi,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Pepsi Light,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Pepsi Light,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Powerade,0,kcal,g,napoje sodowe i lekkie,butelka,1500 
+Red Bull,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Schweppes,0,kcal,g,napoje sodowe i lekkie,puszka,250 
+Schweppes Ginger Ale,0,kcal,g,napoje sodowe i lekkie,butelka,200 
+Sprite,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Sprite Zero,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Tiger Energy Drink,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Tonik,0,kcal,g,napoje sodowe i lekkie,puszka,250 
+Tymbark jabłkowo-miętowy,0,kcal,g,napoje sodowe i lekkie,butelka,500 
+Altbier,0,kcal,g,piwo,butelka,500 
+Beck’s,0,kcal,g,piwo,butelka,500 
+Carlsberg,0,kcal,g,piwo,butelka,500 
+Clausthaler bezalkoholowy,0,kcal,g,piwo,butelka,500 
+Corona,0,kcal,g,piwo,butelka,500 
+Dębowe mocne,0,kcal,g,piwo,butelka,500 
+Guineess,0,kcal,g,piwo,butelka,500 
+Heineken,0,kcal,g,piwo,pinta,568 
+India Pale Ale (IPA),0,kcal,g,piwo,butelka,500 
+Koelsch,0,kcal,g,piwo,butelka,500 
+Koźlak,0,kcal,g,piwo,butelka,500 
+Lech,0,kcal,g,piwo,butelka,500 
+Leżajsk,0,kcal,g,piwo,butelka,500 
+Lowenbrau,0,kcal,g,piwo,butelka,500 
+Okocim,0,kcal,g,piwo,butelka,500 
+Pale Ale,0,kcal,g,piwo,butelka,500 
+Piast,0,kcal,g,piwo,butelka,500 
+Pilsner,0,kcal,g,piwo,butelka,500 
+Piwo,0,kcal,g,piwo,butelka,500 
+Piwo bezalkoholowe,0,kcal,g,piwo,butelka,500 
+Piwo ciemne,0,kcal,g,piwo,butelka,500 
+Piwo imbirowe,0,kcal,g,piwo,butelka,500 
+Piwo jasne,0,kcal,g,piwo,butelka,500 
+Piwo Królewskie,0,kcal,g,piwo,butelka,500 
+Piwo Lager,0,kcal,g,piwo,butelka,500 
+Piwo mocne,0,kcal,g,piwo,butelka,500 
+Piwo pszeniczne,0,kcal,g,piwo,butelka,500 
+Piwo słodowe,0,kcal,g,piwo,butelka,500 
+Porter,0,kcal,g,piwo,butelka,500 
+Redd’s,0,kcal,g,piwo,butelka,500 
+Stout,0,kcal,g,piwo,butelka,500 
+Tatra,0,kcal,g,piwo,butelka,500 
+Tyskie,0,kcal,g,piwo,butelka,500 
+Warka,0,kcal,g,piwo,butelka,500 
+Żubr,0,kcal,g,piwo,butelka,500 
+Żywiec,0,kcal,g,piwo,butelka,500 
+Capri-Sun,0,kcal,g,soki owocowe,butelka,1000 
+Clamato,0,kcal,g,soki owocowe,capri-sun,200 
+Energy-Drink,0,kcal,g,soki owocowe,butelka,1000 
+Herbata rumiankowa,0,kcal,g,soki owocowe,puszka,250 
+Lassi z mango,0,kcal,g,soki owocowe,butelka,1000 
+Lemoniada,0,kcal,g,soki owocowe,butelka,1000 
+Mleko kokosowe,0,kcal,g,soki owocowe,butelka,1000 
+Nektar brzoskwiniowy,0,kcal,g,soki owocowe,butelka,1000 
+Nektar gruszkowy,0,kcal,g,soki owocowe,butelka,1000 
+Nektar morelowy,0,kcal,g,soki owocowe,butelka,1000 
+Nestea,0,kcal,g,soki owocowe,butelka,1000 
+Sok ananasowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok bananowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok brzoskwiniowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok cytrynowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok grejpfrutowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok gruszkowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok jabłkowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok jeżynowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok marchwiowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok pomarańczowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok pomidorowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok porzeczkowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok warzywny,0,kcal,g,soki owocowe,butelka,1000 
+Sok winogronowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok wiśniowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok z acai,0,kcal,g,soki owocowe,butelka,1000 
+Sok z białych winogron,0,kcal,g,soki owocowe,butelka,1000 
+Sok z granata,0,kcal,g,soki owocowe,butelka,1000 
+Sok z kiszonej kapusty,0,kcal,g,soki owocowe,butelka,1000 
+Sok z limonki,0,kcal,g,soki owocowe,butelka,1000 
+Sok z mandarynek,0,kcal,g,soki owocowe,butelka,1000 
+Sok z ogórka,0,kcal,g,soki owocowe,butelka,1000 
+Sok z papai,0,kcal,g,soki owocowe,butelka,1000 
+Sok z passiflory,0,kcal,g,soki owocowe,butelka,1000 
+Sok śliwkowy,0,kcal,g,soki owocowe,butelka,1000 
+Sok żurawinowy,0,kcal,g,soki owocowe,butelka,1000 
+Woda kokosowa,0,kcal,g,soki owocowe,butelka,1000 
+Bacchus,0,kcal,g,wino,lampka,118 
+Cabernet Cortis,0,kcal,g,wino,lampka,118 
+Cabernet Sauvignon,0,kcal,g,wino,lampka,118 
+Cava,0,kcal,g,wino,lampka,118 
+Chardonnay,0,kcal,g,wino,lampka,118 
+Chenin Blanc,0,kcal,g,wino,lampka,118 
+Czerwone Talary,0,kcal,g,wino,lampka,118 
+Gamay,0,kcal,g,wino,lampka,118 
+Grzaniec Galicyjski,0,kcal,g,wino,lampka,118 
+Herbowe Solaris,0,kcal,g,wino,lampka,118 
+Hibernal,0,kcal,g,wino,lampka,118 
+Malbec,0,kcal,g,wino,lampka,118 
+Merlot,0,kcal,g,wino,lampka,118 
+Pinot Gris,0,kcal,g,wino,lampka,118 
+Pinot Noir,0,kcal,g,wino,lampka,118 
+Porto,0,kcal,g,wino,lampka,118 
+Prosecco,0,kcal,g,wino,lampka,118 
+Regent,0,kcal,g,wino,lampka,118 
+Riesling,0,kcal,g,wino,lampka,118 
+Rose Dolina Bystrzycy,0,kcal,g,wino,lampka,118 
+Sangria,0,kcal,g,wino,lampka,118 
+Sauvignon Blanc,0,kcal,g,wino,lampka,118 
+Seyval Blanc,0,kcal,g,wino,lampka,118 
+Sherry,0,kcal,g,wino,lampka,118 
+Shiraz,0,kcal,g,wino,lampka,118 
+Sibera,0,kcal,g,wino,lampka,118 
+Szampan,0,kcal,g,wino,lampka,118 
+Wermut,0,kcal,g,wino,lampka,118 
+Wina słodkie,0,kcal,g,wino,lampka,30 
+Wino,0,kcal,g,wino,lampka,118 
+Wino białe,0,kcal,g,wino,lampka,118 
+Wino białe słodkie,0,kcal,g,wino,lampka,118 
+Wino czerwone,0,kcal,g,wino,lampka,118 
+Wino czerwone słodkie,0,kcal,g,wino,lampka,118 
+Wino czerwone wytrawne,0,kcal,g,wino,lampka,118 
+Wino grzane,0,kcal,g,wino,lampka,118 
+Wino Marsala,0,kcal,g,wino,lampka,118 
+Wino musujące,0,kcal,g,wino,lampka,118 
+Wino różowe,0,kcal,g,wino,lampka,118 
+Wino śliwkowe,0,kcal,g,wino,lampka,118 
+Zinfandel,0,kcal,g,wino,lampka,118 
+Zweigelt Rose,0,kcal,g,wino,lampka,118 
+Capellini,353,kcal,g,makaron i noodle,porcja,200
+Cappelletti,164,kcal,g,makaron i noodle,porcja,200
+Ciasto na pierogi,99,kcal,g,makaron i noodle,porcja,200
+Fettuccine,353,kcal,g,makaron i noodle,porcja,200
+Kluski na parze,274,kcal,g,makaron i noodle,porcja,200
+Linguine,357,kcal,g,makaron i noodle,kluska,85
+Makaron do Lasagne,271,kcal,g,makaron i noodle,porcja,200
+Makaron jajeczny,384,kcal,g,makaron i noodle,sztuka,21
+Makaron kokardki,358,kcal,g,makaron i noodle,szklanka,38
+Makaron muszelki,353,kcal,g,makaron i noodle,porcja,200
+Makaron nisko węglowodanowy,282,kcal,g,makaron i noodle,szklanka,85
+Makaron pełnoziarnisty,347,kcal,g,makaron i noodle,porcja,200
+Makaron przezroczysty,192,kcal,g,makaron i noodle,porcja,200
+Makaron rurki,351,kcal,g,makaron i noodle,porcja,200
+Makaron rurki z rowkami,370,kcal,g,makaron i noodle,porcja,200
+Makaron ryżowy,109,kcal,g,makaron i noodle,porcja,200
+Makaron Shirataki,18,kcal,g,makaron i noodle,porcja,200
+Makaron sojowy,216,kcal,g,makaron i noodle,porcja,200
+Makaron wstążki,370,kcal,g,makaron i noodle,porcja,200
+Makaron włoski,370,kcal,g,makaron i noodle,porcja,200
+Makaron włoski uszka,370,kcal,g,makaron i noodle,szklanka,114
+Makaron łazanki,354,kcal,g,makaron i noodle,porcja,200
+Makaron świderki,352,kcal,g,makaron i noodle,porcja,200
+Mostaccioli,184,kcal,g,makaron i noodle,porcja,200
+Orzo,357,kcal,g,makaron i noodle,porcja,200
+Pierogi,200,kcal,g,makaron i noodle,porcja,200
+Ravioli,77,kcal,g,makaron i noodle,pierogi,100
+Rigatoni,353,kcal,g,makaron i noodle,porcja,200
+Semolina z pszenicy durum,397,kcal,g,makaron i noodle,porcja,200
+Spaghetti,370,kcal,g,makaron i noodle,porcja,200
+Spaghetti pełnoziarniste,351,kcal,g,makaron i noodle,porcja,200
+Spirelli,367,kcal,g,makaron i noodle,porcja,200
+Szpecle,368,kcal,g,makaron i noodle,porcja,200
+Tortellini,291,kcal,g,makaron i noodle,porcja,200
+Tortellini z serem,291,kcal,g,makaron i noodle,szklanka,113
+Tortellini ze szpinakiem,314,kcal,g,makaron i noodle,szklanka,113
+Vermicelli,368,kcal,g,makaron i noodle,szklanka,102
+Cheerios wielozbożowe,380,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Chocos,380,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Cini Minis,433,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Coco Pops,376,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Cookie Crisp,400,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Crunchy naturalne,450,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Gold Flakes Nestle,394,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Granola Sante orzechowa,457,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Jaśki,469,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Mlekołaki,382,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Muesli,336,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Muesli Fitella,399,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Muesli Lo,300,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Muesli Nestle tropikalne,365,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Muesli Sante granola,433,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Nesquik,379,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Owsianka,375,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Pszenica preparowana,367,kcal,g,platki owsiane kukurydziane i musli,szklanka,175
+Płatki błonnikowe Sante,392,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki Chocapic czekoladowe,382,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki Frutina,319,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki Kangus z miodem,387,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki kukurydziane,357,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki Lion,402,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki Nestle Fitness z jogurtem,399,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Płatki owsiane Nesvita,394,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Ryż preparowany,383,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Weetabix,358,kcal,g,platki owsiane kukurydziane i musli,porcja,37.5
+Ciasteczka kruche,502,kcal,g,zboza i produkty zbozowe, chipsów,32
+Gluten pszenny,325,kcal,g,zboza i produkty zbozowe,sztuka,19
+Grissini,408,kcal,g,zboza i produkty zbozowe,łyżeczka,3
+Jęczmień,354,kcal,g,zboza i produkty zbozowe,grissini,5
+Kasza gryczana,343,kcal,g,zboza i produkty zbozowe,szklanka,157
+Kasza jaglana,46,kcal,g,zboza i produkty zbozowe,szklanka,170
+Kasza jęczmienna,352,kcal,g,zboza i produkty zbozowe,szklanka,174
+Kasza kukurydziana,362,kcal,g,zboza i produkty zbozowe,szklanka,157
+Kasza manna,328,kcal,g,zboza i produkty zbozowe,szklanka,122
+Komosa ryżowa,368,kcal,g,zboza i produkty zbozowe,porcja,30
+Krakersy,502,kcal,g,zboza i produkty zbozowe,szklanka,170
+Kuskus,376,kcal,g,zboza i produkty zbozowe,krakers,7
+Mąka jaglana,372,kcal,g,zboza i produkty zbozowe,szklanka,173
+Nasiona słonecznika,584,kcal,g,zboza i produkty zbozowe,szklanka,140
+Otręby orkiszowe,177,kcal,g,zboza i produkty zbozowe,szklanka,140
+Otręby owsiane,246,kcal,g,zboza i produkty zbozowe,szklanka,160
+Otręby pszenne,216,kcal,g,zboza i produkty zbozowe,szklanka,94
+Otręby żytnie,281,kcal,g,zboza i produkty zbozowe,szklanka,58
+Paluszki,380,kcal,g,zboza i produkty zbozowe,szklanka,150
+Pełne ziarno owsa,375,kcal,g,zboza i produkty zbozowe, sztuk,12
+Pełne ziarno pszenicy,339,kcal,g,zboza i produkty zbozowe,szklanka,80
+Polenta,366,kcal,g,zboza i produkty zbozowe,szklanka,120
+Proso,378,kcal,g,zboza i produkty zbozowe,szklanka,150
+Pszenica orkisz,338,kcal,g,zboza i produkty zbozowe,szklanka,128
+Ryż biały,344,kcal,g,zboza i produkty zbozowe,szklanka,174
+Ryż brązowy,388,kcal,g,zboza i produkty zbozowe,szklanka,195
+Ryż dziki,355,kcal,g,zboza i produkty zbozowe,szklanka,195
+Ryż parboiled,366,kcal,g,zboza i produkty zbozowe,porcja,63
+Semolina orkiszowa,360,kcal,g,zboza i produkty zbozowe,porcja,63
+Semolina z pszenicy,360,kcal,g,zboza i produkty zbozowe,szklanka,167
+Semolina z pszenicy durum,397,kcal,g,zboza i produkty zbozowe,szklanka,167
+Siemię lniane,534,kcal,g,zboza i produkty zbozowe,łyżka,30
+Skrobia kukurydziana,381,kcal,g,zboza i produkty zbozowe,szklanka,168
+Skrobia pszenna,351,kcal,g,zboza i produkty zbozowe,szklanka,128
+Suchary,410,kcal,g,zboza i produkty zbozowe,szklanka,110
+Szarłat,371,kcal,g,zboza i produkty zbozowe,suchar,10
+Tortilla,237,kcal,g,zboza i produkty zbozowe,szklanka,193
+Wafle kukurydziane,274,kcal,g,zboza i produkty zbozowe,tortilla,197
+Zarodki pszenne,382,kcal,g,zboza i produkty zbozowe,wafel,40
+Ziarno pszenicy,337,kcal,g,zboza i produkty zbozowe,szklanka,113
+Burrito,163,kcal,g,dania i posilki,porcja,200
+Chili con Carne,105,kcal,g,dania i posilki,burrito,200
+Enchilada,168,kcal,g,dania i posilki,szklanka,253
+Fahita,117,kcal,g,dania i posilki,enchilada,192
+Galareta mięsna,115,kcal,g,dania i posilki,porcja,248
+Gołąbki,108,kcal,g,dania i posilki,paczka,125
+Groch,330,kcal,g,dania i posilki,sztuka,160
+Gulasz wołowy,95,kcal,g,dania i posilki,2 szklanki,92
+Hummus,177,kcal,g,dania i posilki,szklanka,196
+Kaczka po pekińsku,225,kcal,g,dania i posilki,szklanka,246
+Kebab,215,kcal,g,dania i posilki,2 kaczki,178
+Kiełbasa duszona z cebulką,263,kcal,g,dania i posilki,kebeb,360
+Kurczak pieczony,164,kcal,g,dania i posilki,porcja,140
+Lazania,132,kcal,g,dania i posilki,pierś,172
+Makaron z serem,370,kcal,g,dania i posilki,porcja,215
+Paella,156,kcal,g,dania i posilki,porcja,189
+Pieczeń rzymska,254,kcal,g,dania i posilki,porcja,400
+Pieczeń wołowa,111,kcal,g,dania i posilki,plasterek,284
+Pieczona fasola,94,kcal,g,dania i posilki,plasterek,21
+Pilaw,108,kcal,g,dania i posilki,szklanka,260
+Pizza,267,kcal,g,dania i posilki,porcja,270
+Ravioli,203,kcal,g,dania i posilki,kawałek,102
+Risotto,118,kcal,g,dania i posilki,ravioli,66
+Ryba z frytkami,195,kcal,g,dania i posilki,porcja,300
+Ryż brązowy,362,kcal,g,dania i posilki,porcja,300
+Ryż smażony,186,kcal,g,dania i posilki,szklanka,185
+Sajgonki,250,kcal,g,dania i posilki,porcja,356
+Sałatka cesarska z kurczakiem,127,kcal,g,dania i posilki,sztuka,140
+Sałatka ziemniaczana,143,kcal,g,dania i posilki,sałatka,309
+Spaghetti Bolognese,132,kcal,g,dania i posilki,3 szklanki,95
+Taco,217,kcal,g,dania i posilki,porcja,283
+Wieprzowina z kością,225,kcal,g,dania i posilki,taco,98
+Ziemniaki tłuczone,83,kcal,g,dania i posilki,kawałek,131
+Zupa z groszku zielonego,75,kcal,g,dania i posilki,szklanka,210
+Barszcz z uszkami,82,kcal,g,zupy,porcja,240
+Bulion,16,kcal,g,zupy,porcja,230
+Bulion wołowy,3,kcal,g,zupy,szklanka,244
+Bulion z kurczaka,4,kcal,g,zupy,szklanka,240
+Fasolka w sosie,133,kcal,g,zupy,szklanka,241
+Gulasz,50,kcal,g,zupy,szklanka,252
+Kapuśniak,28,kcal,g,zupy,porcja,187
+Ramen,436,kcal,g,zupy,szklanka,245
+Ramen błyskawiczny,436,kcal,g,zupy,paczka,85
+Rosół z kurczaka,16,kcal,g,zupy,paczka,85
+Rosół z kurczaka z makaronem,25,kcal,g,zupy,szklanka,244
+Wywar warzywny,5,kcal,g,zupy,szklanka,248
+Zalewajka,38,kcal,g,zupy,szklanka,235
+Zupa brokułowa,87,kcal,g,zupy,porcja,240
+Zupa cebulowa,23,kcal,g,zupy,szklanka,237
+Zupa grzybowa,35,kcal,g,zupy,szklanka,243
+Zupa jarzynowa,28,kcal,g,zupy,szklanka,244
+Zupa krem cebulowa,44,kcal,g,zupy,szklanka,241
+Zupa krem grzybowa,39,kcal,g,zupy,szklanka,244
+Zupa krem z brokułów,45,kcal,g,zupy,szklanka,248
+Zupa krem z homarów,100,kcal,g,zupy,porcja,310
+Zupa krem z kurczaka,48,kcal,g,zupy,szklanka,248
+Zupa krem z kurczaka z makaronem,23,kcal,g,zupy,szklanka,244
+Zupa krem z selera,37,kcal,g,zupy,szklanka,245
+Zupa krem ze szparagów,35,kcal,g,zupy,szklanka,248
+Zupa krem ziemniaczana,30,kcal,g,zupy,szklanka,244
+Zupa marchewkowa,25,kcal,g,zupy,szklanka,244
+Zupa marchewkowa z imbirem,25,kcal,g,zupy,porcja,381
+Zupa Minestrone,34,kcal,g,zupy,porcja,381
+Zupa ogonowa,28,kcal,g,zupy,szklanka,241
+Zupa pomidorowa,30,kcal,g,zupy,szklanka,244
+Zupa pomidorowa z ryżem,47,kcal,g,zupy,szklanka,248
+Zupa tajska,60,kcal,g,zupy,szklanka,247
+Zupa wołowa,33,kcal,g,zupy,szklanka,245
+Zupa z dyni,29,kcal,g,zupy,szklanka,213
+Zupa z groszku,75,kcal,g,zupy,szklanka,245
+Zupa z klopsikami,49,kcal,g,zupy,szklanka,253
+Zupa z kurczakiem i ryżem,24,kcal,g,zupy,szklanka,245
+Zupa z kurczakiem i warzywami,31,kcal,g,zupy,szklanka,243
+Zupa z makaronem,34,kcal,g,zupy,szklanka,248
+Zupa z makaronem alfabetem,25,kcal,g,zupy,szklanka,244
+Zupa z serem i brokułami,87,kcal,g,zupy,szklanka,248
+Zupa z soczewicy,56,kcal,g,zupy,szklanka,303
+Zupa z wołowiną i makaronem,34,kcal,g,zupy,szklanka,248
+Zupa ziemniaczana,80,kcal,g,zupy,szklanka,244
+Żurek,108,kcal,g,zupy,porcja,240
+Chlebowiec,191,kcal,g,orzechy i nasiona,plasterek,286
+Fasola pinto,347,kcal,g,orzechy i nasiona,sztuka,30
+Groszek,81,kcal,g,orzechy i nasiona,szklanka,193
+Kasztan,213,kcal,g,orzechy i nasiona,szklanka,145
+Kiełki alfa-alfa,23,kcal,g,orzechy i nasiona,szklanka,145
+Kokos,354,kcal,g,orzechy i nasiona,szklanka,33
+Migdały,575,kcal,g,orzechy i nasiona,kokos,397
+Nasiona bawełny,506,kcal,g,orzechy i nasiona,szklanka,95
+Nasiona lotosu,89,kcal,g,orzechy i nasiona,szklanka,149
+Nasiona maku,525,kcal,g,orzechy i nasiona,szklanka,145
+Nasiona sezamu,573,kcal,g,orzechy i nasiona,łyżka,8.8
+Nasiona szałwii hiszpańskiej,486,kcal,g,orzechy i nasiona,szklanka,144
+Nasiona słonecznika,584,kcal,g,orzechy i nasiona,paczka,340
+Nerkowiec,553,kcal,g,orzechy i nasiona,szklanka,140
+Orzechy brazylijskie,656,kcal,g,orzechy i nasiona,paczka,150
+Orzechy Ginkgo,182,kcal,g,orzechy i nasiona,szklanka,133
+Orzechy hikory,657,kcal,g,orzechy i nasiona,szklanka,145
+Orzechy laskowe,628,kcal,g,orzechy i nasiona,szklanka,120
+Orzechy Macadamia,718,kcal,g,orzechy i nasiona,szklanka,75
+Orzechy pecan,691,kcal,g,orzechy i nasiona,szklanka,134
+Orzechy włoskie,654,kcal,g,orzechy i nasiona,szklanka,99
+Orzeszki bukowe,576,kcal,g,orzechy i nasiona,szklanka,80
+Orzeszki pini,673,kcal,g,orzechy i nasiona,szklanka,129
+Orzeszki ziemne,567,kcal,g,orzechy i nasiona,szklanka,135
+Pestki dyni,559,kcal,g,orzechy i nasiona,szklanka,146
+Pestki dyni piżmowej,612,kcal,g,orzechy i nasiona,szklanka,129
+Pistacje,562,kcal,g,orzechy i nasiona,szklanka,120
+Siemię lniane,534,kcal,g,orzechy i nasiona,szklanka,123
+Soja,147,kcal,g,orzechy i nasiona,szklanka,168
+Słodkie kasztany,194,kcal,g,orzechy i nasiona,szklanka,256
+Żołędzie,387,kcal,g,orzechy i nasiona,szklanka,145
+Ciecierzyca,364,kcal,g,rosliny straczkowe,porcja,250
+Ciecierzyca czarna,364,kcal,g,rosliny straczkowe,łyżka,12.5
+Dynia piżmowa,612,kcal,g,rosliny straczkowe,szklanka,200
+Fasola Azuki,366,kcal,g,rosliny straczkowe,szklanka,120
+Fasola biała,336,kcal,g,rosliny straczkowe,porcja,50
+Fasola czarna,341,kcal,g,rosliny straczkowe,szklanka,215
+Fasola czerwona,124,kcal,g,rosliny straczkowe,łyżka,12.1
+Fasola flageolet,85,kcal,g,rosliny straczkowe,szklanka,266
+Fasola kidney,337,kcal,g,rosliny straczkowe,porcja,100
+Fasola mung / Fasola złota,12,kcal,g,rosliny straczkowe,szklanka,184
+Fasola Mungo,331,kcal,g,rosliny straczkowe,szklanka,125
+Fasola pinto,347,kcal,g,rosliny straczkowe,porcja,100
+Fasola z chili,97,kcal,g,rosliny straczkowe,szklanka,193
+Fasolka zielona,31,kcal,g,rosliny straczkowe,szklanka,253
+Groch,230,kcal,g,rosliny straczkowe,szklanka,100
+Groszek w strączkach,42,kcal,g,rosliny straczkowe,porcja,100
+Groszek zielony,42,kcal,g,rosliny straczkowe,porcja,100
+Jogurt sojowy,66,kcal,g,rosliny straczkowe,szklanka,63
+Kasztan jadalny,210,kcal,g,rosliny straczkowe,paczka,500
+Kiełki fasoli,30,kcal,g,rosliny straczkowe,porcja,100
+Majonez sojowy,322,kcal,g,rosliny straczkowe,szklanka,104
+Miso,199,kcal,g,rosliny straczkowe,łyżka,15
+Orzeszki pekan,691,kcal,g,rosliny straczkowe,szklanka,275
+Orzeszki sojowe,471,kcal,g,rosliny straczkowe,szklanka,99
+Orzeszki ziemne,567,kcal,g,rosliny straczkowe,szklanka,256
+Piżmian,33,kcal,g,rosliny straczkowe,paczka,300
+Pędy bambusa,27,kcal,g,rosliny straczkowe,szklanka,100
+Ser tofu bardzo twardy,91,kcal,g,rosliny straczkowe,szklanka,151
+Ser tofu twardy,70,kcal,g,rosliny straczkowe,5 kostki,91
+Ser z soi,235,kcal,g,rosliny straczkowe,4 kostki,81
+Soczewica,353,kcal,g,rosliny straczkowe,plasterek,17
+Soczewica brązowa,353,kcal,g,rosliny straczkowe,szklanka,192
+Soczewica czerwona,329,kcal,g,rosliny straczkowe,szklanka,192
+Soczewica zielona,257,kcal,g,rosliny straczkowe,szklanka,197
+Soczewica żółta,304,kcal,g,rosliny straczkowe,szklanka, suszona,60
+Soja,147,kcal,g,rosliny straczkowe,szklanka,200
+Tempeh,193,kcal,g,rosliny straczkowe,szklanka,256
+Tofu,76,kcal,g,rosliny straczkowe,szklanka,166
+Tofu głęboko smażony,271,kcal,g,rosliny straczkowe,2 szklanki,124
+Tofu miękkie,55,kcal,g,rosliny straczkowe,4 kostki,81
+Margaryna,0,kcal,g,oleje i tluszcze,łyżka,14 
+Masło,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej canola,0,kcal,g,oleje i tluszcze,łyżka,15 
+Olej kokosowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej kukurydziany,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej lniany,0,kcal,g,oleje i tluszcze,łyżka,15 
+Olej macademia,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej migdałowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej musztardowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej palmowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej sezamowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej sojowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej słonecznikowy,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z awokado,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z krokosza barwierskiego,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z nasion bawełny,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z nasion winogron,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z orzechów włoskich,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z orzeszków ziemnych,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej z sardynek,0,kcal,g,oleje i tluszcze,łyżka,14 
+Olej ze śledzia,0,kcal,g,oleje i tluszcze,łyżka,14 
+Oliwa z oliwek,0,kcal,g,oleje i tluszcze,łyżka,14 
+Smalec,0,kcal,g,oleje i tluszcze,łyżka,15 
+Tran z wątroby dorsza,0,kcal,g,oleje i tluszcze,łyżka,13 
+Olej arganowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej babassu,0,kcal,g,oleje roslinne,łyżka,14 
+Olej kokosowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej kukurydziany,0,kcal,g,oleje roslinne,łyżka,14 
+Olej lniany,0,kcal,g,oleje roslinne,łyżka,15 
+Olej migdałowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej musztardowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej owsiany,0,kcal,g,oleje roslinne,łyżka,14 
+Olej palmowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej roślinny,0,kcal,g,oleje roslinne,łyżka,14 
+Olej sezamowy,0,kcal,g,oleje roslinne,łyżka,15 
+Olej shea,0,kcal,g,oleje roslinne,łyżka,14 
+Olej sojowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej słonecznikowy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z awokado,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z krokosza barwierskiego,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z nasion bawełny,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z nasion maku,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z orzechów laskowych,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z orzechów włoskich,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z orzeszków ziemnych,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z otrąb ryżowych,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z pestek dyni,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z pestek moreli,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z pestek pomidora,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z pestek winogron,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z zarodków pszenicy,0,kcal,g,oleje roslinne,łyżka,14 
+Olej z łososia,0,kcal,g,oleje roslinne,łyżka,14 
+Oliwa z oliwek,0,kcal,g,oleje roslinne,łyżka,14 
+Dżem jagodowy,250,kcal,g,pasty,łyżka ,20
+Dżem jeżynowy,250,kcal,g,pasty,łyżka ,20
+Dżem malinowy,240,kcal,g,pasty,łyżka ,20
+Dżem morelowy,250,kcal,g,pasty,łyżka ,20
+Dżem pomarańczowy,246,kcal,g,pasty,łyżka ,20
+Dżem truskawkowy,250,kcal,g,pasty,łyżka ,20
+Dżem wiśniowy,250,kcal,g,pasty,łyżka ,20
+Dżem z czarnej porzeczki,250,kcal,g,pasty,łyżka ,20
+Dżem śliwkowy,250,kcal,g,pasty,łyżka ,20
+Jajko,97,kcal,g,pasty,łyżka ,20
+Konfitura,278,kcal,g,pasty,jajko,56
+Konfitura truskawkowa,250,kcal,g,pasty,łyżka ,20
+Konfitura winogronowa,255,kcal,g,pasty,łyżka ,20
+Krem czekoladowy,541,kcal,g,pasty,łyżka ,20
+Margaryna,717,kcal,g,pasty,łyżeczka,12
+Masło,717,kcal,g,pasty,łyżka ,14
+Masło migdałowe,614,kcal,g,pasty,szklanka,227
+Masło orzechowe,589,kcal,g,pasty,łyżka ,16
+Masło roślinne,721,kcal,g,pasty,łyżka ,16
+Masło solone,717,kcal,g,pasty,łyżka ,20
+Miód,304,kcal,g,pasty,szklanka,227
+Miód dzikich pszczół,286,kcal,g,pasty,łyżka ,21
+Mus jabłkowy,68,kcal,g,pasty,łyżka ,21
+Nutella,544,kcal,g,pasty,szklanka,255
+Paprykarz,179,kcal,g,pasty,porcja,15
+Pasta z drożdży,180,kcal,g,pasty,łyżka ,20
+Pasta z łososia,267,kcal,g,pasty,łyżeczka,5
+Pasztet,319,kcal,g,pasty,łyżka ,20
+Pasztet sojowy,274,kcal,g,pasty,łyżka ,13
+Pasztetowa,305,kcal,g,pasty,łyżka ,20
+Powidła śliwkowe,209,kcal,g,pasty,plasterek,18
+Serek Almette z ziołami,118,kcal,g,pasty,łyżka ,20
+Serek Almette śmietankowy,270,kcal,g,pasty,łyżka ,20
+Serek kremowy,342,kcal,g,pasty,łyżka ,20
+Serek topiony,290,kcal,g,pasty,szklanka,232
+Serek śmietankowy Philadelphia,342,kcal,g,pasty,łyżka ,15
+Balistyda,93,kcal,g,ryby i owoce morza,filet ,144
+Barwena,150,kcal,g,ryby i owoce morza,porcja,28.4
+Chanos,190,kcal,g,ryby i owoce morza,filet ,93
+Dorsz,105,kcal,g,ryby i owoce morza,porcja,48
+Dorsz atlantycki,172,kcal,g,ryby i owoce morza,filet ,180
+Flądra,86,kcal,g,ryby i owoce morza,filet ,154
+Granik,118,kcal,g,ryby i owoce morza,filet ,127
+Halibut,111,kcal,g,ryby i owoce morza,filet ,202
+Homar,89,kcal,g,ryby i owoce morza,2 fileta,200
+Homary w cieście,84,kcal,g,ryby i owoce morza,homar,150
+Jesiotr,135,kcal,g,ryby i owoce morza,sztuka,10
+Kalmary,175,kcal,g,ryby i owoce morza,szklanka,136
+Karp,162,kcal,g,ryby i owoce morza,sztuka,12
+Kawior,264,kcal,g,ryby i owoce morza,filet ,170
+Kulbak czerwony,94,kcal,g,ryby i owoce morza,łyżka,16
+Leszcz,135,kcal,g,ryby i owoce morza,porcja,57
+Lucjan czerwony,87,kcal,g,ryby i owoce morza,porcja,125
+Makrela,262,kcal,g,ryby i owoce morza,filet ,170
+Małż,148,kcal,g,ryby i owoce morza,filet ,88
+Miecznik,172,kcal,g,ryby i owoce morza,paczka,115
+Miruna,121,kcal,g,ryby i owoce morza,sztuka,106
+Molwa,128,kcal,g,ryby i owoce morza,porcja,70
+Morszczuk,71,kcal,g,ryby i owoce morza,filet ,151
+Okoń morski,124,kcal,g,ryby i owoce morza,filet ,113
+Omułek,172,kcal,g,ryby i owoce morza,filet ,124
+Ośmiornica,164,kcal,g,ryby i owoce morza,porcja,48
+Paluszki rybne,290,kcal,g,ryby i owoce morza,porcja,48
+Pollachius,111,kcal,g,ryby i owoce morza,sztuka,28
+Przegrzebki,111,kcal,g,ryby i owoce morza,filet ,151
+Pstrąg,190,kcal,g,ryby i owoce morza,przegrzebek,10
+Rak,82,kcal,g,ryby i owoce morza,filet ,62
+Rekin,130,kcal,g,ryby i owoce morza,rak,12
+Rolmopsy,171,kcal,g,ryby i owoce morza,porcja,85
+Ryba maślana,187,kcal,g,ryby i owoce morza,rolmops,65
+Sandacz,84,kcal,g,ryby i owoce morza,filet ,25
+Sardela,131,kcal,g,ryby i owoce morza,filet ,62
+Sardynki,208,kcal,g,ryby i owoce morza,porcja,48
+Sałatka z tuńczyka,187,kcal,g,ryby i owoce morza,szklanka,149
+Skarp,122,kcal,g,ryby i owoce morza,szklanka,205
+Sola,86,kcal,g,ryby i owoce morza,2 fileta,159
+Solandra,109,kcal,g,ryby i owoce morza,filet ,127
+Stynka,124,kcal,g,ryby i owoce morza,porcja,100
+Sushi,150,kcal,g,ryby i owoce morza,porcja,85
+Szczupak,113,kcal,g,ryby i owoce morza,sztuka,26
+Tesegral,159,kcal,g,ryby i owoce morza,2 fileta,155
+Tuńczyk,132,kcal,g,ryby i owoce morza,filet ,117
+Witlinek,116,kcal,g,ryby i owoce morza,2 fileta,154
+Węgorz,236,kcal,g,ryby i owoce morza,filet ,72
+Łosoś,206,kcal,g,ryby i owoce morza,porcja,48
+Łupacz,90,kcal,g,ryby i owoce morza,2 fileta,178
+Śledź,203,kcal,g,ryby i owoce morza,filet ,150
+Śledź marynowany,262,kcal,g,ryby i owoce morza,filet ,143
+Śledź wędzony,217,kcal,g,ryby i owoce morza,szklanka,140
+Białko jaja,13,kcal,g,skladniki do pieczenia,łyżka,5
+Chipsy czekoladowe,467,kcal,g,skladniki do pieczenia,białko,25
+Cukier,21,kcal,g,skladniki do pieczenia,łyżka,15
+Cukier brązowy,395,kcal,g,skladniki do pieczenia,łyżeczka,5
+Cukier granulowany,387,kcal,g,skladniki do pieczenia,szklanka,220
+Cukier kandyzowany,625,kcal,g,skladniki do pieczenia,paczka,2.8
+Cukier puder,389,kcal,g,skladniki do pieczenia,łyżeczka,4
+Cukier trzcinowy,387,kcal,g,skladniki do pieczenia,szklanka, nieprzesiane,120
+Cukier waniliowy,357,kcal,g,skladniki do pieczenia,łyżka,5
+Cynamon mielony,247,kcal,g,skladniki do pieczenia,łyżeczka,2.4
+Drożdże (suszone),325,kcal,g,skladniki do pieczenia,łyżeczka,2.6
+Drożdże świeże,83,kcal,g,skladniki do pieczenia,łyżeczka,4
+Ekstrakt miętowy,0,kcal,g,skladniki do pieczenia,kostka,42
+Ekstrakt waniliowy,288,kcal,g,skladniki do pieczenia,łyżeczka,5
+Ekstrakt z migdałów,258,kcal,g,skladniki do pieczenia,łyżka,13
+Figi suszone,249,kcal,g,skladniki do pieczenia,łyżka,8
+Fruktoza,368,kcal,g,skladniki do pieczenia,figa,8.4
+Glukoza,286,kcal,g,skladniki do pieczenia,łyżeczka,4
+Imbir kandyzowany,335,kcal,g,skladniki do pieczenia,łyżka,20
+Jajko,97,kcal,g,skladniki do pieczenia,łyżka,5.2
+Jajo kacze,185,kcal,g,skladniki do pieczenia,jajko,60
+Jogurt,61,kcal,g,skladniki do pieczenia,jajo,70
+Kakao w proszku,228,kcal,g,skladniki do pieczenia,szklanka,227
+Konfitura truskawkowa,278,kcal,g,skladniki do pieczenia,łyżka,5.4
+Krokant,592,kcal,g,skladniki do pieczenia,łyżka,20
+Ksylitol,240,kcal,g,skladniki do pieczenia,szklanka,75
+Kuwertura,600,kcal,g,skladniki do pieczenia,łyżeczka,4
+Mak,525,kcal,g,skladniki do pieczenia,paczka,200
+Malititol,210,kcal,g,skladniki do pieczenia,łyżka,8.8
+Maltodekstryna,375,kcal,g,skladniki do pieczenia,łyżeczka,4.5
+Maltoza,344,kcal,g,skladniki do pieczenia,łyżeczka,3.2
+Margaryna,884,kcal,g,skladniki do pieczenia,łyżka,13
+Masło,717,kcal,g,skladniki do pieczenia,łyżka,12.8
+Maślanka,62,kcal,g,skladniki do pieczenia,szklanka,227
+Melasa,290,kcal,g,skladniki do pieczenia,szklanka,245
+Migdały,529,kcal,g,skladniki do pieczenia,szklanka,337
+Miód,304,kcal,g,skladniki do pieczenia,szklanka,92
+Mleko kokosowe,50,kcal,g,skladniki do pieczenia,łyżka ,21
+Mleko odparowane,134,kcal,g,skladniki do pieczenia,szklanka,240
+Mleko pełne,61,kcal,g,skladniki do pieczenia,szklanka,252
+Mleko ryżowe,49,kcal,g,skladniki do pieczenia,szklanka,244
+Mleko skondensowane słodzone,321,kcal,g,skladniki do pieczenia,szklanka,245
+Mleko sojowe,41,kcal,g,skladniki do pieczenia,szklanka,306
+Mleko w proszku,496,kcal,g,skladniki do pieczenia,szklanka,243
+Morele suszone,241,kcal,g,skladniki do pieczenia,szklanka,68
+Mąka,364,kcal,g,skladniki do pieczenia,szklanka, w połówkach,130
+Mąka /kaszka kukurydziana,361,kcal,g,skladniki do pieczenia,szklanka,120
+Mąka pełnoziarnista,340,kcal,g,skladniki do pieczenia,szklanka,117
+Mąka z semoliny,350,kcal,g,skladniki do pieczenia,szklanka,120
+Napój ze słodu w proszku,405,kcal,g,skladniki do pieczenia,szklanka,120
+Nasiona słonecznika,117,kcal,g,skladniki do pieczenia,łyżka,7
+Olej roślinny,884,kcal,g,skladniki do pieczenia,porcja,20
+Orzechy laskowe,628,kcal,g,skladniki do pieczenia,łyżka,13.6
+Orzechy włoskie,131,kcal,g,skladniki do pieczenia,szklanka, mielone,75
+Posypka czekoladowa,500,kcal,g,skladniki do pieczenia,orzech,20
+Posypka do ciasta,475,kcal,g,skladniki do pieczenia,łyżka,5
+Posypka perełkowa do ciasta,500,kcal,g,skladniki do pieczenia,łyżka,5
+Proszek do pieczenia,53,kcal,g,skladniki do pieczenia,łyżeczka,2
+Proszek proteinowy,411,kcal,g,skladniki do pieczenia,łyżeczka,4.6
+Płatki kokosowe,456,kcal,g,skladniki do pieczenia,łyżka,11
+Płatki owsiane,384,kcal,g,skladniki do pieczenia,szklanka,85
+Rodzynki,474,kcal,g,skladniki do pieczenia,szklanka,156
+Rum,246,kcal,g,skladniki do pieczenia,szklanka,165
+Rum ciemny,216,kcal,g,skladniki do pieczenia,porcja,40
+Sacharoza,387,kcal,g,skladniki do pieczenia,porcja,40
+Sezam,573,kcal,g,skladniki do pieczenia,łyżeczka,4
+Skrobia,381,kcal,g,skladniki do pieczenia,szklanka,144
+Skrobia kukurydziana,381,kcal,g,skladniki do pieczenia,szklanka,128
+Skórka pomarańczowa kandyzowana,97,kcal,g,skladniki do pieczenia,szklanka,128
+Soda oczyszczona,0,kcal,g,skladniki do pieczenia,łyżka,6
+Sorbitol,375,kcal,g,skladniki do pieczenia,łyżka,4.6
+Syrop glukozowy,387,kcal,g,skladniki do pieczenia,łyżeczka,4
+Syrop klonowy,270,kcal,g,skladniki do pieczenia,4 szklanki,55
+Syrop kukurydziany,281,kcal,g,skladniki do pieczenia,4 szklanki,55
+Syrop z agawy,310,kcal,g,skladniki do pieczenia,łyżka,19
+Słodzik,360,kcal,g,skladniki do pieczenia,4 szklanki,55
+Słód w proszku,361,kcal,g,skladniki do pieczenia,paczka,1
+Twarożek śmietankowy,54,kcal,g,skladniki do pieczenia,szklanka,162
+Winian potasu,258,kcal,g,skladniki do pieczenia,porcja,20
+Wiórki kokosowe,501,kcal,g,skladniki do pieczenia,łyżka,15
+Śliwki suszone,107,kcal,g,skladniki do pieczenia,szklanka,93
+Śmietana kremówka,345,kcal,g,skladniki do pieczenia,szklanka, bez pestek,248
+Żelatyna,335,kcal,g,skladniki do pieczenia,szklanka, ubita,120
+Żurawina suszona,308,kcal,g,skladniki do pieczenia,łyżka,7
+Żółtko jaja,322,kcal,g,skladniki do pieczenia,3 szklanki,40
+Chrzan,48,kcal,g,sosy i dressingi,łyżka,15
+Harissa,52,kcal,g,sosy i dressingi,łyżka,15
+Jus,53,kcal,g,sosy i dressingi,łyżka,15
+Ketchup,100,kcal,g,sosy i dressingi,szklanka,233
+Ketchup curry,124,kcal,g,sosy i dressingi,łyżka,15
+Kwaśna śmietana,217,kcal,g,sosy i dressingi,łyżka,15
+Majonez,692,kcal,g,sosy i dressingi,łyżka,12
+Musztarda,60,kcal,g,sosy i dressingi,łyżka,13
+Pasta sezamowa,595,kcal,g,sosy i dressingi,łyżeczka,5
+Pesto,458,kcal,g,sosy i dressingi,łyżka,15
+Przecier pomidorowy,82,kcal,g,sosy i dressingi,łyżka,15
+Puree pomidorowe,38,kcal,g,sosy i dressingi,łyżka,17
+Sos barbecue,150,kcal,g,sosy i dressingi,łyżka,15
+Sos beareński,414,kcal,g,sosy i dressingi,łyżka,15
+Sos beszamelowy,225,kcal,g,sosy i dressingi,łyżka,15
+Sos bolognese,106,kcal,g,sosy i dressingi,łyżka,15
+Sos Chasseur,45,kcal,g,sosy i dressingi,szklanka,226
+Sos chili,112,kcal,g,sosy i dressingi,łyżka,15
+Sos curry,26,kcal,g,sosy i dressingi,łyżka,18
+Sos do sałatek włoski,293,kcal,g,sosy i dressingi,łyżka,17
+Sos hamburgerowy,383,kcal,g,sosy i dressingi,łyżka,15
+Sos holenderski,535,kcal,g,sosy i dressingi,łyżka,15
+Sos musztardowy,645,kcal,g,sosy i dressingi,łyżka,15
+Sos pomarańczowy,179,kcal,g,sosy i dressingi,łyżka,13
+Sos pomidorowy,24,kcal,g,sosy i dressingi,łyżka,15
+Sos Remoulade,635,kcal,g,sosy i dressingi,szklanka,245
+Sos sałatkowy,449,kcal,g,sosy i dressingi,łyżka,13
+Sos sałatkowy cezar,429,kcal,g,sosy i dressingi,łyżka,16
+Sos sałatkowy francuski,60,kcal,g,sosy i dressingi,łyżka,15
+Sos sałatkowy grecki,467,kcal,g,sosy i dressingi,łyżka,15
+Sos sałatkowy jogurtowy,45,kcal,g,sosy i dressingi,łyżka,15
+Sos sałatkowy musztardowo-miodowy,464,kcal,g,sosy i dressingi,łyżka,15
+Sos sałatkowy Ranch,510,kcal,g,sosy i dressingi,łyżka,16
+Sos sojowy,67,kcal,g,sosy i dressingi,łyżka,15
+Sos słodko-kwaśny,179,kcal,g,sosy i dressingi,łyżka,15
+Sos Teriyaki,89,kcal,g,sosy i dressingi,łyżka,15
+Sos Vinaigrette,120,kcal,g,sosy i dressingi,łyżka,18
+Sos vinaigrette balsamiczny,290,kcal,g,sosy i dressingi,łyżka,15
+Sos Worcestershire,78,kcal,g,sosy i dressingi,łyżka,16
+Sos z kwaśniej śmietany,60,kcal,g,sosy i dressingi,łyżka,15
+Sos śmietanowy,180,kcal,g,sosy i dressingi,łyżka,15
+Tabasco,70,kcal,g,sosy i dressingi,szklanka,244
+Tzatziki,94,kcal,g,sosy i dressingi,łyżeczka,5
+Babka Panettone,318,kcal,g,wyroby cukiernicze chleb i wypieki,babeczka,43
+Bagietka,274,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,27
+Bajgiel,257,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,60
+Biszkopty,269,kcal,g,wyroby cukiernicze chleb i wypieki,bajgiel,98
+Brioszka,346,kcal,g,wyroby cukiernicze chleb i wypieki,biszkopt,58
+Bułeczki cynamonowe,436,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,31
+Bułka,316,kcal,g,wyroby cukiernicze chleb i wypieki,bułka,65
+Bułka do hot dogów,279,kcal,g,wyroby cukiernicze chleb i wypieki,bułka,38
+Bułka grahamka,254,kcal,g,wyroby cukiernicze chleb i wypieki,bułka,43
+Bułka maślana,325,kcal,g,wyroby cukiernicze chleb i wypieki,rożek,58
+Bułka preclowa,338,kcal,g,wyroby cukiernicze chleb i wypieki,bułka maślana,90
+Bułka słodka,292,kcal,g,wyroby cukiernicze chleb i wypieki,sztuka,60
+Cannolo,254,kcal,g,wyroby cukiernicze chleb i wypieki,ztuka ,105
+Chałka,283,kcal,g,wyroby cukiernicze chleb i wypieki,porcja,85
+Chleb bananowy,326,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,23
+Chleb biały,238,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,28.4
+Chleb graham,212,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,28
+Chleb kukurydziany,179,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,50
+Chleb na zakwasie,289,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,28.4
+Chleb Naan,275,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,35
+Chleb Pita,275,kcal,g,wyroby cukiernicze chleb i wypieki,chlebek,160
+Chleb pszenny pełnoziarnisty,247,kcal,g,wyroby cukiernicze chleb i wypieki,chlebek,50
+Chleb razowy,250,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,46
+Chleb sodowy,290,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,26
+Chleb tostowy,240,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,28.4
+Chleb wieloziarnisty,265,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,30
+Chleb włoski,271,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,26
+Chleb z rodzynkami,274,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,30
+Chleb ziemniaczany,266,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,32
+Chleb żytni,259,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,32
+Ciabatta,271,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,28.4
+Ciasteczka owsiane,450,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,20
+Ciastko scone,362,kcal,g,wyroby cukiernicze chleb i wypieki,ciasteczko,25
+Ciasto czekoladowe,405,kcal,g,wyroby cukiernicze chleb i wypieki,ciastko,40
+Ciasto francuskie,558,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,40
+Ciasto kruche,544,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,47
+Crumpet,178,kcal,g,wyroby cukiernicze chleb i wypieki,porcja,50
+Czapati,240,kcal,g,wyroby cukiernicze chleb i wypieki,crumpet,55
+Focaccia (podstawa do pizzy),249,kcal,g,wyroby cukiernicze chleb i wypieki,placek,50
+Grissini,400,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,57
+Kajzerka,271,kcal,g,wyroby cukiernicze chleb i wypieki,grissini,5
+Kanapka,304,kcal,g,wyroby cukiernicze chleb i wypieki,kajzerka,65
+Maca,351,kcal,g,wyroby cukiernicze chleb i wypieki,kanapka,83
+Mini pizza,250,kcal,g,wyroby cukiernicze chleb i wypieki,maca,28
+Muffinka,296,kcal,g,wyroby cukiernicze chleb i wypieki,pizza,90
+Naleśnik,233,kcal,g,wyroby cukiernicze chleb i wypieki,muffinka,71
+Naleśniki Crêpe,224,kcal,g,wyroby cukiernicze chleb i wypieki,naleśnik,38
+Pieczywo czosnkowe,350,kcal,g,wyroby cukiernicze chleb i wypieki,naleśnik,50
+Placuszki roti,264,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,43
+Podpłomyki,311,kcal,g,wyroby cukiernicze chleb i wypieki,placuszek,43
+Precel,338,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,50
+Pumpernikiel,250,kcal,g,wyroby cukiernicze chleb i wypieki,precel,115
+Pączek,421,kcal,g,wyroby cukiernicze chleb i wypieki,pumpernickel,36
+Rogal drożdżowy,177,kcal,g,wyroby cukiernicze chleb i wypieki,pączek,45
+Rogal maślany,322,kcal,g,wyroby cukiernicze chleb i wypieki,rożek,65
+Rogalik,406,kcal,g,wyroby cukiernicze chleb i wypieki,rogal maślany,65
+Rolada,313,kcal,g,wyroby cukiernicze chleb i wypieki,rogalik,57
+Rożek z jabłkiem,348,kcal,g,wyroby cukiernicze chleb i wypieki,sztuka,32
+Spanakopita,246,kcal,g,wyroby cukiernicze chleb i wypieki,rożek,82
+Suflet,204,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,57
+Szarlotka,237,kcal,g,wyroby cukiernicze chleb i wypieki,kubek,136
+Tarta,237,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,125
+Toast,261,kcal,g,wyroby cukiernicze chleb i wypieki,kawałek,125
+Tortilla,265,kcal,g,wyroby cukiernicze chleb i wypieki,kromka,33
+Bazylia,233,kcal,g,ziola i przyprawy,łyżeczka,2.1
+Botwina,19,kcal,g,ziola i przyprawy,łyżeczka,0.7
+Cebula,40,kcal,g,ziola i przyprawy,liść,48
+Cebula sproszkowana,341,kcal,g,ziola i przyprawy,cebula,85
+Chili,282,kcal,g,ziola i przyprawy,łyżeczka,2.4
+Chili w proszku,282,kcal,g,ziola i przyprawy,łyżka,8
+Chrzan,48,kcal,g,ziola i przyprawy,łyżeczka,2.7
+Curry,325,kcal,g,ziola i przyprawy,łyżka,15
+Cynamon,247,kcal,g,ziola i przyprawy,łyżka,6.3
+Czosnek,149,kcal,g,ziola i przyprawy,łyżka,7.9
+Czosnek sproszkowany,331,kcal,g,ziola i przyprawy,ząbek,3
+Ekstrakt z migdałów,374,kcal,g,ziola i przyprawy,łyżeczka,3.1
+Ekstrakt z wanilii,288,kcal,g,ziola i przyprawy,łyżka,10
+Estragon,295,kcal,g,ziola i przyprawy,łyżka,13
+Gałka muszkatołowa,525,kcal,g,ziola i przyprawy,łyżka,1.8
+Goździki,274,kcal,g,ziola i przyprawy,łyżeczka,2.2
+Imbir,80,kcal,g,ziola i przyprawy,łyżka,6.5
+Imbir kandyzowany,335,kcal,g,ziola i przyprawy,łyżeczka,2
+Jalepeno,13,kcal,g,ziola i przyprawy,łyżka,5.2
+Jałowiec,45,kcal,g,ziola i przyprawy,łyżeczka,3
+Kapary,23,kcal,g,ziola i przyprawy,szklanka,55
+Kolendra,23,kcal,g,ziola i przyprawy,łyżka,8.6
+Kolokazja,112,kcal,g,ziola i przyprawy,4 szklanki,4
+Koper,43,kcal,g,ziola i przyprawy,szklanka, w plasterkach,104
+Koper włoski,31,kcal,g,ziola i przyprawy,łodyżek,1
+Korzeń cykorii,72,kcal,g,ziola i przyprawy,koper,234
+Kumin,375,kcal,g,ziola i przyprawy,korzeń,60
+Kurkuma,354,kcal,g,ziola i przyprawy,łyżka,6
+Laska wanilii,250,kcal,g,ziola i przyprawy,łyżeczka,2.2
+Liście cykorii,23,kcal,g,ziola i przyprawy,sztuka,4
+Liście winogron,93,kcal,g,ziola i przyprawy,szklanka,29
+Lukrecja,375,kcal,g,ziola i przyprawy,liść ,3
+Maggi,104,kcal,g,ziola i przyprawy,łyżka,18
+Majeranek,271,kcal,g,ziola i przyprawy,łyżeczka,4
+Maniok,160,kcal,g,ziola i przyprawy,łyżka,1.7
+Mięta,70,kcal,g,ziola i przyprawy,korzeń,408
+Mniszek lekarski,45,kcal,g,ziola i przyprawy,łyżka,1.6
+Nasiona anyżu,337,kcal,g,ziola i przyprawy,szklanka,55
+Nasiona gorczycy,508,kcal,g,ziola i przyprawy,łyżeczka,2.1
+Nasiona kminku,333,kcal,g,ziola i przyprawy,łyżeczka,2
+Nasiona kopru włoskiego,345,kcal,g,ziola i przyprawy,łyżka,6.7
+Nasiona maku,525,kcal,g,ziola i przyprawy,łyżeczka,2
+Nasiona sezamu,573,kcal,g,ziola i przyprawy,łyżka,8.8
+Nasiona sezamu czarnego,573,kcal,g,ziola i przyprawy,szklanka,144
+Ocet,18,kcal,g,ziola i przyprawy,łyżka,9
+Ocet balsamiczny,88,kcal,g,ziola i przyprawy,łyżka,14.9
+Ocet jabłkowy,21,kcal,g,ziola i przyprawy,łyżka,16
+Ocet winny czerwony,19,kcal,g,ziola i przyprawy,łyżka,14.9
+Oregano,265,kcal,g,ziola i przyprawy,łyżka,14.9
+Papryka,251,kcal,g,ziola i przyprawy,łyżeczka,1
+Papryka czerwona,251,kcal,g,ziola i przyprawy,łyżeczka,2.4
+Pasternak,75,kcal,g,ziola i przyprawy,łyżeczka,3
+Pieprz biały,296,kcal,g,ziola i przyprawy,pasternak,170
+Pieprz cayenne,318,kcal,g,ziola i przyprawy,łyżeczka,2.4
+Pieprz czarny,251,kcal,g,ziola i przyprawy,łyżeczka,1.8
+Pietruszka,36,kcal,g,ziola i przyprawy,łyżeczka,2.4
+Piżmian,33,kcal,g,ziola i przyprawy,łyżka,3.8
+Rokietta siewna,25,kcal,g,ziola i przyprawy,łyżka,18
+Rosół,100,kcal,g,ziola i przyprawy,liść,2
+Rozmaryn,131,kcal,g,ziola i przyprawy,łyżeczka,5
+Rzeżucha,32,kcal,g,ziola i przyprawy,łyżka,1.7
+Siekana cebula,40,kcal,g,ziola i przyprawy,łodyżka,1
+Skórka pomarańczowa,97,kcal,g,ziola i przyprawy,szklanka,160
+Stewia,0,kcal,g,ziola i przyprawy,łyżka,6
+Szafran,310,kcal,g,ziola i przyprawy,łyżka,15
+Szałwia,315,kcal,g,ziola i przyprawy,łyżka,2.1
+Szczypiorek,30,kcal,g,ziola i przyprawy,łyżka,2
+Sól,0,kcal,g,ziola i przyprawy,łyżka,3
+Sól czosnkowa,0,kcal,g,ziola i przyprawy,łyżka,18
+Sól jodowana,0,kcal,g,ziola i przyprawy,4 łyżeczki,1
+Sól morska,0,kcal,g,ziola i przyprawy,łyżka,18
+Tamaryndowiec,239,kcal,g,ziola i przyprawy,łyżka,18
+Tymianek,276,kcal,g,ziola i przyprawy,tamaryndowiec,2
+Ziemniak słodki,118,kcal,g,ziola i przyprawy,łyżeczka,1

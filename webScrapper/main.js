@@ -62,44 +62,63 @@ const convertLinksToCategories = (links) => {
 };
 
 const getHtml = async (page, category) => {
-  const html = await page.evaluate((category) => {
-    const tbodyRows = Array.from(document.querySelectorAll("tbody > tr")).map(
-      (item) => {
+  const basicData = await page.$$eval(
+    "tbody > tr",
+    (data, category) => {
+      const rows = data.map((item) => {
         return Object.keys(item.childNodes)
+          .filter((key) => item.childNodes[key].innerText !== "100g")
           .map((key, index) => {
             const data = item.childNodes[key].innerText;
 
             if (index === 1) {
-              return Number(data.slice(0, 3));
-            }
-            if (index === 2) {
               return Number(data.substr(0, data.indexOf("kcal")));
             }
             return data;
           })
-          .slice(0, 3);
-      }
-    );
+          .slice(0, 2);
+      });
 
-    const rows = tbodyRows.map((item) => {
-      if (item[1] === 100) {
+      const extendRows = rows.map((item) => {
+        item.push("kcal");
         item.push("g");
-      }
+        item.push(category);
+        return item;
+      });
 
-      item.push("kcal");
-      item.push(category);
+      return extendRows;
+    },
+    category
+  );
 
-      return item.join(",");
+  const buttons = await page.$$(".calorie-filter-button");
+  await buttons[1].click();
+
+  const portions = await page.$$eval(".serving.portion", (data) => {
+    return data.slice(1, data.length).map((portion) => {
+      const portionText = portion.textContent;
+
+      const weightStart = portionText.indexOf("(");
+      const weightEnd = portionText.indexOf(")");
+
+      const portionName = portionText.substr(2, weightStart - 3);
+      const portionWeight = portionText.slice(weightStart + 1, weightEnd - 2);
+
+      return [portionName, portionWeight].join(",");
     });
+  });
 
-    return rows.join("\n");
-  }, category);
-  return html;
+  const newHtml = basicData
+    .slice(1, basicData.length)
+    .map((item, index) => [...item, portions[index]].join(","))
+    .join("\n");
+
+  return newHtml;
 };
 
 const scrapData = async (browser, categories) => {
   const headers = [
-    "Żywność,Porcja,Kalorie,Jednostka wagi,Jednostka kalorii,Kategoria",
+    "Żywność,Kalorie,JednostkaKalorii,JednostkaWagi,Kategoria,Porcja,WagaPorcji",
   ].join(",");
   const rows = await Promise.all(
     links.map(async (link, index) => {
@@ -127,7 +146,6 @@ const main = async () => {
   await browser.close();
   writeFile("data.csv", data);
   writeFile("categories.csv", categories.join("\n"));
-  console.log(categories);
 };
 
 main();
