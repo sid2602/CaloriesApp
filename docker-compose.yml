@@ -2,6 +2,19 @@ version: "3.8"
 networks:
   nesjs-network:
 services:
+  db:
+    image: postgres
+    hostname: postgres
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: user
+      POSTGRES_DB: caloriesdb
+    volumes:
+      - ./calories-app-backend/data:/data
+    ports:
+      - "5432:5432"
+    networks:
+      - nesjs-network
   calories-app-backend:
     container_name: calories-app-backend
     build:
@@ -11,6 +24,8 @@ services:
     ports:
       - "3000:3000"
       - "9229:9229"
+    depends_on:
+      - db
     networks:
       - nesjs-network
     volumes:
