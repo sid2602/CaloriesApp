@@ -1,7 +1,15 @@
-import { PrimaryGeneratedColumn, Entity, Column, BaseEntity } from 'typeorm';
+import {
+  PrimaryGeneratedColumn,
+  Entity,
+  Column,
+  BaseEntity,
+  OneToOne,
+  JoinColumn,
+} from 'typeorm';
+import { Category } from '../category/category.entity';
 
 @Entity()
-export class ProductEntity extends BaseEntity {
+export class Product extends BaseEntity {
   @PrimaryGeneratedColumn()
   id: number;
 
@@ -20,7 +28,8 @@ export class ProductEntity extends BaseEntity {
   @Column()
   weightUnit: string;
 
-  @Column()
+  @OneToOne(() => Category)
+  @JoinColumn()
   category: string;
 
   @Column()

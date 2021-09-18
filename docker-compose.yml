@@ -14,6 +14,26 @@ services:
       - docker.env
     networks:
       - nesjs-network
+  pgadmin:
+    container_name: pgadmin4_container
+    image: dpage/pgadmin4
+    restart: always
+    logging:
+      driver: none
+    networks:
+      - nesjs-network
+    environment:
+      PGADMIN_LISTEN_ADDRESS: 0.0.0.0
+      PGADMIN_LISTEN_PORT: 8080
+    env_file:
+      - pgadmin.env
+    ports:
+      - "5050:8080"
+    links:
+      - postgres
+    volumes:
+      - ./calories-app-backend/pgadmin:/pgadmin
+
   calories-app-backend:
     container_name: calories-app-backend
     build:
@@ -24,7 +44,7 @@ services:
       - "3000:3000"
       - "9229:9229"
     depends_on:
-      - db
+      - postgres
     networks:
       - nesjs-network
     volumes:

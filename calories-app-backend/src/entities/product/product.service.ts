@@ -1,9 +1,9 @@
 import { Injectable } from '@nestjs/common';
-import { ProductEntity } from './product.entity';
+import { Product } from './product.entity';
 @Injectable()
 export class ProductService {
   async getProducts() {
-    const products = await ProductEntity.find({});
+    const products = await Product.find({});
     return products;
   }
 }
