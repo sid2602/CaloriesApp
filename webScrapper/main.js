@@ -142,6 +142,7 @@ const writeFile = (fileName, data) => {
 const main = async () => {
   const browser = await puppeter.launch();
   const categories = convertLinksToCategories(links);
+  categories.unshift("category");
   const data = await scrapData(browser, categories);
   await browser.close();
   writeFile("data.csv", data);

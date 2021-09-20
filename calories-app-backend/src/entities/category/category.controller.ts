@@ -7,7 +7,11 @@ import {
   Param,
   Post,
   Put,
+  UploadedFile,
+  UseInterceptors,
 } from '@nestjs/common';
+import { FileInterceptor } from '@nestjs/platform-express';
+import { multerOptions } from 'src/helpers/multer-options';
 import { CategoryDto } from './category.dto';
 import { CategoryInterface } from './category.interface';
 import { CategoryService } from './category.service';
@@ -49,5 +53,12 @@ export class CategoryController {
   @HttpCode(204)
   async deleteCategory(@Param('id') id: number): Promise<void> {
     return await this.categoryService.deleteCategory(id);
+  }
+
+  @HttpCode(204)
+  @Post('/upload')
+  @UseInterceptors(FileInterceptor('file', multerOptions))
+  async UploadCategories(@UploadedFile() file) {
+    return await this.categoryService.importCategoriesFromCsv(file.filename);
   }
 }

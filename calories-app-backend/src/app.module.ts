@@ -7,6 +7,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Product } from './entities/product/product.entity';
 import { CategoryModule } from './entities/category/category.module';
 import { Category } from './entities/category/category.entity';
+import { ConsoleModule } from 'nestjs-console';
 
 @Module({
   imports: [

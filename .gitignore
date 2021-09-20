@@ -1,3 +1,4 @@
 node_modules
+pgadminData
 docker.env
 pgadmin.env
